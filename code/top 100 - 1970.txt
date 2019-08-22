@@ -1,0 +1,100 @@
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/01 - O mar serenou.mp3 | 139274
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/02.Vila Do Sossego.mp3 | 86891
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/09 Conto de Areia.mp3 | 80487
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/06-Asa Branca.mp3 | 59348
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/05 Asa Branca.mp3 | 59348
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/01. Avôhai.mp3 | 34240
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/05- Espelho cristalino.mp3 | 26269
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/01 Guerreira.mp3 | 26139
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/01-Ain't No Sunshine.mp3 | 21207
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/02 A vida do viajante.mp3 | 20400
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/04 Punhal de Prata.mp3 | 19747
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/03 Punhal de Prata.mp3 | 19747
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/05 - Tudo é ilusão.mp3 | 18844
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/04 Dia Branco.mp3 | 17048
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/01- Agalopado.mp3 | 16653
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/06 Assum preto.mp3 | 15806
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/01 Menino Deus.mp3 | 15149
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/06 Molhado de Suor.mp3 | 15110
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/04.A Noite Preta.mp3 | 14780
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/02 - Sofrimento de quem ama.mp3 | 14610
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/02- Maria dos Santos.mp3 | 13754
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/06 Papagaio do Futuro.mp3 | 13656
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/08 Papagaio do Futuro.mp3 | 13656
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/05 Cabelos Longos.mp3 | 13562
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/09 Numa Sala de Reboco.mp3 | 12542
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/07 Mensageira dos Anjos.mp3 | 12338
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/05 Meu sapato já furou.mp3 | 12286
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/07 O rei Pelé.mp3 | 12242
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1977 - E o Samba de Breque (Forró em vinil)/08 - Na subida do Morro.mp3 | 11737
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/02 Borboleta.mp3 | 11510
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/03- Anjo de fogo.mp3 | 11484
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/12 olha pro céu.mp3 | 11278
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/02 Descida da Ladeira.mp3 | 11126
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/03.Chão De Giz.mp3 | 11057
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/01 Boiadeiro.mp3 | 10923
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/01 O fole roncou.mp3 | 10912
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/03 o fole roncou.mp3 | 10912
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/09 - O último bloco.mp3 | 10905
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/07 Sol e Chuva.mp3 | 10526
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/03 - A Deusa dos Orixás.mp3 | 10395
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/01 Vou Danado Pra Catende.mp3 | 9762
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/04- Veneno.mp3 | 9571
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - São João Quente (Forró em vinil)/03 - Ovo de Codorna.mp3 | 9416
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/09 - Ninguém tem que achar ruim.mp3 | 9304
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/10 a morte do vaqueiro.mp3 | 8975
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/01 Cade meu carnaval.mp3 | 8890
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/05-Feira de Mangaio.mp3 | 8864
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/06- Eu Sou você.mp3 | 8806
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/12 - Que seja bem feliz.mp3 | 8553
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/09 Dente de Ocidente.mp3 | 8534
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/07 Alvorecer.mp3 | 8424
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/11 - Vai amor.mp3 | 8383
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/07 Jogo de Angola.mp3 | 8276
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/08- Sete léguas.mp3 | 7957
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/07 - Bafo de boca.mp3 | 7554
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/10 - Às vezes faz bem chorar.mp3 | 7332
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/10 Pedras de Sal.mp3 | 7325
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1976 - Domingo Menino Dominguinhos (Forró em vinil)/12 - Baião violado - (Dominguinhos).mp3 | 6992
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/11 Chutando Pedras.mp3 | 6738
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1975 - Compacto (Forró em vinil)/01 Severina Xique Xique.mp3 | 6688
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1975 - Aqui Tem Catimberê (Forró em vinil)/01 - Severina Xique Xique.mp3 | 6688
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/11 dendalei.mp3 | 6609
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/14 A feira de Caruaru.mp3 | 6591
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/06 - Valsa de realejo.mp3 | 6278
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/12 Pau de Arara.mp3 | 6226
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/01 - Trio Nordestino - Forró pesado.mp3 | 5524
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - Tudo azul (Forró em vinil)/08 - Lamento sertanejo.mp3 | 5501
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/09 Tributo aos orixás.mp3 | 5247
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/09 noites brasileiras.mp3 | 4976
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/04 - Juízo Final.mp3 | 4929
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/03 Alvorada no morro.mp3 | 4869
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 1973 - Compacto (Forró em vinil)/01 Meio de campo.mp3 | 4867
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/01- Asa branca.mp3 | 4831
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1977 - Antologia do Baião (Forró em vinil)/1 - ASA BRANCA.mp3 | 4831
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/07 folia de rei.mp3 | 4812
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/13 Derramaro o gai.mp3 | 4621
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/05 Pontos Cardeais.mp3 | 4406
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/09.Voa Voa.mp3 | 4335
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/02 Samba da volta.mp3 | 4271
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/07 Hora do adeus.mp3 | 4202
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/02 hora do adeus.mp3 | 4202
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/04-Ponteio.mp3 | 3900
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/01 Capim Novo.mp3 | 3885
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/01 Baião da garoa.mp3 | 3770
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/08 sanfona do povo.mp3 | 3726
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/09 selva de feras.mp3 | 3719
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/11 Clarice.mp3 | 3715
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/03 Domingo de pedra e cal.mp3 | 3699
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/01 Sempre mangueira.mp3 | 3537
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/07 Cantiga do sapo.mp3 | 3500
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/03 Siri jogando bola.mp3 | 3489
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/08 véio zuza.mp3 | 3488
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/03 Candongueiro.mp3 | 3480
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/02 Mente.mp3 | 3474
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/10 Pau de Arara.mp3 | 3424
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/03 cidadão da mata.mp3 | 3391
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/04 Em copacabana.mp3 | 3332
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/01- Adeus Maria Fulô.mp3 | 3260
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/06-Adeus Maria Fulo.mp3 | 3260
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/07-Adeus Maria Fulô.mp3 | 3260
