@@ -1,0 +1,500 @@
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/10- Como dois animais.mp3 | 77669
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/03 como dois animais.mp3 | 77669
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/01 Canção agalopada.mp3 | 65035
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/02 - Feira de Mangaio.mp3 | 64873
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/01 Morena de Angola.mp3 | 56129
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/09 - Morena de Angola.mp3 | 56129
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/07 Pelas Ruas Que Andei.mp3 | 44379
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/11 Pelas Ruas Que Andei.mp3 | 44379
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/04 pelas ruas que andei.mp3 | 44379
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/01 - Portela na Avenida.mp3 | 39601
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/01 - Portela na Avenida.mp3 | 39601
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/07 Girassol.mp3 | 37324
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/01 - Pagode Russo.mp3 | 30391
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/08 - Guerreira.mp3 | 26245
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/02 Cavalo de Pau.mp3 | 25131
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/07 cavalo de pau.mp3 | 25131
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/01 - Na linha do Mar.mp3 | 24277
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/04 - Na linha do Mar.mp3 | 24277
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/11 bate coração.mp3 | 23556
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/06 Galope rasante.mp3 | 23179
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/02 tropicana.mp3 | 20877
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/07 A Vida do Viajante.mp3 | 20626
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/1- Punhal de prata.mp3 | 20089
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/10 Ave de prata.mp3 | 18298
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/02-CABELO NO PENTE.mp3 | 18287
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/11- Cabelo no pente.mp3 | 18287
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/11- Lama.mp3 | 18042
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/02 - Chorando E Cantando.mp3 | 17238
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/02- Dia Branco.mp3 | 17125
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1988 - Ver o peso (Forró em vinil)/04 Clarão de Lua.mp3 | 17123
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/02 Respeita Junuário.mp3 | 16829
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/4- Agalopado.mp3 | 16806
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/02 - Menino Deus.mp3 | 15178
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/03 Vem Morena.mp3 | 14231
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/08 maracatú.mp3 | 13647
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1985 - Sanfoneiro macho (Forró em vinil)/08 qui nem jiló.mp3 | 13275
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/01-Banho de cheiro.mp3 | 12971
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/07 Na subida do morro.mp3 | 11756
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/01 O fole roncou.mp3 | 10947
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/05 - Quando vim de Minas.mp3 | 10791
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/04 Um pequeno xote.mp3 | 10585
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/06 Peixe com Coco.mp3 | 10106
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/08 Cintura Fina.mp3 | 9758
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/07 Kamikase.mp3 | 9357
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/07. Riacho Do Navio.mp3 | 9289
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/01 rima com rima.mp3 | 9150
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/10 feira de mangaio.mp3 | 8893
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1981 - Caixa de Sol (Forró em vinil)/01 Caixa de sol.mp3 | 8781
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/09 Acertei no milhar.mp3 | 8682
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/07 - Alvorecer.mp3 | 8453
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/06 - Serrinha.mp3 | 8208
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/07 - Serrinha.mp3 | 8208
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/10 A Volta da Asa Branca.mp3 | 8130
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/13. A Volta Da Asa Branca.mp3 | 8130
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/05-ARREIO DE PRATA.mp3 | 8027
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/09 Cavalos do cão.mp3 | 7666
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1988 - Fruto (Forró em vinil)/05. Palavra de mulher.mp3 | 7623
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/03 - Danado de Bom.mp3 | 7017
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/02 Sem Companhia.mp3 | 6882
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/05 - Sem companhia.mp3 | 6882
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/01 Amigo urso.mp3 | 6815
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1984 - Troque as pilhas, só não mate o véio (Forró em vinil)/12 Severina Xique Xique.mp3 | 6727
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/03 Severina Xique Xique.mp3 | 6727
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/11 No Meu Pé de Serra.mp3 | 6532
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/03. Súplica Cearense.mp3 | 6511
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - Compacto duplo (Forró em vinil)/04. Respeita Januário.mp3 | 6303
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/09 anjo avesso.mp3 | 6082
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/03 Viola de Penedo.mp3 | 6065
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/10 - Viola de Penedo.mp3 | 6065
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/01 forró de cabo a rabo.mp3 | 6011
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/03 Romance da Bela Inês.mp3 | 5902
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1980 - Quem me levará sou eu ( Forró em vinil)/01 abri a porta.mp3 | 5801
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/06 Juazeiro.mp3 | 5778
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/03 Conversa de botequim.mp3 | 5496
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/08 Sino de Ouro.mp3 | 5479
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/11 Dia dos adultos.mp3 | 5094
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/07 Banquete de Signos.mp3 | 5007
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/06 lava mágoas.mp3 | 4983
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/03 - Juizo final.mp3 | 4930
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/03 Bom Demais.mp3 | 4920
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/03 Amor Covarde.mp3 | 4919
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1981 - Caixa de Sol (Forró em vinil)/08 Maculelê.mp3 | 4910
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Cavalo de pau (Forró em vinil)/05 martelo alagoano.mp3 | 4861
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/01 Guerreiro.mp3 | 4804
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/04-GUERREIRO.mp3 | 4804
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/12 Vozes da Seca.mp3 | 4790
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/03 a triste partida.mp3 | 4656
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/13 A Triste Partida.mp3 | 4656
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/01 Gemedeira.mp3 | 4417
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/10 Olinda.mp3 | 4227
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/01-QUANDO EU OLHO PARA O MAR.mp3 | 4224
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/02 anunciação.mp3 | 4123
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/06 Leque Moleque.mp3 | 4109
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/01 marim dos caetés.mp3 | 4042
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/01 Bobo da Corte.mp3 | 4040
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1987 - De fiá pavi (Forró em vinil)/03 nem se despediu de mim.mp3 | 3822
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/06 Eu Te Amo.mp3 | 3792
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/09 Eu te Amo.mp3 | 3792
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1980 - Quem me levará sou eu ( Forró em vinil)/05 sete meninas.mp3 | 3699
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/02 Gato na Noite.mp3 | 3627
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/01 Radinho de pilha.mp3 | 3583
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/04 siri jogando bola.mp3 | 3498
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/10. Sirí Jogando Bola.mp3 | 3498
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/01- Cambalhotas.mp3 | 3480
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/02 - Deixa clarear.mp3 | 3477
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1986 - Gostoso demais (Forró em vinil)/09 gostoso demais.mp3 | 3403
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/10 Vira e Mexe.mp3 | 3389
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/06 Me Segura Que Senão Eu Caio.mp3 | 3352
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/02 Beleza agreste.mp3 | 3342
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/08 Samarica parteira.mp3 | 3335
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/01 Caldeirão dos Mitos.mp3 | 3305
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/04 - Congada.mp3 | 3251
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/13 - Congada.mp3 | 3251
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/10 - Amor Perfeito.mp3 | 3243
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/08 O rei do gatilho.mp3 | 3196
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/11 For all Para todos.mp3 | 3158
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/02 - Sabor Colorido.mp3 | 3136
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/05 Solibar.mp3 | 3076
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/07 Como se eu fosse um Faquir.mp3 | 2995
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/07 Balanço de Rede.mp3 | 2986
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/10 Regresso.mp3 | 2920
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/09Elba Ramalho - Cajuína.mp3 | 2746
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/03 - Dona Da Minha Cabeça.mp3 | 2744
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/05 - Novo amor.mp3 | 2695
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/06 - Minha missão.mp3 | 2663
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/06 Nuvens sem guia.mp3 | 2613
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/02 Chego Já.mp3 | 2601
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/9- Chego já.mp3 | 2601
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/06-CINCO SENTIDOS.mp3 | 2573
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/10 Retrato de um forró.mp3 | 2489
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/10 - Coroa de areia.mp3 | 2451
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/05- Solidão.mp3 | 2432
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/05 Porto da Saudade.mp3 | 2375
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/05 escorregando no pífano.mp3 | 2320
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/03 rouge carmim.mp3 | 2278
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1980 - Corte o bolo (forró em vinil)/01 na emenda.mp3 | 2246
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1985 - Sanfoneiro macho (Forró em vinil)/01 deixa a tanga voar.mp3 | 2242
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/11 Imbalança.mp3 | 2239
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/10 Sonhei de Cara.mp3 | 2171
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1981 - Querubim (Forró em vinil)/01 querubim.mp3 | 2150
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/02 - Menino velho.mp3 | 2143
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1987 - Décimas de um Cantador (Forró em vinil)/07.Mary Mar.mp3 | 2117
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/01 - O Princípio Do Prazer.mp3 | 2114
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/11.Mistérios Da Meia Noite.mp3 | 2091
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/01Elba Ramalho - Temporal.mp3 | 2071
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/05-Forró do poeirão.mp3 | 2061
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/05 - Magoada.mp3 | 2032
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/04 - Pense N'eu.mp3 | 2029
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/09 Estrela Guia.mp3 | 2026
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/07 - Sanfoninha Choradeira.mp3 | 2019
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/04 Senhora Dona.mp3 | 2016
+/home/felipev/datasets/forro em vinil/Xangai - 1984 - Mutirão da Vida (Forró em vinil)/11 Cumeno cum Coentro.mp3 | 2006
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/03 numa sala de reboco.mp3 | 1963
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/10 Amigo da Arte.mp3 | 1945
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/06 filhos da fonte.mp3 | 1940
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/08- forró no escuro.mp3 | 1938
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/08 trovoada.mp3 | 1930
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1987 - Décimas de um Cantador (Forró em vinil)/01.Acredite Quem Quiser.mp3 | 1929
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/02.Desejo De Mouro.mp3 | 1922
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/09 Capim do Vale.mp3 | 1917
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/02.Um Indio.mp3 | 1913
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/07 Rasgo de lua.mp3 | 1911
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1983 - Anjo avesso (Forró em vinil)/07 batendo tambor.mp3 | 1887
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/3- A dança das borboletas.mp3 | 1869
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/02 Nó Cego.mp3 | 1866
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1980 - Quem me levará sou eu ( Forró em vinil)/09 quem me levará sou eu.mp3 | 1830
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1981 - Cinco Sentidos (Forró em vinil)/07-TIRANA.mp3 | 1789
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/03 Facilita.mp3 | 1750
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/08 Dia a Dia.mp3 | 1746
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/02 Amor Que Fica.mp3 | 1712
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/11 Meu Castigo.mp3 | 1706
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/04 Maria Sente.mp3 | 1695
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/08 - Cinto cruzado.mp3 | 1666
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/08 Espiral do Tempo.mp3 | 1634
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/08 Rainha de Tamba.mp3 | 1629
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/01 Sonhos de Valsa.mp3 | 1626
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1981 - O bicho bom (forro em vinil)/04 o nenem.mp3 | 1608
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/05 Daquele jeito.mp3 | 1597
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1987 - Décimas de um Cantador (Forró em vinil)/05.Lua Semente.mp3 | 1596
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/07Elba Ramalho - Aquarela Nordestina.mp3 | 1592
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/06 Na Primeira Manhã.mp3 | 1582
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1987 - Elba (Forró em vinil)/03. Vem ficar comigo.mp3 | 1578
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/07 - Vontade de chorar.mp3 | 1552
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1987 - De fiá pavi (Forró em vinil)/01 de fiá pavi.mp3 | 1552
+/home/felipev/datasets/forro em vinil/Amelinha - 1983 - Romance da Lua Lua (Forró em vinil)/01 romance da lua lua.mp3 | 1529
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/09 Chuvas de Cajus.mp3 | 1499
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/12 - As forças da Natureza.mp3 | 1499
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1983- Clara morena (Forró em vinil)/06 - As Forças da Natureza.mp3 | 1499
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1985 - Sanfoneiro macho (Forró em vinil)/04 sanfoneiro macho.mp3 | 1493
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/06 cabelo de milho.mp3 | 1479
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/05 Rubi.mp3 | 1478
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/07- A Menina dos Meus Olhos.mp3 | 1475
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/5- Taxi lunar.mp3 | 1473
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/04 Ninho Desfeito.mp3 | 1452
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/01 No Romper da Aurora.mp3 | 1409
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/11 Acácia Amarela.mp3 | 1408
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/02 Cheiro da Saudade.mp3 | 1388
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/14. Cortando Pano.mp3 | 1378
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/06 Farinhada.mp3 | 1367
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/02 Gago apaixonado.mp3 | 1357
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1980 - São João autêntico (Forró em vinil)/07. Na base da chinela.mp3 | 1330
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/10 - Trio Nordestino - Rejeição.mp3 | 1308
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/10.Paralelas.mp3 | 1284
+/home/felipev/datasets/forro em vinil/Xangai - 1984 - Mutirão da Vida (Forró em vinil)/10 Kukukaya.mp3 | 1282
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1981 - O bicho bom (forro em vinil)/03 - o bicho bom.mp3 | 1282
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/06 Risoleta.mp3 | 1275
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/06 O Violeiro.mp3 | 1273
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1982 - Coração Bobo (Forró em vinil)/01 Coração Bobo.mp3 | 1260
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/7- Coração Bobo.mp3 | 1260
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/05 Casinha de Buinha.mp3 | 1256
+/home/felipev/datasets/forro em vinil/Robertinho e regional - 1982 - Chorinhos e autores famosos (Forró em vinil)/11 - carinhoso.mp3 | 1246
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/02-Toque de fole.mp3 | 1213
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/05 Filmando na américa.mp3 | 1193
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/04 Légua Tirana.mp3 | 1188
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/2- Caravana.mp3 | 1168
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/01 cabeça feita.mp3 | 1115
+/home/felipev/datasets/forro em vinil/Robertinho e regional - 1982 - Chorinhos e autores famosos (Forró em vinil)/08 - brejeiro.mp3 | 1078
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/01 - Nação.mp3 | 1063
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/03 - Nação.mp3 | 1063
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1984 - Troque as pilhas, só não mate o véio (Forró em vinil)/08 Mate o véio mate.mp3 | 1058
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/07 Mate o véio mate.mp3 | 1058
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/10-Energia.mp3 | 1057
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1981 - O bicho bom (forro em vinil)/07 - meu pitiguari.mp3 | 1056
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Estação da Luz (Forró em vinil)/06 Estação da Luz.mp3 | 1031
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/08- Moinhos.mp3 | 987
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/04- Rajada de Vento.mp3 | 979
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/03 Pés de Milho.mp3 | 974
+/home/felipev/datasets/forro em vinil/Elino Julião - 1984 - O melhor de (Forró em vinil)/02 Meu cofrinho de amor.mp3 | 971
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/05 Légua Tirana.mp3 | 958
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/10 - Lusitana Do Norte.mp3 | 947
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1983 - Presente de nordestino (Forró em vinil)/01 - PRESENTE DE NORDESTINO.mp3 | 929
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/12 Presente de nordestino.mp3 | 929
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/06-Roendo unha.mp3 | 926
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/08.Chuva Pesada.mp3 | 923
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1982 - Genival Lacerda (Forró em vinil)/02 O chevette da menina.mp3 | 921
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/09 O chevette da menina.mp3 | 921
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/09 Íris.mp3 | 902
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/15. Lorota Boa.mp3 | 902
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/02 queixo de cobra.wma | 876
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/10 fava de cheiro.wma | 871
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/03 no som da sanfona.mp3 | 829
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/11 Fole danado.mp3 | 826
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/09 Alga Marinha.mp3 | 826
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/09.Um Corpo Que Sai.mp3 | 819
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/06.Visionária.mp3 | 817
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/10 Lenha no Fogo.mp3 | 809
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1987 - Décimas de um Cantador (Forró em vinil)/06.Aldeias Da Borborema.mp3 | 798
+/home/felipev/datasets/forro em vinil/Assisão - 1987 - Forró ferruado (Forró em vinil)/05 Fogueirinha.mp3 | 797
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1987 - Décimas de um Cantador (Forró em vinil)/03.Decimas De Um Cantador.mp3 | 791
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1983 - 70 anos de sanfona e simpatia (forró em vinil)/02 plano piloto.mp3 | 780
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/08 sete cantigas para voar.mp3 | 762
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/09 - Aproveita Gente.mp3 | 759
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/10.Pedras E Moças.mp3 | 749
+/home/felipev/datasets/forro em vinil/Xangai - 1984 - Mutirão da Vida (Forró em vinil)/05 Ele Disse.mp3 | 741
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/10 - O que é que a baiana tem.mp3 | 738
+/home/felipev/datasets/forro em vinil/Sivuca - 1984 - Forró e Frevo 4 (Forró em vinil)/05-Roseira do Norte.mp3 | 735
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/01 deixei de fumar.mp3 | 724
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/09.Olhares Sem Destino.mp3 | 724
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/07.Botões De Osso.mp3 | 720
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1987 - Elba (Forró em vinil)/09. Corcel na tempestade.mp3 | 703
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1987 - Leque Moleque (Forró em vinil)/08 Quando Eduim Desce A Ribeira.mp3 | 687
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - Compacto duplo (Forró em vinil)/03. Sou Do Banco.mp3 | 680
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1987 - Seu Domingos (Forró em vinil)/02 doidinho pra ver.mp3 | 678
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/04.Parceria.mp3 | 674
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/03- Casaca de Couro.mp3 | 668
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/07 Amiga de Graça.mp3 | 659
+/home/felipev/datasets/forro em vinil/Xangai - 1984 - Mutirão da Vida (Forró em vinil)/03 O Minino e os Carneiros.mp3 | 651
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/08.Tamarineira Village.mp3 | 643
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1984 - Troque as pilhas, só não mate o véio (Forró em vinil)/07 Troque as pilhas.mp3 | 642
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/10 Troque as pilhas.mp3 | 642
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/09 dancando em pipirituba.wma | 638
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1986 - Gostoso demais (Forró em vinil)/03 hoje é dia de forró.mp3 | 631
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - Compacto duplo (Forró em vinil)/01. Orélia.mp3 | 617
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/03 alagamar.wma | 608
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/09- Maracatu Colonial.mp3 | 608
+/home/felipev/datasets/forro em vinil/Sivuca - 1982 - Forró e Frevo 2 (Forró em vinil)/09- Alagamar.mp3 | 608
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/03 te pego na mentira.mp3 | 602
+/home/felipev/datasets/forro em vinil/Xangai - 1984 - Mutirão da Vida (Forró em vinil)/12 Natureza.mp3 | 600
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/09 nilopolitano.mp3 | 588
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1981 - Me dê o gravador (Forró em vinil)/01 o gravador.mp3 | 583
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/08-Canção da despedida.mp3 | 574
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/09 - Mãe África.mp3 | 570
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/10 menina do lido.mp3 | 561
+/home/felipev/datasets/forro em vinil/Nando Cordel - 1986 - É de dar água na boca (Forró em vinil)/13 de volta pro aconchego.mp3 | 552
+/home/felipev/datasets/forro em vinil/Borba de Paula - 1987 - Borba de Paula (forró em vinil)/09 Barquinho de papel.mp3 | 550
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/01 - Terra À Vista.mp3 | 547
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/08 primeiro de abril.mp3 | 546
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/09 engambelando.mp3 | 542
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/05 samambaia trepadeira.mp3 | 539
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/03 - Ijexá.mp3 | 534
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/06Elba Ramalho - Lua Viva.mp3 | 529
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/02 rio das pedras.mp3 | 520
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1981 - Me dê o gravador (Forró em vinil)/04 o burrinho do vizinho.mp3 | 518
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/05 o burrinho do vizinho.mp3 | 518
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/01 xanana.wma | 516
+/home/felipev/datasets/forro em vinil/Sivuca - 1982 - Forró e Frevo 2 (Forró em vinil)/06- Xanana.mp3 | 516
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/02 Filhos de Ícaro.mp3 | 513
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/07 - Afoxé prá Logun.mp3 | 508
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/01 energia.mp3 | 506
+/home/felipev/datasets/forro em vinil/Toco Preto - 1981 - Chora cavaquinho (Forró em vinil)/01 Urubu malandro.mp3 | 506
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/05.Absurdo Blues.mp3 | 503
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1986 - Gostoso demais (Forró em vinil)/06 bota severina pra moer.mp3 | 502
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1983 - 70 anos de sanfona e simpatia (forró em vinil)/12 tamborete de forró.mp3 | 497
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1980 - Da boca pra fora (forró em vinil)/01 Da boca pra fora.mp3 | 493
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1987 - De fiá pavi (Forró em vinil)/11 mariana.mp3 | 491
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/04 Tudo no ar.mp3 | 472
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/04 - Mulher.mp3 | 467
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/12.Oh Pecador.mp3 | 466
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1985 - nem que pare o coração (Forró em vinil)/1- sou feliz.mp3 | 464
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/12 - Adeus Iracema.mp3 | 460
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/04 cana caiana.mp3 | 460
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1983 - Festejo e alegria (Forró em vinil)/06 minhas desculpas.mp3 | 452
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1984 - Troque as pilhas, só não mate o véio (Forró em vinil)/04 O jégue milionário.mp3 | 450
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/04 O jégue milionário.mp3 | 450
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/07 competente demais.mp3 | 450
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1980 - Corte o bolo (forró em vinil)/07 corte o bolo.mp3 | 449
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/05 Valsinha.mp3 | 448
+/home/felipev/datasets/forro em vinil/Vital Farias - 1982 - Sagas Brasileiras (Forró em vinil)/05-Vital Farias-Saga de Severinin.mp3 | 447
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1987 - Calor de verão (Forró em vinil)/01 nem ligue.mp3 | 442
+/home/felipev/datasets/forro em vinil/Amelinha - 1982 - Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Dor (Forró em vinil)/02 FELICIDADE.mp3 | 436
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/11-Nordeste independente.mp3 | 434
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1988 - Fruto (Forró em vinil)/01. Doida.mp3 | 431
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1980 - As riquezas do Brasil (Forró em vinil)/08 a topada da menina.mp3 | 429
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/08 a topada da menina.mp3 | 429
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1983 - Canto livre (Forró em vinil)/03 - devagar.mp3 | 421
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1987 - De fiá pavi (Forró em vinil)/13 pobre do sanfoneiro.mp3 | 420
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1986 - De Outra Maneira (Forró em vinil)/09 - Um Outro Um.mp3 | 410
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1986 - Gostoso demais (Forró em vinil)/08 chameguinho.mp3 | 405
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1980 - Capim do vale (Forró em vinil)/12 Veja (Margarida).mp3 | 403
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1985 - Sudamérica (Forró em vinil)/10- Tanto fez e tanto faz.mp3 | 401
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1981 - Clara (Forró em vinil)/08 - Derramando lágrimas.mp3 | 396
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/04 a casca do ovo.mp3 | 388
+/home/felipev/datasets/forro em vinil/Sivuca - 1982 - Forró e Frevo 2 (Forró em vinil)/01-Picadinho.mp3 | 382
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/08 - Casamento de Rosa.mp3 | 381
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/01 Espiral do tempo.mp3 | 381
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/05 Príncipe brilhante.mp3 | 381
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/11 queimando lenha.mp3 | 379
+/home/felipev/datasets/forro em vinil/Amelinha - 1984 - Água e Luz (Forró em vinil)/03 tempo rei.mp3 | 378
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/07 Porta Secreta.mp3 | 378
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/05-Chororô.mp3 | 376
+/home/felipev/datasets/forro em vinil/Sivuca - 1987 - Let`s Vamos - Sivuca e Guitars Unlimted (Forró em vinil)/06-Noites Cariocas.mp3 | 373
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/12. O Cantador.mp3 | 372
+/home/felipev/datasets/forro em vinil/Trio Xamego - 1982 - Eu quero é mais (Forró em vinil)/07 Medo de amar.mp3 | 370
+/home/felipev/datasets/forro em vinil/Sivuca - 1983 - Onça Caetana (Forró em vinil)/05-Subindo ao Céu.mp3 | 367
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/04 Carapeba.mp3 | 366
+/home/felipev/datasets/forro em vinil/Vital Farias - 1980 - Taperoá (Forró em vinil)/10-Vital Farias-General da Banda.mp3 | 365
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/11-Vida e carnaval.mp3 | 365
+/home/felipev/datasets/forro em vinil/Dominguinhos  - 1980 - Compacto (Forró em vinil)/01- Viajante.mp3 | 362
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/02 - Painho.mp3 | 362
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1981 - Querubim (Forró em vinil)/07 caxinguelê.mp3 | 361
+/home/felipev/datasets/forro em vinil/Vital Farias - 1980 - Taperoá (Forró em vinil)/03-Vital Farias-Assim Diziam as Almas.mp3 | 360
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/06 - Regresso do Rei.mp3 | 358
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/07-Batida de trem.mp3 | 355
+/home/felipev/datasets/forro em vinil/Anastácia - 1985 - 30 anos de Forró (Forró em vinil)/7-O SUCESSO DA ZEFINHA.mp3 | 353
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1983 - Canto livre (Forró em vinil)/01- correnteza.mp3 | 353
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1984 - Troque as pilhas, só não mate o véio (Forró em vinil)/01 Quem dera.mp3 | 353
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/01 Quem dera.mp3 | 353
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/11 tropeiros da borborema.mp3 | 352
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/07 Eterno Cantador.mp3 | 351
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/05 estrada de canindé.mp3 | 350
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1981 - Disco De Ouro - Vol. 3 - Linha 3 (Forró em vinil)/04. Estrada De Canindé.mp3 | 350
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/05.Bê.mp3 | 343
+/home/felipev/datasets/forro em vinil/Vital Farias - 1980 - Taperoá (Forró em vinil)/11-Vital Farias-Prazer Pelo Avesso.mp3 | 341
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/03 - Pindorama.mp3 | 332
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1983 - Coração Brasileiro (Forró em vinil)/03-Ave cigana.mp3 | 329
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/04 - Banho de Manjericão.mp3 | 324
+/home/felipev/datasets/forro em vinil/Clemilda - 1985 - Prenda o Tadeu (Forró em vinil)/01 prenda o tadeu.mp3 | 323
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/05 - Nessa Estrada da Vida.mp3 | 319
+/home/felipev/datasets/forro em vinil/Vital Farias - 1980 - Taperoá (Forró em vinil)/06-Vital Farias-Repente Paulista.mp3 | 318
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/03Elba Ramalho - Dono Dos Teus Olhos.mp3 | 318
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/09 Por Fora e Por Dentro.mp3 | 313
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/01 - Buchada.mp3 | 312
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1980 - Quem me levará sou eu ( Forró em vinil)/08 chorinho pra guadalupe.mp3 | 307
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1980 - São João autêntico (Forró em vinil)/09. Acenderam a fogueira.mp3 | 306
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1980 - São João autêntico (Forró em vinil)/02. Canoeiro novo.mp3 | 305
+/home/felipev/datasets/forro em vinil/Nando Cordel - 1982 - Folha, rama, cheiro e flores (Forró em vinil)/06 Flor de cheiro.mp3 | 303
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1988 - É isso ai, Simples como a vida (Forró em vinil)/02 Remelexo.mp3 | 302
+/home/felipev/datasets/forro em vinil/Zenilton - 1986 - Comilho cru (Forró em vinil)/04 vendedor de frutas.mp3 | 301
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/09 mundo cão.mp3 | 300
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/05Elba Ramalho - O Pedido.mp3 | 298
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1985 - Sanfoneiro macho (Forró em vinil)/11 tá bom demais.mp3 | 298
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruaru - 1982 - Raízes dos pífanos (Forró em vinil)/01- Cana caiana.mp3 | 297
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/01- riacho do navio.mp3 | 296
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1981 - Olympia (Forró em vinil)/03 Riacho do navio.mp3 | 296
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/09 Vida cigana.mp3 | 296
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1988 - Ver o peso (Forró em vinil)/09 Bonjour pra Você.mp3 | 295
+/home/felipev/datasets/forro em vinil/Nando Cordel - 1986 - É de dar água na boca (Forró em vinil)/06 amor imenso.mp3 | 293
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1982 - Simplicidade (Forró em vinil)/07. Riso cristalino.mp3 | 293
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/01 isso aqui tá bom demais.mp3 | 292
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/03 o herdeiro.mp3 | 290
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/08 Frutos da Terra.mp3 | 287
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/10 cego aderaldo.mp3 | 285
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/07  olhos acesos.mp3 | 284
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/10Elba Ramalho - Eu Queria.mp3 | 281
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1982 - Genival Lacerda (Forró em vinil)/01 A radiola.mp3 | 276
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1980 - Quem me levará sou eu ( Forró em vinil)/11 o cortador de cana.mp3 | 276
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1981 - O bicho bom (forro em vinil)/01 - amor de doido.mp3 | 271
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1985 - Ao Vivo (Forró em vinil)/04 Talismã.mp3 | 270
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/10 - Arriscando Um Jejum.mp3 | 268
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/06 - Nosotros, Nosotras.mp3 | 267
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1982 - Simplicidade (Forró em vinil)/03. Depois da derradeira.mp3 | 267
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1986 - clima de festa (Forró em vinil)/9- bom demais.mp3 | 260
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/09 - Fases.mp3 | 256
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/07 Fogo pagou.mp3 | 253
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/08 viva meu padim.mp3 | 253
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/02 Esquinas Nacionais.mp3 | 252
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/03 - Tempo Tempero.mp3 | 251
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/04Elba Ramalho - Oitava.mp3 | 250
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/09 marcha regresso.mp3 | 249
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1985 - Forró de cima a baixo (Forró em vinil)/07 flor da madrugada.mp3 | 248
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1983 - O astro (Forró em vinil)/12 Fui ao Japão.mp3 | 247
+/home/felipev/datasets/forro em vinil/Elino Julião - 1984 - O melhor de (Forró em vinil)/08 Foi morar com o guarda.mp3 | 246
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/09 loteria federal.mp3 | 246
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1982 - For all - Para todos (Forró em vinil)/03 Olhar de amor.mp3 | 246
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1980 - Corte o bolo (forró em vinil)/06 resto de amor.mp3 | 242
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1987 - Elba (Forró em vinil)/02. Folia brasileira.mp3 | 236
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/02 no tempo dos quintais.mp3 | 235
+/home/felipev/datasets/forro em vinil/Vital Farias - 1982 - Sagas Brasileiras (Forró em vinil)/01-Vital Farias-Do Meu Jeito Natural.mp3 | 235
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1987 - Calor de verão (Forró em vinil)/05 quero teu amor.mp3 | 230
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1985 - Sanfoneiro macho (Forró em vinil)/06 eu e minha branca.mp3 | 230
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Seleção de Ouro melhor do forró (Forró em vinil)/06 forro chorado.wma | 229
+/home/felipev/datasets/forro em vinil/Sivuca - 1983 - Forró e frevo - vol.3 (Forró em vinil)/03 Forró chorado.mp3 | 229
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/01.De Gosto, De Agua E De Amigos.mp3 | 229
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/06 - Fauna.mp3 | 229
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/03- xapuri do amazônas.mp3 | 226
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - O rei volta pra casa (Forró em vinil)/03 Jesus Sertanejo.mp3 | 226
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/04-Amanheceu.mp3 | 221
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/08 Renegado.mp3 | 219
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/10 caminho de santos.mp3 | 216
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/10 - Lennon In The Sky.mp3 | 215
+/home/felipev/datasets/forro em vinil/oswaldinho - 1980 - forró in concert (forro em vinil)/11 - pesadelo.mp3 | 214
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/09 - Casamento Do Sapo.mp3 | 214
+/home/felipev/datasets/forro em vinil/Amelinha - 1982 - Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Dor (Forró em vinil)/03 PALEIO.mp3 | 214
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/09 Só xote.mp3 | 213
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1984 - Tempo Tempero (Forró em vinil)/08 - Qualquer Pessoa.mp3 | 212
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1982 - Botando quente (Forró em vinil)/03 Toque de fole.mp3 | 211
+/home/felipev/datasets/forro em vinil/Sivuca - 1982 - Forró e Frevo 2 (Forró em vinil)/07-Nas Quebradas.mp3 | 211
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/04 Cidadão de Caruaru.mp3 | 210
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/12 Última Morada.mp3 | 210
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1985 - Alvorecer (Forró em vinil)/14 - Última morada.mp3 | 210
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/06 Juvina.mp3 | 208
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1982 - 1985 - Nação (Forró em vinil)/04 - Vapor de São Francisco.mp3 | 203
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/05- flecha de fogo.mp3 | 202
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/06 Foi Deus Quem Fez Você.mp3 | 197
+/home/felipev/datasets/forro em vinil/Amelinha - 1982 - Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Dor (Forró em vinil)/08 PERIGA SER.mp3 | 197
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/06-Moreno de ouro.mp3 | 196
+/home/felipev/datasets/forro em vinil/Sivuca - 1980 - Cabelo de milho (Forró em vinil)/09 cada um torce como pode.mp3 | 196
+/home/felipev/datasets/forro em vinil/Sivuca - 1987 - Let`s Vamos - Sivuca e Guitars Unlimted (Forró em vinil)/07-Cada um torce como pode.mp3 | 196
+/home/felipev/datasets/forro em vinil/Zenilton - 1983 - O danado dela (Forró em vinil)/01 O gato da Rosinha.mp3 | 195
+/home/felipev/datasets/forro em vinil/Flávio José - 1980 - e os Tropicais (Forró em vinil)/04 Seca nordestina.mp3 | 192
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1980 - O homem da terra (Forró em vinil)/01 mamulengo.mp3 | 191
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1981 - Olympia (Forró em vinil)/13 Cristina.mp3 | 191
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Natureza (Forró em vinil)/07 Cristina.mp3 | 191
+/home/felipev/datasets/forro em vinil/Zenilton - 1981 - O cachimbo da mulher (Forro em vinil)/11 quero um beijinho.mp3 | 190
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1986 - Opus Visionário (Forró em vinil)/01.Zyliana.mp3 | 190
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1987 - Seu Domingos (Forró em vinil)/04 prá se misturar gostoso.mp3 | 190
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/08 - Caminhoneiro.mp3 | 189
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1981 - A terceira lamina (Forró em vinil)/05 Atrás do balcão.mp3 | 188
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1982 - Meu cantar (Forró em vinil)/07- rio una.mp3 | 188
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1981 - Querubim (Forró em vinil)/08 homenagem a chiquinho do acordeon.mp3 | 188
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1987 - Elba (Forró em vinil)/04. Quero mais.mp3 | 188
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/08-Amor eterno.mp3 | 187
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1981 - Elba (Forró em vinil)/08Elba Ramalho - Vem Ser Navegador.mp3 | 187
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1985 - Os grandes sucessos (Forró em vinil)/11 O homem que tinha três pontinhos.mp3 | 187
+/home/felipev/datasets/forro em vinil/Zenilton - 1986 - Comilho cru (Forró em vinil)/01 milho cru.mp3 | 186
+/home/felipev/datasets/forro em vinil/Amelinha - 1980 - Porta Secreta (Forró em vinil)/04 Lucas.mp3 | 183
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/01 essa alegria.mp3 | 182
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/07 xote machucador.mp3 | 182
+/home/felipev/datasets/forro em vinil/Assisão - 1987 - Forró ferruado (Forró em vinil)/02 Eu quero meu amor.mp3 | 181
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/10- kalu.mp3 | 179
+/home/felipev/datasets/forro em vinil/oswaldinho - 1980 - forró in concert (forro em vinil)/12 - naquela noite.mp3 | 177
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1986 - Gostoso demais (Forró em vinil)/07 quero nem saber.mp3 | 177
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1980 - O rei da muganga (Forró em vinil)/06 bandinha do macaco.mp3 | 176
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1982 - A Volta (Forró em vinil)/04 - Mexendo Com As Menina.mp3 | 173
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1987 - Seu Domingos (Forró em vinil)/06 casamento no Juazeiro.mp3 | 172
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1984 - Danado de Bom (Forró em vinil)/10 - São João Sem Futrica.mp3 | 167
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1980 - Amazônia (Forró em vinil)/09- nuvens que passam.mp3 | 166
+/home/felipev/datasets/forro em vinil/Edson Duarte - 1980 - Homem da perna de pau (Forró em vinil)/09 - O homem da perna de pau.mp3 | 166
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/03 Maria Cangaceira.mp3 | 166
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1985 - Sudamérica (Forró em vinil)/01- Na boca do povo.mp3 | 165
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1982 - Botando quente (Forró em vinil)/01 Botando quente.mp3 | 165
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1980 - Brasil Mestiço (Forró em vinil)/05 Coração em Chama.mp3 | 165
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1987 - Seu Domingos (Forró em vinil)/08 gandaeira.mp3 | 163
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1980 - Da boca pra fora (forró em vinil)/08 Morena louca.mp3 | 162
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1982 - Alegria (Forró em vinil)/06 amor com café.mp3 | 161
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Os grandes sucessos (Forró em vinil)/02 Frei Damião.mp3 | 159
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1983 - 70 anos de sanfona e simpatia (forró em vinil)/01 sequei os olhos.mp3 | 159
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1988 - Aí tem (Forró em vinil)/12 Recado do velho.mp3 | 157
+/home/felipev/datasets/forro em vinil/Sivuca - 1985 - Som Brasil (Forró em vinil)/04-João e Maria.mp3 | 156
+/home/felipev/datasets/forro em vinil/Zenilton - 1988 - Educa o branco, educa o preto (Forró em vinil)/02 eu sou budista.mp3 | 155
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1988 - Aí tem (Forró em vinil)/05 Pra que mais mulher.mp3 | 155
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1982 - Eterno Cantador (Forró em vinil)/01 Prece Por Exu Novo.mp3 | 152
+/home/felipev/datasets/forro em vinil/Amelinha - 1982 - Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Dor (Forró em vinil)/01 MULHER NOVA, BONITA E CARINHOSA, FAZ O HOMEM GEMER SEM SENTIR DOR.mp3 | 151
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1984 - Do Jeito Que A Gente Gosta (Forró em vinil)/01-Azedo e mascavo.mp3 | 150
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1981 - Querubim (Forró em vinil)/03 diz amiga.mp3 | 150
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1988 - Aí tem (Forró em vinil)/07 Fruta madura.mp3 | 149
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1982 - Meu cantar (Forró em vinil)/02- amor sincero.mp3 | 148
+/home/felipev/datasets/forro em vinil/Nazaré Pereira - 1981 - Olympia (Forró em vinil)/07 O cheiro da Carolina.mp3 | 146
+/home/felipev/datasets/forro em vinil/Amelinha - 1982 - Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Dor (Forró em vinil)/07 FRIEZA.mp3 | 146
+/home/felipev/datasets/forro em vinil/Sivuca - 1987 - Let`s Vamos - Sivuca e Guitars Unlimted (Forró em vinil)/04-Trem Caipira.mp3 | 146

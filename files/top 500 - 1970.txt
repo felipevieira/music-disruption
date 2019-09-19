@@ -1,0 +1,500 @@
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/01 - O mar serenou.mp3 | 140403
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/02.Vila Do Sossego.mp3 | 87051
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/09 Conto de Areia.mp3 | 80814
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/06-Asa Branca.mp3 | 59799
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/05 Asa Branca.mp3 | 59799
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/01. Avôhai.mp3 | 34250
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/05- Espelho cristalino.mp3 | 26698
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/01 Guerreira.mp3 | 26245
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/01-Ain't No Sunshine.mp3 | 21345
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/02 A vida do viajante.mp3 | 20626
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/04 Punhal de Prata.mp3 | 20089
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/03 Punhal de Prata.mp3 | 20089
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/05 - Tudo é ilusão.mp3 | 18873
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/04 Dia Branco.mp3 | 17125
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/01- Agalopado.mp3 | 16806
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/06 Assum preto.mp3 | 15844
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/01 Menino Deus.mp3 | 15178
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/06 Molhado de Suor.mp3 | 15163
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/04.A Noite Preta.mp3 | 14828
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/02 - Sofrimento de quem ama.mp3 | 14640
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/06 Papagaio do Futuro.mp3 | 13992
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/08 Papagaio do Futuro.mp3 | 13992
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/02- Maria dos Santos.mp3 | 13883
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/05 Cabelos Longos.mp3 | 13613
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/09 Numa Sala de Reboco.mp3 | 12667
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/07 Mensageira dos Anjos.mp3 | 12364
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/05 Meu sapato já furou.mp3 | 12325
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/07 O rei Pelé.mp3 | 12244
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1977 - E o Samba de Breque (Forró em vinil)/08 - Na subida do Morro.mp3 | 11756
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/03- Anjo de fogo.mp3 | 11576
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/02 Borboleta.mp3 | 11544
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/12 olha pro céu.mp3 | 11317
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/02 Descida da Ladeira.mp3 | 11160
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/03.Chão De Giz.mp3 | 11061
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/01 Boiadeiro.mp3 | 10950
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/01 O fole roncou.mp3 | 10947
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/03 o fole roncou.mp3 | 10947
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/09 - O último bloco.mp3 | 10915
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/07 Sol e Chuva.mp3 | 10865
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/03 - A Deusa dos Orixás.mp3 | 10399
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/01 Vou Danado Pra Catende.mp3 | 9799
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/04- Veneno.mp3 | 9660
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - São João Quente (Forró em vinil)/03 - Ovo de Codorna.mp3 | 9456
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/09 - Ninguém tem que achar ruim.mp3 | 9312
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/10 a morte do vaqueiro.mp3 | 9062
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/01 Cade meu carnaval.mp3 | 8962
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/05-Feira de Mangaio.mp3 | 8893
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/06- Eu Sou você.mp3 | 8883
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/12 - Que seja bem feliz.mp3 | 8573
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/09 Dente de Ocidente.mp3 | 8548
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/07 Alvorecer.mp3 | 8453
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/11 - Vai amor.mp3 | 8399
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/07 Jogo de Angola.mp3 | 8310
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/08- Sete léguas.mp3 | 8001
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/07 - Bafo de boca.mp3 | 7569
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/10 - Às vezes faz bem chorar.mp3 | 7338
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/10 Pedras de Sal.mp3 | 7336
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1976 - Domingo Menino Dominguinhos (Forró em vinil)/12 - Baião violado - (Dominguinhos).mp3 | 6999
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1974 - Molhado de Suor (Forró em vinil)/11 Chutando Pedras.mp3 | 6753
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1975 - Compacto (Forró em vinil)/01 Severina Xique Xique.mp3 | 6727
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1975 - Aqui Tem Catimberê (Forró em vinil)/01 - Severina Xique Xique.mp3 | 6727
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/11 dendalei.mp3 | 6681
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/14 A feira de Caruaru.mp3 | 6601
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/06 - Valsa de realejo.mp3 | 6284
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/12 Pau de Arara.mp3 | 6243
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/01 - Trio Nordestino - Forró pesado.mp3 | 5566
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - Tudo azul (Forró em vinil)/08 - Lamento sertanejo.mp3 | 5505
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/09 Tributo aos orixás.mp3 | 5269
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/09 noites brasileiras.mp3 | 4989
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1975 - Claridade (Forró em vinil)/04 - Juízo Final.mp3 | 4930
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 1973 - Compacto (Forró em vinil)/01 Meio de campo.mp3 | 4922
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/03 Alvorada no morro.mp3 | 4872
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/01- Asa branca.mp3 | 4839
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1977 - Antologia do Baião (Forró em vinil)/1 - ASA BRANCA.mp3 | 4839
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/07 folia de rei.mp3 | 4831
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/13 Derramaro o gai.mp3 | 4625
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/05 Pontos Cardeais.mp3 | 4426
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/09.Voa Voa.mp3 | 4347
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/02 Samba da volta.mp3 | 4286
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/07 Hora do adeus.mp3 | 4205
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/02 hora do adeus.mp3 | 4205
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/04-Ponteio.mp3 | 3927
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/01 Capim Novo.mp3 | 3892
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/01 Baião da garoa.mp3 | 3778
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/09 selva de feras.mp3 | 3735
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/08 sanfona do povo.mp3 | 3732
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/11 Clarice.mp3 | 3720
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/03 Domingo de pedra e cal.mp3 | 3718
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/01 Sempre mangueira.mp3 | 3542
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/07 Cantiga do sapo.mp3 | 3535
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/08 véio zuza.mp3 | 3499
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/03 Siri jogando bola.mp3 | 3498
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/03 Candongueiro.mp3 | 3481
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/02 Mente.mp3 | 3474
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/10 Pau de Arara.mp3 | 3439
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/03 cidadão da mata.mp3 | 3394
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/04 Em copacabana.mp3 | 3345
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/01- Adeus Maria Fulô.mp3 | 3260
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/06-Adeus Maria Fulo.mp3 | 3260
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/07-Adeus Maria Fulô.mp3 | 3260
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/05 Cravo vermelho.mp3 | 3244
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1975 - Baiano e os Novos Caetanos 2 (Forró em vinil)/08-Ciranda.mp3 | 3230
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/06 ciranda.mp3 | 3230
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - Tudo azul (Forró em vinil)/10 - Sanfona sentida.mp3 | 3188
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/05 aldeia.mp3 | 3157
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1978 - ...Até a Amazônia (Forró em vinil)/02.PALAVRA ACESA.mp3 | 3137
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/10 tributo ao regional.mp3 | 3117
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/02 nêga.mp3 | 3076
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/08 - petrolina juazeiro.mp3 | 3067
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/5- Pisa na Fulô.mp3 | 3060
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/05 - chinelo de rosinha.mp3 | 2924
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/06 são joão do carneirinho.mp3 | 2833
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/03 Sanfona Sentida.mp3 | 2783
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/03 Sindorerê.mp3 | 2684
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/2- Na Asa do vento.mp3 | 2599
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/02 Seca do nordeste.mp3 | 2539
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/09 Moeda.mp3 | 2529
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1973 - Compacto (Forró em vinil)/3- Chupando gelo.mp3 | 2493
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/03 - forró desarmado.mp3 | 2492
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/03 Retrato de um forró.mp3 | 2489
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/11 retrato de um forró.mp3 | 2489
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/06 Quem me ouvir cantar.mp3 | 2462
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 1973 - Compacto (Forró em vinil)/02 Eu só quero um xodó.mp3 | 2448
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/07 Opção.mp3 | 2333
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/07 Juritis e borboletas.mp3 | 2255
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/04 Novena.mp3 | 2248
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/8.FLOR DA PAISAGEM.mp3 | 2210
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/10 Amor desfeito.mp3 | 2209
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/04 Outro recado.mp3 | 2204
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/11 Esse Meu Cantar.mp3 | 2183
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/02-Quando me Lembro.mp3 | 2125
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/08 Sangue de nordestino.mp3 | 2119
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/09 sangue de nordestino.mp3 | 2119
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/06 Punhal.mp3 | 2091
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/04- Ê baiana.mp3 | 2090
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/03- Meu lema.mp3 | 1997
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1977 - E o Samba de Breque (Forró em vinil)/09 - Dormi no molhado.mp3 | 1960
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/5.DEPENDE.mp3 | 1956
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 1978 - Zé Ramalho (Forró em vinil)/05.A Dança Das Borboletas.mp3 | 1956
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1977 - Chá cutuba (Forró em vinil)/13 - Karolina com K.mp3 | 1905
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/06 serrote agudo.mp3 | 1888
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/01 Morena bela.mp3 | 1885
+/home/felipev/datasets/forro em vinil/Alceu Valenca - 1977 - Espelho Cristalino (Forró em vinil)/07- A dança das borboletas.mp3 | 1869
+/home/felipev/datasets/forro em vinil/Ary Lobo - 1971 - seus maiores sucessos - vol.2 (Forró em vinil)/10 Pedido a Padre Cícero.mp3 | 1862
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/03 Casaca de couro.mp3 | 1825
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1972 - Clara Clarice Clara (Forró em vinil)/04 Tempo a bessa.mp3 | 1811
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/06-Asa Branca.mp3 | 1806
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/01 vô bate pá tu.mp3 | 1784
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/07 Seis Horas.mp3 | 1781
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/11 O bem e o mal.mp3 | 1768
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/10 Facilita.mp3 | 1750
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/10 - Facilita.mp3 | 1750
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/01 óia eu aqui de novo.mp3 | 1709
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/04 - Trio Nordestino - Esquenta Moreninha.mp3 | 1680
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/13.CAVALO MARINHO.mp3 | 1674
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1973 - Tem mulher, tô lá (Forró em vinil)/08 tem mulher, tô lá.mp3 | 1670
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/08 Tem mulher tô lá.mp3 | 1670
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/07.PIPOQUINHA.mp3 | 1653
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/06- Novamente.mp3 | 1622
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/06 Daquele jeito.mp3 | 1597
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/07 daquele jeito.mp3 | 1597
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/01.VAQUEJADA.mp3 | 1575
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/13- Canseira.mp3 | 1505
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/4- Péba na Pimenta.mp3 | 1501
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - O forró é nosso (Forró em vinil)/09. Juazeiro.mp3 | 1492
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/03-Tunnel.mp3 | 1489
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/1- A Voz do Povo.mp3 | 1443
+/home/felipev/datasets/forro em vinil/banda de pifanos de caruaru - 1976 - banda de pifanos de caruaru (forro em vinil)/01 - pipoca moderna.mp3 | 1411
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/05 Forró de Surubin.mp3 | 1400
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/11 Roendo Unha.mp3 | 1388
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/6.CINTURA FINA.mp3 | 1374
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/01 - menino de colo.mp3 | 1362
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/10- A favorita.mp3 | 1298
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/08- Sabiá.mp3 | 1297
+/home/felipev/datasets/forro em vinil/Clemilda - 1978 - Guerreiro alagoano (Forró em vinil)/08 Recordação de vaqueiro.mp3 | 1296
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/05 a mulher do meu patrão.mp3 | 1290
+/home/felipev/datasets/forro em vinil/Sivuca - 1974 - Sivuca (Forró em vinil)/09-Lament of Berimbau.mp3 | 1285
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/09 Cantarino.mp3 | 1268
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/06 cantarino.mp3 | 1268
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/06 - Cantarino.mp3 | 1268
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/02-Procissão.mp3 | 1258
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/06 Mané Gardino.mp3 | 1225
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1978 - Ó xente! (Forró em vinil)/05.Vou Com Você.mp3 | 1173
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/06 Xaxado.mp3 | 1156
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/02- Freviola.mp3 | 1156
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/1.SANTO E DEMÔNIO.mp3 | 1147
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/11 a festa do milho.mp3 | 1130
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/15 Olha a pisada.mp3 | 1083
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/3-  Carcará.mp3 | 1081
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/02 Correnteza.mp3 | 1047
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/08 Baião de São Sebastião.mp3 | 1036
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/12 baião de são sebastião.mp3 | 1036
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/13 - Baião de São Sebastião.mp3 | 1036
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/14- Morrendo verso em verso.mp3 | 1033
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/07 - Disparada.mp3 | 1021
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/04- Rancho Fundo.mp3 | 1017
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/03- Santana.mp3 | 994
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1976 - O Alegríssimo (Forró em vinil)/07 - Trio Nordestino - Chap Chap.mp3 | 993
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/08. Homem com H.mp3 | 992
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1974 - Compacto (Forró em vinil)/01 - Homem com H.mp3 | 992
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/09 Sina de cigarra.mp3 | 971
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/10 Sina de cigarra.mp3 | 971
+/home/felipev/datasets/forro em vinil/Elino Julião - 1978 - Coração louco (Forró em vinil)/08 Meu cofrinho de amor.mp3 | 971
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/06- Roda de ciranda.mp3 | 965
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/03 xóte dos cabeludos.mp3 | 957
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/4.APRENDER A VOAR.mp3 | 955
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/03 O Bom Improvisador.mp3 | 945
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/09 - O Bom Improvisador.mp3 | 945
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/7-  O canto da Ema.mp3 | 938
+/home/felipev/datasets/forro em vinil/Ary Lobo - 1971 - seus maiores sucessos - vol.2 (Forró em vinil)/02 Paulo Afonso.mp3 | 933
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/11.AGONIA.mp3 | 928
+/home/felipev/datasets/forro em vinil/João do Vale - 1977 - Nova historia da MPB (Forró em vinil)/8-  Sina de Caboclo.mp3 | 918
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/08- Acauã.mp3 | 905
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/02- Berimbau.mp3 | 895
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/12 Apologia ao Jumento.mp3 | 892
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/07 Cavalo crioulo.mp3 | 869
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/01 - Cavalo Crioulo.mp3 | 869
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/02 Moda da mula preta.mp3 | 860
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/08 Moda da mula preta.mp3 | 860
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/10-Fica mal com Deus.mp3 | 841
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/04 Fole danado.mp3 | 826
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/02 - Fole Danado.mp3 | 826
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/07- Baião da Garoa.mp3 | 819
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/09- Marcha nativa dos Índios Quiriris.mp3 | 814
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1973 - Tem mulher, tô lá (Forró em vinil)/10 amor de mentirinha.mp3 | 776
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/01 Eu vou de banda.mp3 | 775
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/05- Imagens do Recife.mp3 | 771
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/04- Reflexo.mp3 | 755
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1975 - Baiano e os Novos Caetanos 2 (Forró em vinil)/01-Perereca.mp3 | 751
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/04 O Que É Que A Baiana Tem.mp3 | 738
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/10- Vozes da seca.mp3 | 732
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1976 - Vivo! (Forró em vinil)/01 Casamento da Raposa.mp3 | 724
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1974 - Alvorecer (Forró em vinil)/08 Nanaê, Nanã Naiana.mp3 | 717
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/9.POBRE BICHINHO.mp3 | 704
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/2.PONTA DE ESPINHO.mp3 | 683
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/07- Misticismo da África ao Brasil.mp3 | 679
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1975 - Baiano e os Novos Caetanos 2 (Forró em vinil)/02-Ameriqueiro.mp3 | 671
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/08 Ninguém.mp3 | 656
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/01 - Procurando Tu.mp3 | 650
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1970 - No Meio das Meninas (Forró em vinil)/04 - Trio Nordestino - Procurando tú.mp3 | 650
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1970 - Compacto (forró em vinil)/01- Procurando TU.mp3 | 650
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Grandes sucessos (Forró em vinil)/07 Procurando Tu.mp3 | 650
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/14 forro no escuro.mp3 | 646
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/02- Participação.mp3 | 640
+/home/felipev/datasets/forro em vinil/banda de pifanos de caruaru - 1976 - banda de pifanos de caruaru (forro em vinil)/03 - frevo danado.mp3 | 629
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/08 Quero ver.mp3 | 620
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/04-Cirandeiro.mp3 | 617
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/07 Esquenta mulher.mp3 | 614
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/05 Zambelê.mp3 | 613
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1972 - Asa Branca (Forró em vinil)/11- Agreste.mp3 | 609
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/10 Arrebol.mp3 | 603
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1977 - E o Samba de Breque (Forró em vinil)/03 - Sambista de Consultório.mp3 | 602
+/home/felipev/datasets/forro em vinil/Moreira da Silva - 1977 - E o Samba de Breque (Forró em vinil)/05 - Que Malandro sou eu.mp3 | 575
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1978 - Guerreira (Forró em vinil)/12 Tu me deste o teu cuidado.mp3 | 574
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/10.MAL DOLOROSO.mp3 | 571
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/08-Lamento.mp3 | 568
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/07 O puxa saco.mp3 | 564
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1973 - Tem mulher, tô lá (Forró em vinil)/12 chu chu beleza.mp3 | 560
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/11 Chu chu beleza.mp3 | 560
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/03 Catirina.mp3 | 555
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/02.DUDA NO FREVO.mp3 | 551
+/home/felipev/datasets/forro em vinil/banda de pifanos de caruaru - 1976 - banda de pifanos de caruaru (forro em vinil)/11 - cabo da vassoura.mp3 | 519
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/04 Lamento cego.mp3 | 512
+/home/felipev/datasets/forro em vinil/Amelinha - 1977 - Flor da Paisagem (Forró em vinil)/7.SENHORA DONA.mp3 | 511
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/08.BEIRA DE ESTRADA.mp3 | 496
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1973 - Tem mulher, tô lá (Forró em vinil)/02 xarope de amendoim.mp3 | 494
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/10. Da boca pra fora.mp3 | 493
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/03.TRES TRES.mp3 | 492
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/12 Chico chora.mp3 | 487
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/04 Qui nem giló.mp3 | 483
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/02. Por debaixo dos panos.mp3 | 480
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1975 - Baiano e os Novos Caetanos 2 (Forró em vinil)/09-Apocalipse.mp3 | 480
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1978 - Forró do poeirão (Forró em vinil)/08 - por debaixo dos panos.mp3 | 480
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/01 - Assum preto.mp3 | 480
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/10 Adeus, Rio.mp3 | 472
+/home/felipev/datasets/forro em vinil/As Cangaceiras - 1970 - As Cangaceiras (Forró em vinil)/01 Sebastiana.mp3 | 469
+/home/felipev/datasets/forro em vinil/As Cangaceiras - 1978 - Forró em Limoeiro (Forró em vinil)/01 Sebastiana.mp3 | 469
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1978 - ...Até a Amazônia (Forró em vinil)/01.CONTO DO CANTO.mp3 | 469
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/06 Xote da gameleira.mp3 | 462
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/03-Morena.mp3 | 454
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/08 - Cuidado com as Coisas.mp3 | 453
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Grandes sucessos (Forró em vinil)/03 Cuidado Com as Coisas.mp3 | 453
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1971 - Ninguém pode com você (Forró em vinil)/02 - Trio Nordestino - Cuidado com as coisas.mp3 | 453
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - Estamos aí pra Balançar (Forró em vinil)/02 - Trio Nordestino - Forró do bole bole.mp3 | 453
+/home/felipev/datasets/forro em vinil/Ary Lobo - 1973 - Súplica Cearense (Forró em vinil)/03 Eu vou pra lua.mp3 | 433
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - Estamos aí pra Balançar (Forró em vinil)/07 - Trio Nordestino - O trem pega.mp3 | 423
+/home/felipev/datasets/forro em vinil/banda de pifanos de caruaru - 1976 - banda de pifanos de caruaru (forro em vinil)/09 - levanta poeira.mp3 | 420
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/02 Mulher malvada.mp3 | 416
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Aquilo bom (Forró em vinil)/09 - Meu chevrolet.mp3 | 407
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1970 - Sertão 70 (Forró em vinil)/10 Boca de forno.mp3 | 403
+/home/felipev/datasets/forro em vinil/banda de pifanos de caruaru - 1976 - banda de pifanos de caruaru (forro em vinil)/08 - o tocador rebate a marcha.mp3 | 401
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/02 Virgem Virgínia.mp3 | 399
+/home/felipev/datasets/forro em vinil/Baiano e os novos Caetanos - 1974 - Baiano e os novos Caetanos (Forró em vinil)/04 urubu tá com raiva do boi.mp3 | 397
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/05 A luz do saber.mp3 | 394
+/home/felipev/datasets/forro em vinil/Baiano e os Novos Caetanos - 1975 - Baiano e os Novos Caetanos 2 (Forró em vinil)/10-Violamania.mp3 | 391
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1978 - Ó xente! (Forró em vinil)/10.O Sertão Te Espera.mp3 | 381
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/03 Tambor de crioula.mp3 | 380
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/01 Eu e Dona Maria.mp3 | 378
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/08- Batucada.mp3 | 377
+/home/felipev/datasets/forro em vinil/Clara Nunes - 1971 - Clara Nunes (Forró em vinil)/12- Feitio de oração.mp3 | 376
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/06 - Machucando Sim.mp3 | 373
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/07-Vida ruim.mp3 | 373
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Grandes sucessos (Forró em vinil)/05 Machucando Sim.mp3 | 373
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Renovação (Forró em vinil)/02 - Trio Nordestino - Machucando sim.mp3 | 373
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/02 - Pau de arara.mp3 | 373
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/11-O cantador.mp3 | 372
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1976 - Capim Novo (forro em vinil)/02 Carapeba.mp3 | 366
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/05-Caminho de pedra.mp3 | 365
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - Estamos aí pra Balançar (Forró em vinil)/01 - Trio Nordestino - Menina apimentada.mp3 | 364
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - São Paulo - QG do baião (Forró em vinil)/10 To sobrando.mp3 | 362
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/04.LADAINHA.mp3 | 358
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/13 de juazeiro a crato.mp3 | 356
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1978 - ...Até a Amazônia (Forró em vinil)/03.MESTRE VITALINO.mp3 | 356
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Volta pra curtir (ao vivo) (Forró em vinil)/08 Estrada de Canindé.mp3 | 350
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/05.ENGENHO NOVO.mp3 | 346
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/06.MINHA CIRANDA.mp3 | 339
+/home/felipev/datasets/forro em vinil/Marinês - 1978 - Cantando pra valer (Forró em vinil)/1- POR DEBAIXO DOS PANOS.mp3 | 334
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/03- It Might Have Been.mp3 | 330
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/02 - Trio Nordestino - Por causa da pepita.mp3 | 329
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/06 Indiferente.mp3 | 326
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/03 - Indiferente.mp3 | 326
+/home/felipev/datasets/forro em vinil/Vital Farias - 1978 - Vital Farias (Forró em vinil)/09 Poema verdade.mp3 | 319
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1976 - O Alegríssimo (Forró em vinil)/09 - Trio Nordestino - O chineleiro.mp3 | 316
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/08-O milagre.mp3 | 312
+/home/felipev/datasets/forro em vinil/Vital Farias - 1978 - Vital Farias (Forró em vinil)/06 Alice no curral das maravilhas.mp3 | 299
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/07 viola de penedo.mp3 | 294
+/home/felipev/datasets/forro em vinil/Vital Farias - 1978 - Vital Farias (Forró em vinil)/08 Expediente interno.mp3 | 294
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1977 - Geraldo Azevedo (Forró em vinil)/06 Fulo do dia.mp3 | 291
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/04 alegria minha gente.mp3 | 280
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/01-Homenagem à Velha Guarda.mp3 | 279
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/12.DE UMA NOITE DE FESTA.mp3 | 275
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1973 - Primeiro e Único (Forró em vinil)/02 - Trio Nordestino - Bom demais.mp3 | 274
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/06 - Dona Aninha.mp3 | 272
+/home/felipev/datasets/forro em vinil/Sivuca - 1972 - Sivuca at the Village Gate (Forró em vinil)/06- Marina.mp3 | 271
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/09-Barra vai quebrando.mp3 | 271
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1978 - Ó xente! (Forró em vinil)/08.Eu Me Lembro.mp3 | 270
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/10 Você já era.mp3 | 264
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1977 - Um nordestino alegre (Forró em vinil)/09 Sete meninas.mp3 | 262
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/03. Voltar pra Bahia.mp3 | 261
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/11.FORRÓ DO DOMINGUINHOS.mp3 | 256
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1978 - ...Até a Amazônia (Forró em vinil)/08.PALAVRA DE CANTADOR.mp3 | 255
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/02 Fogo pagou.mp3 | 253
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/10 fogo pagou.mp3 | 253
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Aquilo bom (Forró em vinil)/10 - Ana Rosa.mp3 | 251
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/04 - O gemedor.mp3 | 251
+/home/felipev/datasets/forro em vinil/Flávio José - 1977 - Só confio em tu (forró em vinil)/11 devolva.mp3 | 250
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/02 Vou de tutano.mp3 | 246
+/home/felipev/datasets/forro em vinil/Elino Julião - 1978 - Coração louco (Forró em vinil)/03 Foi morar com o guarda.mp3 | 246
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/05 - Ave Maria.mp3 | 245
+/home/felipev/datasets/forro em vinil/Trio nordestino - 1974 - Montanha Russa (forró em vinil)/03 conversa de motorista.mp3 | 244
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1978 - ...Até a Amazônia (Forró em vinil)/10.A PALAFITA.mp3 | 235
+/home/felipev/datasets/forro em vinil/Trio nordestino - 1974 - Montanha Russa (forró em vinil)/11 quem quiser amor.mp3 | 233
+/home/felipev/datasets/forro em vinil/Vital Farias - 1978 - Vital Farias (Forró em vinil)/04 Bandeira desfraldada.mp3 | 230
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/09 - A lua girou.mp3 | 230
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/08 - terra terra.mp3 | 228
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1977 - Chá cutuba (Forró em vinil)/04 - Jesus sertanejo.mp3 | 226
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/10 dengo maior.mp3 | 221
+/home/felipev/datasets/forro em vinil/Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/01 - Acontecivento.mp3 | 216
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/12 pai nosso.mp3 | 214
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/04 Só xote.mp3 | 213
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/01 só xote.mp3 | 213
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/10 - Ave Maria dos retirantes.mp3 | 213
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/09 onde o nordeste garoa.mp3 | 211
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/04-Fogo Pagô.mp3 | 211
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/05 Cidadão de caruaru.mp3 | 210
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/08 cidadão de caruaru.mp3 | 210
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - São João Quente (Forró em vinil)/06 - Lulu Vaqueiro.mp3 | 210
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/11 Juvina.mp3 | 208
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/04 - Juvina.mp3 | 208
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/01 Me Dá Um Beijo.mp3 | 206
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - Luiz Gonzaga (Forró em vinil)/12 Mulher de Hoje.mp3 | 201
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/05 - Mulher de Hoje.mp3 | 201
+/home/felipev/datasets/forro em vinil/Luiz Vieira - 1978 - Na asa do vento (Forró em vinil)/02 Na asa do vento.mp3 | 198
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Sanfona do povo (forró em vinil)/07 quase maluco.mp3 | 197
+/home/felipev/datasets/forro em vinil/Vital Farias - 1978 - Vital Farias (Forró em vinil)/05 Via crucis da mulher brasileira.mp3 | 196
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1977 - Chá cutuba (Forró em vinil)/06 - Menestrel do sol.mp3 | 196
+/home/felipev/datasets/forro em vinil/Flávio José - 1978 - Forró quentura (Forró em vinil)/05 Na cacimba do amor.mp3 | 194
+/home/felipev/datasets/forro em vinil/Flávio José - 1977 - Só confio em tu (forró em vinil)/10 seca nordestina.mp3 | 192
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1976 - Vamos Mariquinha (forro em vinil)/01 - vamos mariquinha.mp3 | 192
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/11 Pipoquinha.mp3 | 190
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1976 - O Alegríssimo (Forró em vinil)/05 - Trio Nordestino - Cochilou cachimbo cai.mp3 | 190
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/11 - O bom vaqueiro.mp3 | 188
+/home/felipev/datasets/forro em vinil/Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/02 - Asa Branca.mp3 | 184
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - Os 3 do Nordeste (forró em vinil)/02 - ana maria.mp3 | 183
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - O verdadeiro (Forró em vinil)/3- Adeus Rosinha.mp3 | 179
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/10 Choromingô.mp3 | 176
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/14 - Choromingô.mp3 | 176
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1976 - coletânea (Forró em vinil)/08 bandinha do macaco.mp3 | 176
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/09.BAIÃO DO QUINJÍ.mp3 | 175
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/05 - Rosinha Indiferente.mp3 | 173
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1974 - A Feira (Forró em vinil)/03 - Procissão.mp3 | 172
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/09 A vida dos outros.mp3 | 171
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/04-Reunião de Tristeza.mp3 | 171
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/10 Talismã.mp3 | 171
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/12 Tempo triste.mp3 | 171
+/home/felipev/datasets/forro em vinil/Sivuca - 1977 - Sivuca e Rosinha de Valença (Forró em vinil)/09-Tema do Boneco de Palha.mp3 | 169
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1978 - Ó xente! (Forró em vinil)/02.Quebra Quenga.mp3 | 168
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1978 - Alegria minha gente (Forró em vinil)/08 mundo novo.mp3 | 166
+/home/felipev/datasets/forro em vinil/Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/07 - Cantiga de cego.mp3 | 165
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/12. Morena louca.mp3 | 162
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/11 - Intupidinho de Amor.mp3 | 161
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1970 - No Meio das Meninas (Forró em vinil)/02 - Trio Nordestino - intupidinho de amor.mp3 | 161
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/08 Caruaru caruara.mp3 | 159
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/01 Frei Damião.mp3 | 159
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/02 frei damião.mp3 | 159
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1978 - Ó xente! (Forró em vinil)/12.Saudade Matadeira.mp3 | 157
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/08-João e Maria.mp3 | 156
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/03 - Estou Roendo Sim.mp3 | 152
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/05 umbuzeiro da saudade.mp3 | 152
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1971 - Ninguém pode com você (Forró em vinil)/07 - Trio Nordestino - Estou roendo sim.mp3 | 152
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - O forró é nosso (Forró em vinil)/08. Doce de côco.mp3 | 152
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/10. Toró De Lagrimas.mp3 | 151
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/07 Catingueira fulorou.mp3 | 150
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1973 - Berra Boi (Forró em vinil)/10.ABRAÇO AO HERMETO.mp3 | 149
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1972 - Procurando tu (Forró em vinil)/02 - No Meio das Meninas.mp3 | 146
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1970 - No Meio das Meninas (Forró em vinil)/03 - Trio Nordestino - No meio das meninas.mp3 | 146
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Grandes sucessos (Forró em vinil)/08 No Meio Das Meninas.mp3 | 146
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/05 O vovô do baião.mp3 | 146
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/11 Bom-... prá uns.mp3 | 146
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/11 - O Vovô do Baião.mp3 | 146
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1973 - A Nova Jerusalém (Forró em vinil)/07 - Bom Pra Uns.mp3 | 146
+/home/felipev/datasets/forro em vinil/Zito Borborema - 1973 - Forrozão (Forró em vinil)/03 - Mata Sete.mp3 | 143
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/04 Feira de Caruaru.mp3 | 141
+/home/felipev/datasets/forro em vinil/Trio nordestino - 1974 - Montanha Russa (forró em vinil)/09 fogo de amor.mp3 | 139
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/02 engenho massangana.mp3 | 138
+/home/felipev/datasets/forro em vinil/Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/09 - Posso falar e cantar.mp3 | 137
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1970 - Sertão 70 (Forró em vinil)/02 Garimpeiro sonhador.mp3 | 135
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/10-Céu e Mar.mp3 | 134
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/11 qui ri qui qui.mp3 | 133
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/02. Alarme Falso.mp3 | 132
+/home/felipev/datasets/forro em vinil/Trio nordestino - 1974 - Montanha Russa (forró em vinil)/01 montanha russa.mp3 | 131
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/04 - obrigado seu rei.mp3 | 130
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - Daquele jeito (Forró em vinil)/02 Têi têi no arraiá.mp3 | 128
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1974 - O fole roncou (Forró em vinil)/04 tei tei no arraiá.mp3 | 128
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/01. Dona Flor E Seus Dois Maridos.mp3 | 127
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1975 - Tá bom demais (Forrró em vinil)/06 na fugueira.mp3 | 126
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1978 - Dengo maior (Forró em vinil)/03 serena do mar.mp3 | 125
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/05 Dobradinho.mp3 | 122
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1977 - Pode cochilar (Forró em vinil)/06 - alambique de barro.mp3 | 122
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1970 - Sertão 70 (Forró em vinil)/04 Cantei.mp3 | 120
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1977 - Chá cutuba (Forró em vinil)/02 - Baião de dois.mp3 | 119
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1977 - Chá cutuba (Forró em vinil)/10 - Cabocleando.mp3 | 118
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/01 Sou invocado.mp3 | 117
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1977 - Oi, lá vou eu (Forró em vinil)/03 No dia em que eu vim me embora.mp3 | 117
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/03 O boi.mp3 | 115
+/home/felipev/datasets/forro em vinil/Zenilton - 1973 - Namoro no escuro (Forró em vinil)/01 Namoro no escuro.mp3 | 115
+/home/felipev/datasets/forro em vinil/Oswaldinho - 1978 - Lágrimas de namorado (Forró em vinil)/04 - Na casa de Dona Anita.mp3 | 114
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1970 - Sertão 70 (Forró em vinil)/12 Raparam tudo.mp3 | 113
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1971 - O canto jovem de Luiz Gonzaga (Forró em vinil)/12-No dia que eu vim me embora.mp3 | 112
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Grandes sucessos (Forró em vinil)/11 A Bahia Tem.mp3 | 112
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1971 - Ninguém pode com você (Forró em vinil)/03 - Trio Nordestino - A bahia tem.mp3 | 112
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - O verdadeiro (Forró em vinil)/4- Festa Brasileira.mp3 | 111
+/home/felipev/datasets/forro em vinil/Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/12 - Marcha rancho.mp3 | 111
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/03-Nosso Encontro.mp3 | 110
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruaru - 1973 - Zabumba Caruaru Vol. II (Forró em vinil)/04 - Alvorada.mp3 | 109
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/07. Maldita Hora.mp3 | 109
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1978 - Cabeça chata (Forró em vinil)/01. Rita caxeado.mp3 | 109
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - Lamento de caboclo (Forró em vinil)/06 - Enchendo o saco.mp3 | 107
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 1972 - Bandinha de pifano Zabumba Caruaru (forró em vinil)/06 Bloco das flores.mp3 | 105
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/05. O Poeta E O Cobertor.mp3 | 104
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/08 Quero aprender.mp3 | 104
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/06. Diacho De Dor.mp3 | 103
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1970 - Sertão 70 (Forró em vinil)/03 Xote do saiote.mp3 | 103
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/02 Mania de mangar.mp3 | 102
+/home/felipev/datasets/forro em vinil/Benedito Nunes - 1972 - Benedito Nunes (Forró em vinil)/05 Namoro escondido.mp3 | 101
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1978 - Os Rouxinhos da Bahia (forro em vinil)/02 - alegria e sorriso.mp3 | 99
+/home/felipev/datasets/forro em vinil/Ary Lobo - 1971 - seus maiores sucessos - vol.2 (Forró em vinil)/05 Fruta gostosa.mp3 | 98
+/home/felipev/datasets/forro em vinil/Trio nordestino - 1974 - Montanha Russa (forró em vinil)/02 chililiqui.mp3 | 97
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/09 Eu vim de longe.mp3 | 95
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/06 Marieta.mp3 | 94
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1976 - Forró pra juventude (Forró em vinil)/01 - a vendinha da feira.mp3 | 93
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1973 - 1981 - Os melhores sucessos (Forró em vinil)/13. A vendinha da feira.mp3 | 93
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/03. Chuculatêra.mp3 | 93
+/home/felipev/datasets/forro em vinil/Sivuca - 1978 - Sivuca (Forró em vinil)/05-Doce doce.mp3 | 93
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - O verdadeiro (Forró em vinil)/6- Coco Bamboliado.mp3 | 90
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1970 - No norte é assim (Forró em vinil)/09 Coco bamboliado.mp3 | 90
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1977 - O homem que tinha três pontinhos (Forró em vinil)/11 - Minha melodia.mp3 | 89
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/06 - Trio Nordestino - Fole de ouro.mp3 | 89
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1977 - Estamos aí pra Balançar (Forró em vinil)/04 - Trio Nordestino - Menina da noite.mp3 | 88
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1973 - Compacto (Forró em vinil)/2- O ciumento.mp3 | 87
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1974 - Compacto (Forró em vinil)/02 - O ciumento.mp3 | 87
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1973 - Primeiro e Único (Forró em vinil)/03 - Trio Nordestino - O ciumento.mp3 | 87
+/home/felipev/datasets/forro em vinil/Benedito Nunes - 1972 - Benedito Nunes (Forró em vinil)/04  Ou casa ou morre.mp3 | 84
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1972 - Sina de cigarra (Forró em vinil)/11 O lavrador.mp3 | 83
+/home/felipev/datasets/forro em vinil/João do Pife - 1975 - Folclore alagoano (Forró em vinil)/07 Garoto do pife.mp3 | 83
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/03 Mister Mistério.mp3 | 83
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/10 O samba e o pandeiro.mp3 | 83
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1976 - O Alegríssimo (Forró em vinil)/03 - Trio Nordestino - Mineira.mp3 | 83
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1971 - Ninguém pode com você (Forró em vinil)/04 - Trio Nordestino - Carreteiro.mp3 | 82
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/09 Penerou gavião.mp3 | 82
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Aquilo bom (Forró em vinil)/01 - Aquilo bom.mp3 | 80
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1975 - Forró Pesado (Forró em vinil)/10 - Trio Nordestino - Ela pede mais.mp3 | 80
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1975 - Os grandes sucessos (Forró em vinil)/12 Forró em Campina.mp3 | 80
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1973 - Lamento de caboclo (Forró em vinil)/02 - Lamento de caboclo.mp3 | 78
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1974 - Nossas raízes (Forró em vinil)/03 Mundo de paz e amor.mp3 | 77
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1976 - É sucesso (forró em vinil)/01 O pai da gabriela.mp3 | 76
+/home/felipev/datasets/forro em vinil/Alceu Valenca e Geraldo Azevedo - 1972 - Quadrafônico (Forró em vinil)/12 Horrível.mp3 | 75
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1972 - Aquilo bom (Forró em vinil)/06 - Meu pequeno cachoeiro.mp3 | 74
+/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1971 - Ludugero casa uma filha (Forró em vinil)/01 A volta do regresso.mp3 | 73
+/home/felipev/datasets/forro em vinil/Antonio Carlos e Jocafi - 1974 - Definitivamente (Forró em vinil)/04. Sexto Sentido.mp3 | 73

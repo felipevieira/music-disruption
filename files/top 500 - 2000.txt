@@ -1,0 +1,500 @@
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/03 Xote Dos Milagres.mp3 | 132422
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/05 - Xote da alegria.mp3 | 99472
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/19-Esperando na janela.mp3 | 53474
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/03 Esperando Na Janela.mp3 | 53474
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/08 Avisa.mp3 | 49052
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/10 Asas.mp3 | 32341
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/05 Confidência.mp3 | 31226
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/13 Lamento Sertanejo.mp3 | 24648
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/01 - Um Dia Perfeito.mp3 | 23862
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/03 Sebastiana.mp3 | 23164
+/home/felipev/datasets/forro em vinil/Amelinha - 2001- Vento, Forro e Folia (Forró em vinil)/07. Amelinha - Frevo Mulher.mp3 | 21110
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/10. A Vida Do Viajante.mp3 | 20626
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/13 - De volta pro aconchego.mp3 | 20315
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/11 Medo De Escuro.mp3 | 18389
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/01 - Simples mortais.mp3 | 17459
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/07 O canto da ema.mp3 | 16464
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - 90 Aninhos (Forró em vinil)/14. Sabiá.mp3 | 15882
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/01. Assum Preto.mp3 | 15844
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/12 Chiclete com banana.mp3 | 15336
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/02 - Falta.mp3 | 13130
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/10 Vem Me Ver.mp3 | 12549
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/03 - Figue com a saudade.mp3 | 12458
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 6 (Forró em vinil)/08. Olha Pro Céu - Luiz Gonzaga.mp3 | 11317
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/08. Boiadeiro.mp3 | 10950
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/06 Magamalabares.mp3 | 10911
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/06 Asa Branca.mp3 | 10411
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/18 Menina mulher da pele preta.mp3 | 10289
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/01 Deixa Entrar.mp3 | 9335
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/04 - Forró Lunar.mp3 | 9152
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/01 Óia Eu Aqui de Novo.mp3 | 8938
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/16 - Feira De Mangaio.mp3 | 8893
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/10 Lisbela.mp3 | 8733
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/02 Tudo Azul.mp3 | 8511
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/04 Juazeiro.mp3 | 8317
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/06 - Gotas de amor.mp3 | 8136
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/04 Rindo À Toa.mp3 | 7800
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/01 Águas Mansas.mp3 | 7535
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/02 Baião da Penha.mp3 | 7221
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/07 Qui Nem Jiló.mp3 | 6886
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/02 Forró em Limoeiro.mp3 | 6804
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/04 - O Xote Das Meninas.mp3 | 6582
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/07 Meu Cenário.mp3 | 6332
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/01. Respeita Januário.mp3 | 6303
+/home/felipev/datasets/forro em vinil/Flávio José - 2001 - Me diz amor (Forró em vinil)/03 me diz, amor.mp3 | 6097
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/16 Matilde.mp3 | 5991
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/16 - Abri A Porta.mp3 | 5801
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2003 - Duetos (Forró em vinil)/01 - Abri A Porta.mp3 | 5801
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/01 Erectos Cactos.mp3 | 5791
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/06 Forró De Tóquio.mp3 | 5570
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2003 - Baú do Trio Nordestino - Vol. 01 (Forró em vinil)/01 - Trio Nordestino - Forró Pesado.mp3 | 5566
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/08 Assum Preto.mp3 | 5546
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/12 - Xote universitário.mp3 | 5334
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/07 Zeca Violeiro.mp3 | 5286
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/05 - Balanço Do Mar.mp3 | 5284
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 1/05 - Temporal.mp3 | 5123
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/10 - Como alcancar uma Estrela.mp3 | 5042
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/03 - Tempo de paz.mp3 | 4991
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/14 Esverdear.mp3 | 4825
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/16 Amplidão.mp3 | 4781
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/11 - Numa Sala De Reboco.mp3 | 4721
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/03 Misturar Gostoso.mp3 | 4717
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/05. Derramaro O Gai.mp3 | 4625
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/03 Noite Severina.mp3 | 4432
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/04 Te Ver.mp3 | 4424
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/11 Pode Sim.mp3 | 4411
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/14 Casinha Feliz.mp3 | 4407
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/13 Minha Gata.mp3 | 4240
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/11 O Amor Daqui de Casa.mp3 | 4213
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/03 Cangaço.mp3 | 4210
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/11 - Pra viver mais.mp3 | 4198
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/14 - Hora do adeus.mp3 | 4117
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/10 A Volta da Asa Branca.mp3 | 4082
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/14 Desaforo.mp3 | 4017
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/02 - Versos Sinceros.mp3 | 4016
+/home/felipev/datasets/forro em vinil/Falamansa - 2000 - Deixa Entrar (Forró em vinil)/12 Oração.mp3 | 3808
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/14 Ao Meu Lado É O Seu Lugar.mp3 | 3778
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/06 - Feinha.mp3 | 3740
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/12 Praia Dos Pescadores.mp3 | 3726
+/home/felipev/datasets/forro em vinil/Circuladô de Fulô - 2001 - Circuladô de Fulô (Forró em vinil)/13 Som De Bob.mp3 | 3610
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 2007 - Maristela (Forró em vinil)/12 Radinho de pilha.mp3 | 3583
+/home/felipev/datasets/forro em vinil/Gilberto Gil - 2000 - Eu, tu eles (Forró em vinil)/12 As Pegadas Do Amor.mp3 | 3545
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/05 - Xote Delicado.mp3 | 3503
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/09 - Oh! Chuva.mp3 | 3446
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2003 - Duetos (Forró em vinil)/08 - Gostoso Demais.mp3 | 3403
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/01. Samarica Parteira.mp3 | 3335
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/06 - Forró de Sangue novo.mp3 | 3269
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/05 Sanfona sentida.mp3 | 3188
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/02 Suor de pele fina.mp3 | 3062
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/07 Proibido Cochilar.mp3 | 3015
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/08 Forró em Caruaru.mp3 | 2955
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/09 - Cintura Fina.mp3 | 2919
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - 90 Aninhos (Forró em vinil)/01. Paraíba.mp3 | 2869
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 1/02 - O Meu Pais.mp3 | 2867
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/01. Dominguinhos - De volta pro aconchego.mp3 | 2837
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/18 - De Volta Pro Aconchego.mp3 | 2837
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/07 - De Volta Pro Aconchego.mp3 | 2837
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/08 Parapoderembolar.mp3 | 2827
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/01 - Danado De Bom.mp3 | 2713
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/02 - Xote da saudade.mp3 | 2609
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/02 - Xote da Saudade.mp3 | 2609
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/09 Xote de Copacabana.mp3 | 2585
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/10 Cabo Tenório.mp3 | 2547
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/02 - O Xote Das Meninas.mp3 | 2539
+/home/felipev/datasets/forro em vinil/Flávio José - 2004 - Pra Amar e Ser Feliz (Forró em vinil)/07 - A Natureza das Coisas.mp3 | 2539
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2000 - Nós tudo junto (Forró em vinil)/08 - Chupando Gelo.mp3 | 2493
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2004 - De férias com Trio Forrozão (Forró em vinil)/01 - Lisbela.mp3 | 2461
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2000 - Na batida da Zabumba (Forró em vinil)/05 Lisbela.mp3 | 2461
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/04 - Ver pra crer.mp3 | 2407
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/07 Galopeando.mp3 | 2361
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/02 Asas da Ilusão.mp3 | 2287
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/10 Bagacera.mp3 | 2285
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/13 - Alcalino.mp3 | 2263
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 6 (Forró em vinil)/16. Erva Rasteira - Luiz Gonzaga.mp3 | 2242
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/03 - Imbalança.mp3 | 2239
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/04 Espinhos.mp3 | 2231
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/13 - Pra voce.mp3 | 2224
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/02 - Sonhei de Cara.mp3 | 2171
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/04 Preciso do teu sorriso.mp3 | 2153
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/01 - Quando Me Lembro.mp3 | 2125
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/06 A Natureza das Coisas.mp3 | 2063
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/14 - Anjo Querubim.mp3 | 2047
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/03 Anjo Querubim.mp3 | 2047
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/12 Eu Sambo.mp3 | 2043
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/10 Batuque Para Duarte.mp3 | 2032
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/11 Pontal.mp3 | 2026
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - 90 Aninhos (Forró em vinil)/07. Imbalança.mp3 | 1984
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/01 - Asa branca.mp3 | 1967
+/home/felipev/datasets/forro em vinil/Falamansa - 2001 - Essa é pra voces (Forró em vinil)/08 - Na beira do Cais.mp3 | 1942
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/07 - A Pedra e o Espinho.mp3 | 1897
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/03. Vida De Vaqueiro.mp3 | 1856
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/07 Quem me levará sou eu.mp3 | 1830
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/06 - De Mala E Cuia.mp3 | 1812
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/02 Ana Maria.mp3 | 1806
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/04 A mulher do Aníbal.mp3 | 1783
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 1/09 - Ele Disse.mp3 | 1716
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/04 - Pau de arara.mp3 | 1601
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2004 - De férias com Trio Forrozão (Forró em vinil)/06 - Xote Capixaba.mp3 | 1573
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/04 - Novo Dia.mp3 | 1550
+/home/felipev/datasets/forro em vinil/Flávio José - 2001 - Me diz amor (Forró em vinil)/02 É sempre assim.mp3 | 1541
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/02 - Aquela melodia.mp3 | 1533
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/12   Semente e fruto.mp3 | 1502
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/04 - Juazeiro.mp3 | 1492
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Cidadao Comum (Forró em vinil)/02-De Mala e Cuia.mp3 | 1481
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/12 Nada Para O Pedro.mp3 | 1477
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/08 - Conselhos.mp3 | 1467
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/08 - Onde está você.mp3 | 1458
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/20. Acácia Amarela.mp3 | 1408
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/15 - Aquariana.mp3 | 1396
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/03 - Bicho Do Mato.mp3 | 1396
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/12 Represa do querer.mp3 | 1394
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 7 (Forró em vinil)/02. Roendo Unha - Luiz Gonzaga.mp3 | 1388
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2003 - Despedida (Forró em vinil)/04. Tesouro E Meio.mp3 | 1367
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/12 - Roendo Unha.mp3 | 1364
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/14. A Letra I.mp3 | 1336
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/06 - Vem, Morena.mp3 | 1335
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/01 Deixa a Menina.mp3 | 1328
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/02. Paulo Afonso.mp3 | 1298
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/12 A Cinturinha Dela.wma | 1273
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2006 - Na boléia do destino (Forró em vinil)/15 - Tareco e Mariola.mp3 | 1252
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/07 - Tareco E Mariola.mp3 | 1252
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/02 Tareco e Mariola.mp3 | 1252
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/06 - Garrote ferido.mp3 | 1233
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/04 - Paciencia faz o Monge.mp3 | 1232
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/10 - Xamego.mp3 | 1231
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 1/06 - Seres Alados.mp3 | 1231
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/14. Vassouras.mp3 | 1192
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - 90 Aninhos (Forró em vinil)/04. Cigarro De Paia.mp3 | 1187
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/10 - Love sem amor.mp3 | 1176
+/home/felipev/datasets/forro em vinil/Cabruêra - 2002 - Cabruêra (Forró em vinil)/02 Forró Esferográfico.mp3 | 1165
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/14. Xaxado.mp3 | 1156
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/01 Gaiola da Saudade.mp3 | 1155
+/home/felipev/datasets/forro em vinil/Caiana - 2001 - Caiana (Forró em vinil)/03 Boneca.mp3 | 1144
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/15. Sertanejo Do Norte.mp3 | 1135
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/07 - O Homem de Aço.mp3 | 1130
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/08 - Sorriso Cativante.mp3 | 1124
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/14 - Despedida.mp3 | 1091
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/05 - Sete Meninas.mp3 | 1077
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/01 - Ataiô.mp3 | 1077
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2000 - Nós tudo junto (Forró em vinil)/09 - Sobradinho.mp3 | 1062
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/11 - Relaxa.mp3 | 1038
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - 90 Aninhos (Forró em vinil)/11. Baião.mp3 | 1021
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 6 (Forró em vinil)/07. Nordeste Pra Frente - Luiz Gonzaga.mp3 | 1005
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/09 - Do outro lado do Mundo.mp3 | 998
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/04 O rei nas estrelas.mp3 | 991
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/11 - Tudo o que voce quizer.mp3 | 990
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/02. Dominguinhos - Retrato redondinho.mp3 | 976
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/01 - Como Um Anjo Querubim.mp3 | 975
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/08 - Segredo.mp3 | 960
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/09 - Esses discos voadores me preocupam demais.mp3 | 948
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/02 - Hino nordestino.mp3 | 939
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/02 - A vida do viajante.mp3 | 936
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 6 (Forró em vinil)/13. Pobreza Por Pobreza - Luiz Gonzaga.mp3 | 935
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/05 Severina Xique Xique.mp3 | 909
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/03 Plantio de amor.mp3 | 906
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/07 - Forró Drenado.mp3 | 905
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/03 - Nem Se Despediu De Mim.mp3 | 903
+/home/felipev/datasets/forro em vinil/Falamansa - 2004 - Um dia perfeito (Forró em vinil)/13 - Passarinho cantador.mp3 | 882
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 4 (Forró em vinil)/02. Cavalo Crioulo - Luiz Gonzaga.mp3 | 869
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/06 - Na Puxada Da Rede.mp3 | 858
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/04 Mangabeira.mp3 | 856
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/01 Um a um.mp3 | 830
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/01 - Papagaio imbolador.mp3 | 829
+/home/felipev/datasets/forro em vinil/Arleno Farias - 2004 - Forró MPB (Forró em vinil)/01 - Anjo Querubim.mp3 | 819
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/08 Deixe o rio desaguar.mp3 | 807
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/08 - Pé de Rosa.mp3 | 804
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/10 O Casamento da Raposa.mp3 | 800
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/10 - Olhos de Miel.mp3 | 793
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/07 Argila.mp3 | 771
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/13. O Passo Da Rancheira.mp3 | 766
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/02 - Desligue a TV.mp3 | 762
+/home/felipev/datasets/forro em vinil/Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/03 Pra Voce Voltar Pra Mim.mp3 | 761
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/03 - Quando Fugias de Mim.mp3 | 758
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/10 - Digitado em poesia.mp3 | 748
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/16. Chofer De Praça.mp3 | 742
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2006 - Na boléia do destino (Forró em vinil)/07 - Filho do dono.mp3 | 738
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/17 - Filho Do Dono.mp3 | 738
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/07 Filho do Dono.mp3 | 738
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/04 Meu Maxixe.mp3 | 735
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 4 (Forró em vinil)/07. Diz Que Vai Virar - Luiz Gonzaga.mp3 | 732
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Zenilton e seus sucessos (Forró em vinil)/16 - Deixei de fumar.mp3 | 724
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Arquivo de Sucessos (Forró em vinil)/19 - Deixei de fumar.mp3 | 724
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/06 - Eu Só Quero Um Xodó.mp3 | 721
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/06 Minha Prenda.mp3 | 712
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/05 Xexéu de bananeira.mp3 | 694
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/11. Dominguinhos - Doidinho pra ver.mp3 | 678
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/11   Quem é muito querido a mim.mp3 | 678
+/home/felipev/datasets/forro em vinil/Flávio José - 2004 - Pra Amar e Ser Feliz (Forró em vinil)/02 - Cabrêsto.mp3 | 676
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/03 O vendedor de caranguejo.mp3 | 672
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/10 - O Vendedor De Caranguejo.mp3 | 672
+/home/felipev/datasets/forro em vinil/Alceu Valença - 2001 - Forró Lunar (Forró em vinil)/09 - Balalaica.mp3 | 662
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2001 - Balanço Bom (Forró em vinil)/03 - Trio Nordestino - Amor Escondido.mp3 | 660
+/home/felipev/datasets/forro em vinil/Adelmário Coelho - 2000 - Ao vivo (Forró em vinil)/14-Anjo querubim.mp3 | 644
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/03 - Bandeira desfraldada.mp3 | 644
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/04 Carinho gostoso.mp3 | 643
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/10 - Vontade.wma | 640
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/09 - Lenha na fogueira.mp3 | 634
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/04 Oia eu aqui de novo.mp3 | 631
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/07 - Luar do sertão.mp3 | 623
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/20 Toque de fole.mp3 | 623
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/07 - Trio Nordestino - Xaxado bossa nova.mp3 | 621
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/02 Ave Anjos Angeli.mp3 | 616
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/08 - Forro E Paixão.mp3 | 615
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2006 - Conterrâneos (Forró em vinil)/01 - Tempo Menino.mp3 | 615
+/home/felipev/datasets/forro em vinil/Arleno Farias - 2004 - Forró MPB (Forró em vinil)/05 - Normais.mp3 | 612
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/06 Vontade.mp3 | 604
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/01 - Violando com Hermeto.mp3 | 603
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/22 Sonhei de cara.mp3 | 600
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/11 O Periquito Dela.wma | 600
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/24 Vamo Que Vamo.mp3 | 599
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/04 - Como Dois Animais.mp3 | 591
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/05 Murmurando.mp3 | 583
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Cidadao Comum (Forró em vinil)/03-A Dor da Separacao.mp3 | 573
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/08 - Eu vou pra lua.mp3 | 567
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/06 - Aquele Verão.mp3 | 567
+/home/felipev/datasets/forro em vinil/Chico Pessoa - 2006 - Bem (Forró em vinil)/01 Amor Sem Limites.mp3 | 559
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/16 Catirina.mp3 | 555
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/09 - Cala a Boca.mp3 | 555
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/09. Dominguinhos - Eu sou do mundo.mp3 | 552
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/06 - Fungado na Barra.wma | 544
+/home/felipev/datasets/forro em vinil/Arleno Farias - 2004 - Forró MPB (Forró em vinil)/02 - Relaxa.mp3 | 544
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 2003 - No século XXI, no pátio do forró (Forró em vinil)/06 - Sonho.mp3 | 542
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/03. Dominguinhos - Firim fim fom do fole.mp3 | 540
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/13 Xaximbo.mp3 | 534
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/07 A vida é Você.mp3 | 533
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/05 Intrevero na Casa de Nicolá.mp3 | 529
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Zenilton e seus sucessos (Forró em vinil)/04 - Rio das pedras.mp3 | 520
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Arquivo de Sucessos (Forró em vinil)/20 - Rio das Pedras.mp3 | 520
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/01 Chamego Proibido.mp3 | 511
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/12. Dominguinhos - Me pede um carinho.mp3 | 496
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/07. Dominguinhos - Ainda acho pouco.mp3 | 495
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/09 Meu amor quem dera.mp3 | 493
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2000 - Nós tudo junto (Forró em vinil)/04 - Vamos Chamegar.mp3 | 491
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/04. Dominguinhos - Forro amadurou.mp3 | 490
+/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/02 Jardim dos animais.mp3 | 488
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2004 - De férias com Trio Forrozão (Forró em vinil)/09 - Agitando A Rapaziada.mp3 | 488
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2003 - Despedida (Forró em vinil)/01. Qui Nem Giló.mp3 | 483
+/home/felipev/datasets/forro em vinil/Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/06 Esperando Na Janela.mp3 | 479
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/02 - De Tamanco Mulher.mp3 | 477
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/12 Dois Pra Sempre.mp3 | 474
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2003 - Ao Vivo (Forró em vinil)/11 - Assum preto.mp3 | 469
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/11 A Natureza das Coisas.mp3 | 464
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 2004 - Acústico (Forró em vinil)/06 Sou feliz.mp3 | 464
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 6 (Forró em vinil)/14. Saudades De Helena - Luiz Gonzaga.mp3 | 464
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/16. Adeus Iracema.mp3 | 460
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/05   Se eu tivesse asa.mp3 | 459
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/15 Vou gargalhar.mp3 | 456
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/03 Tampa de Pedra.mp3 | 455
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/11 Luz de candeeiro.mp3 | 450
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/12 - Luz De Candeeiro.mp3 | 450
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/04 - Imbolê.mp3 | 448
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/10 Bote Tempo.mp3 | 447
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/07 Um Chorinho em Cochabamba.mp3 | 443
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 2004 - Acústico (Forró em vinil)/09 Nem ligue.mp3 | 442
+/home/felipev/datasets/forro em vinil/Silvério Pessoa - 2000 - Bate o mancá (Forró em vinil)/13 Prá Rapaziada.wma | 439
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2000 - Nós tudo junto (Forró em vinil)/02 - O Trem Pega.mp3 | 423
+/home/felipev/datasets/forro em vinil/Rastapé - 2002 - Até o dia clarear (Forró em vinil)/12 - Na Saudade.mp3 | 423
+/home/felipev/datasets/forro em vinil/Forróçacana - 2005 - O Melhor Forró do Mundo - áudio do DVD (Forró em vinil)/03 Taxi lunar.mp3 | 417
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2003 - Duetos (Forró em vinil)/04 - Retrato Da Vida.mp3 | 415
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/06 Ponto fraco.mp3 | 412
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/08 - A pureza do amor.mp3 | 411
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2006 - Na boléia do destino (Forró em vinil)/04 - Devagar.mp3 | 410
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/03 - Devagar.mp3 | 410
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/09 Devagar.mp3 | 410
+/home/felipev/datasets/forro em vinil/Nicolas Krassik - 2006 - Caçuá (Forró em vinil)/08 Petite Maman.mp3 | 409
+/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/10 Minhas desculpas.mp3 | 409
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/13 Os Beijos.mp3 | 406
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/08 Caminhos do mar.mp3 | 404
+/home/felipev/datasets/forro em vinil/Zé Ramalho - 2000 - Nação nordestina (Forró em vinil)/Zé Ramalho - 2000 - Nação nordestina - disco 2/05 - Amar quem eu já amei.mp3 | 399
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/13 - Tantas Palavras.mp3 | 389
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/12 A Cura.mp3 | 381
+/home/felipev/datasets/forro em vinil/Flávio José - 2001 - Me diz amor (Forró em vinil)/01 Estradar.mp3 | 377
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/04 - Pele Macia.wma | 377
+/home/felipev/datasets/forro em vinil/Flávio José - 2002 - Palavras ao Vento (Forró em vinil)/01 -  Palavras ao Vento.mp3 | 373
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2000 - Nós tudo junto (Forró em vinil)/05 - MacHucando Sim.mp3 | 373
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/07 Pra Nunca Mais Tu Me Deixar.mp3 | 372
+/home/felipev/datasets/forro em vinil/Trio Xamego - 2001 - Forró agarradinho (Forró em vinil)/02 - Medo de amar.mp3 | 370
+/home/felipev/datasets/forro em vinil/Trio Dona Zefa - 2005 - Forró do Talarico/09 - Seu Siriri.wma | 366
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/11 - Roseira Do Norte.mp3 | 365
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/05. Tô Sobrando.mp3 | 362
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/06. Dominguinhos - Minha pequena.mp3 | 352
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2003 - Despedida (Forró em vinil)/16. Estrada Do Canindé.mp3 | 350
+/home/felipev/datasets/forro em vinil/O Grande Encontro 3 - 2000 (Forró em vinil)/05.Frisson.mp3 | 349
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2003 - Despedida (Forró em vinil)/19. Xanduzinha.mp3 | 346
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/17. Moça Da Feira.mp3 | 343
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/08 Chegando de mansinho.mp3 | 343
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/07 - Orélia.mp3 | 341
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/10. Dominguinhos - Mais que um amigo.mp3 | 336
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/05 Peba na pimenta.mp3 | 334
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 4 (Forró em vinil)/16. Viva O Arigó - Luiz Gonzaga.mp3 | 331
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2008 - 50 anos (Forró em vinil)/09 - Por causa da pepita.mp3 | 329
+/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2007 - Festrilhas vol.1 (Forró em vinil)/03 Aurora boreal.mp3 | 329
+/home/felipev/datasets/forro em vinil/Toninho Horta - 2004 - Com um pé no forró (Forró em vinil)/11 Toninho Horta - Viva dominguinhos.mp3 | 328
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2003 - Duetos (Forró em vinil)/06 - Amizade Sincera.mp3 | 328
+/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Eterno Aprendiz (Forró em vinil)/02 Minha Doce Estrela.wma | 327
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/06 - Dureza.mp3 | 327
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2004 - De férias com Trio Forrozão (Forró em vinil)/07 - Diploma Nordestino.mp3 | 327
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2000 - Na batida da Zabumba (Forró em vinil)/09 Diploma Nordestino.mp3 | 327
+/home/felipev/datasets/forro em vinil/Toninho Horta - 2004 - Com um pé no forró (Forró em vinil)/05 Toninho Horta - A magia do olhar.mp3 | 325
+/home/felipev/datasets/forro em vinil/Clemilda - 2004 - Caminhos do prazer (Forró em vinil)/12 Prenda o Tadeu.mp3 | 323
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/02 Zabé Sabe.mp3 | 320
+/home/felipev/datasets/forro em vinil/Trio Pé de serra - 2001 - Até que enfim (Forró em vinil)/12 agitando a rapaziada.mp3 | 319
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 7 (Forró em vinil)/11. Nessa Estrada Da Vida - Luiz Gonzaga.mp3 | 319
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/07 - Pau podre.mp3 | 314
+/home/felipev/datasets/forro em vinil/Arleno Farias - 2004 - Forró MPB (Forró em vinil)/04 - Foto.mp3 | 312
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/13 - Nuvem Passageira.mp3 | 311
+/home/felipev/datasets/forro em vinil/Flávio José - 2004 - Pra Amar e Ser Feliz (Forró em vinil)/01 - Utopia Sertaneja.mp3 | 311
+/home/felipev/datasets/forro em vinil/Silvério Pessoa - 2000 - Bate o mancá (Forró em vinil)/01 Carreiro Novo.wma | 310
+/home/felipev/datasets/forro em vinil/Flávio José - 2008 - Dom Cristalino (Forró em vinil)/01-Pra que dividir.mp3 | 310
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2006 - Na boléia do destino (Forró em vinil)/02 - Cidade grande.mp3 | 309
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/04 - Cidade Grande.mp3 | 309
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/14 Cidade Grande.mp3 | 309
+/home/felipev/datasets/forro em vinil/Flávio José - 2005 - O Poeta Cantador (Forró em vinil)/04. Pra ver o amor nascer.mp3 | 300
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/13 Lágrima.mp3 | 299
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/06-Casa Velha De Sapê.mp3 | 297
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/03 - Quer Ir Mais Eu.mp3 | 295
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/08 Amarelo que Brilha.mp3 | 294
+/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/13 Meia Noite e Meia.mp3 | 294
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/07 Vento dos Sonhos.mp3 | 292
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/19 - Isso Aqui Tá Bom Demais.mp3 | 292
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/04 - Isso Aqui Ta Bom Demais.mp3 | 292
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2003 - Duetos (Forró em vinil)/14 - Isso Aqui Tá Bom Demais.mp3 | 292
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/11 Tudo mudou.mp3 | 288
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/04 - Calendário Do Amor.mp3 | 287
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/05 - O Xamego Da Guiomar.mp3 | 286
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/02. Cego Aderaldo.mp3 | 285
+/home/felipev/datasets/forro em vinil/Caiana - 2001 - Caiana (Forró em vinil)/08 Doce Menina.mp3 | 283
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/07 - Seu Delegado.mp3 | 279
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/19. Braia Dengosa.mp3 | 278
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/05 - Treze De Dezembro.mp3 | 276
+/home/felipev/datasets/forro em vinil/Mestre Zinho - 2005 - Gelo Na Farinha (Forró em vinil)/01 - Gelo Na Farinha.mp3 | 276
+/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/07. Gelo na farinha.mp3 | 276
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/14 Novena.mp3 | 274
+/home/felipev/datasets/forro em vinil/Sivuca - 2006 - Terra Esperança (Forró em vinil)/03-Barra vai Quebrando.mp3 | 271
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/07 - Barra Vai Quebrando.mp3 | 271
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/12 Pensando nela.mp3 | 271
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/09 - Se der, deu.mp3 | 268
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/02 Xote puladinho.mp3 | 264
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/04 Sanfonema.mp3 | 263
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/11 - A mulher e o teatro.mp3 | 261
+/home/felipev/datasets/forro em vinil/Mestre Zinho - 2005 - Gelo Na Farinha (Forró em vinil)/03 - Fique Linda E Bote Cheiro.mp3 | 260
+/home/felipev/datasets/forro em vinil/Caiana - 2001 - Caiana (Forró em vinil)/02 Vamos Fugir.mp3 | 259
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Cidadao Comum (Forró em vinil)/01-Cidadao Comum.mp3 | 257
+/home/felipev/datasets/forro em vinil/Arleno Farias - 2004 - Forró MPB (Forró em vinil)/06 - Choque.mp3 | 257
+/home/felipev/datasets/forro em vinil/Santanna - 2001 - Xote Pé de Serra (Forró em vinil)/13 Nunca Chore Por Mim.mp3 | 256
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/07 A lavadeira.mp3 | 256
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2000 - Na batida da Zabumba (Forró em vinil)/02 Bom demais.mp3 | 255
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2004 - O Forró Do Dominguinhos (Forró em vinil)/01 - Capim Novo.mp3 | 254
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/09 Verdes Mares.mp3 | 252
+/home/felipev/datasets/forro em vinil/Flávio José - 2004 - Pra Amar e Ser Feliz (Forró em vinil)/03 - Prá Amar e Ser Feliz.mp3 | 252
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/12-Devolva.mp3 | 250
+/home/felipev/datasets/forro em vinil/Os 4 Mensageiros - 2008 - 140 por hora (Forró em vinil)/04 Tem cheiro de amor no ar.mp3 | 248
+/home/felipev/datasets/forro em vinil/Trio Pé de Serra - 2003 - Ninguém desata esse nó (Forró em vinil)/04 - Sanfona sentida.mp3 | 247
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/09 - Cintura Fina.mp3 | 247
+/home/felipev/datasets/forro em vinil/Mestre Zinho - 2005 - Gelo Na Farinha (Forró em vinil)/02 - Cuidado Iracema.mp3 | 242
+/home/felipev/datasets/forro em vinil/Flávio José - 2004 - Pra Amar e Ser Feliz (Forró em vinil)/09 - Apaixonado Por Você.mp3 | 241
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/07 - A revanche.mp3 | 238
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/14 - Chamego bom demais.mp3 | 237
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/03 Jogo Limpo.mp3 | 237
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/08-Paixão Escondida.mp3 | 235
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/03 Sanfoneon.mp3 | 234
+/home/felipev/datasets/forro em vinil/Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/01 Pra Se Aninhar.mp3 | 233
+/home/felipev/datasets/forro em vinil/Trio Pé de Serra - 2003 - Ninguém desata esse nó (Forró em vinil)/07 - Tenente Bezerra.mp3 | 233
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2008 - 50 anos (Forró em vinil)/10 - Quem quiser amor.mp3 | 233
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/12 - Na Base da Chinela.mp3 | 232
+/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 2000 - A Música Brasileira deste Século por seus Autores e Intérpretes (Forró em vinil)/14 Vou lhe buscar.mp3 | 227
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/05 - Com Medo De Ficar Doente.mp3 | 227
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2006 - Conterrâneos (Forró em vinil)/15 - Feito Mandacaru.mp3 | 226
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/13-Cheiro De Forró.mp3 | 224
+/home/felipev/datasets/forro em vinil/Beto Brito - 2006 - Imbolê (Forró em vinil)/13 - Isso e coco.mp3 | 224
+/home/felipev/datasets/forro em vinil/Beto Brito - 2004 -Mei de Feira (Forró em vinil)/05 - Quebra Tudo.mp3 | 223
+/home/felipev/datasets/forro em vinil/Saísse e os Bois - 2001 - Saísse e os Bois (Forró em vinil)/04 Namoro.mp3 | 222
+/home/felipev/datasets/forro em vinil/Cabruêra - 2004 - O Samba Da Minha Terra (Forró em vinil)/03 Xingatório.mp3 | 222
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/18. Todo Homem Quer.mp3 | 222
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2008 - 50 anos (Forró em vinil)/04 - Pau de arara é a vovozinha.mp3 | 221
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/07-Recado.mp3 | 218
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/10-Tempos De Criança.mp3 | 218
+/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/06 Mais um dia sem te ver.mp3 | 212
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2006 - Conterrâneos (Forró em vinil)/05 - Vivendo A Brincar.mp3 | 212
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2006 - Conterrâneos (Forró em vinil)/02 - Cai Fora.mp3 | 211
+/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/04 - O Que Eu Queria.mp3 | 211
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/02   Vou te buscar.mp3 | 207
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/03 Gato Gordo.mp3 | 205
+/home/felipev/datasets/forro em vinil/Flávio José - 2000 - Seu Olhar Nao Mente (Forró em vinil)/09 Pobre matuto.mp3 | 205
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/09. Luar Do Nordeste.mp3 | 205
+/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/07 Contando os Dias.mp3 | 204
+/home/felipev/datasets/forro em vinil/Silvério Pessoa - 2000 - Bate o mancá (Forró em vinil)/07 Chora Bananeira.wma | 200
+/home/felipev/datasets/forro em vinil/Amelinha - 2001- Vento, Forro e Folia (Forró em vinil)/03. Amelinha - Foi Deus quem fez voce.mp3 | 197
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Arquivo de Sucessos (Forró em vinil)/05 - O Gato da Rosinha.mp3 | 195
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Forró Pé de Serra (Forró em vinil)/05. Dominguinhos - Pout Pourri.mp3 | 194
+/home/felipev/datasets/forro em vinil/Sivuca - 2006 - Terra Esperança (Forró em vinil)/02-Um Sol em Mim.mp3 | 194
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/10 - Um Sol Em Mim.mp3 | 194
+/home/felipev/datasets/forro em vinil/Caiana - 2001 - Caiana (Forró em vinil)/07 Meu Lugar.mp3 | 194
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2000 - Na batida da Zabumba (Forró em vinil)/03 Represa do querer.mp3 | 194
+/home/felipev/datasets/forro em vinil/Trio Sabiá - 2006 - 20 anos (Forró em vinil)/04 desabafo.mp3 | 192
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2005 - Samarica Parteira (Forró em vinil)/11. Mamulengo.mp3 | 191
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/01 - Velho Chico.mp3 | 191
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2006 - Seu Canto, Sua Sanfona E Seus Amigos - Vol. 7 (Forró em vinil)/08. Mazurca - Luiz Gonzaga.mp3 | 191
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/04-Vendavais.mp3 | 189
+/home/felipev/datasets/forro em vinil/Falamansa - 2003 - Simples mortais (Forró em vinil)/04 - Hoje a vida começa.mp3 | 189
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/10 - Vida.mp3 | 189
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 2000 - Ao Vivo (Forró em vinil)/07 Rio una.mp3 | 188
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Zenilton e seus sucessos (Forró em vinil)/15 - Milho cru.mp3 | 186
+/home/felipev/datasets/forro em vinil/Zenilton - 2008 - Arquivo de Sucessos (Forró em vinil)/06 - Milho cru.mp3 | 186
+/home/felipev/datasets/forro em vinil/Flávio José - 2001 - Me diz amor (Forró em vinil)/08 O que a gente faz.mp3 | 185
+/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Eterno Aprendiz (Forró em vinil)/05 Amor Pra Dar.wma | 184
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 2003 - No século XXI, no pátio do forró (Forró em vinil)/03 - Caruara Caruaru.mp3 | 184
+/home/felipev/datasets/forro em vinil/Silvério Pessoa - 2000 - Bate o mancá (Forró em vinil)/03 Casa de Aranha.wma | 183
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/03. Destino.mp3 | 182
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/10 Dominguinhos no Parque.mp3 | 179
+/home/felipev/datasets/forro em vinil/Sivuca - 2006 - Terra Esperança (Forró em vinil)/04-De Bom Grado.mp3 | 177
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/09 - De Bom Grado.mp3 | 177
+/home/felipev/datasets/forro em vinil/Cezinha - 2007 - Convidando a transbordar (Forró em vinil)/02 Recado.mp3 | 174
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 2002 - Canta Luiz (Forró em vinil)/13 - Canta Luiz.mp3 | 174
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 2003 - No século XXI, no pátio do forró (Forró em vinil)/01 - Marina.mp3 | 173
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/07 - Rancho de Palha.mp3 | 173
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2008 - 50 anos (Forró em vinil)/03 - Rosinha indiferente.mp3 | 173
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Cidadao Comum (Forró em vinil)/08-Anjo Malandrinho.mp3 | 172
+/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/01 Coco Trocado.mp3 | 170
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2001 - Balanço Bom (Forró em vinil)/12 - Trio Nordestino - Ana Bela.mp3 | 170
+/home/felipev/datasets/forro em vinil/Silvério Pessoa - 2000 - Bate o mancá (Forró em vinil)/09 Côco do M.wma | 169
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 2003 - No século XXI, no pátio do forró (Forró em vinil)/02 - Pimenta malagueta.mp3 | 169
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2004 - De férias com Trio Forrozão (Forró em vinil)/10 - Mineira.mp3 | 168
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2000 - Na batida da Zabumba (Forró em vinil)/14 Mineira.mp3 | 168
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/03   Hoje e amanhã.mp3 | 166
+/home/felipev/datasets/forro em vinil/Flávio José - 2008 - Dom Cristalino (Forró em vinil)/03-Fuxico.mp3 | 166
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/08 Nem Sol, Nem Lua.mp3 | 166
+/home/felipev/datasets/forro em vinil/Sivuca - 2006 - Terra Esperança (Forró em vinil)/06-A Chama do Amor.mp3 | 165
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/06 - A Chama Do Amor.mp3 | 165
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2008 - 26 Anos de Estrada (Forró em vinil)/11 - Forro de Pé de Bode.mp3 | 165
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2003 - 30 anos de pe de serra (Forró em vinil)/11 Botando quente.mp3 | 165
+/home/felipev/datasets/forro em vinil/Flávio José - 2001 - Me diz amor (Forró em vinil)/06 Vaqueiro violeiro.mp3 | 164
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 2005 - Forró do futuro (Forró em vinil)/12 - Sorriso de marfim.mp3 | 164
+/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2006 - Forro Popular Brasileiro (Forró em vinil)/08 Ana Maria.mp3 | 163
+/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/01 Ana Maria.mp3 | 163
+/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2003 - 30 anos de pe de serra (Forró em vinil)/05 Morena louca.mp3 | 162
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - A Música Brasileira Deste Século Por Seus Autores E Intérpretes (Forró em vinil)/15 - De Amor Eu Morrerei.mp3 | 161
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 2004 - Acústico (Forró em vinil)/11 Menino de rua.mp3 | 161
+/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Eterno Aprendiz (Forró em vinil)/07 Fuxico.wma | 160
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Cidadao Comum (Forró em vinil)/10-Brasilidade.mp3 | 160
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2002 - Chegando de mansinho (Forró em vinil)/13 Tô indo embora.mp3 | 159
+/home/felipev/datasets/forro em vinil/Mario Zan - 2003 - Sanfonando na roça (Forró em vinil)/03 - Mario Zan - Chalana.mp3 | 158
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 2000 - Hoje Amanhã (Forró em vinil)/06   Manequim.mp3 | 158
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/02 Migo.mp3 | 158
+/home/felipev/datasets/forro em vinil/Dominguinhos - 2001 - Lembrando de Você (Forró em vinil)/13 Desenho.mp3 | 157
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/02 Vida sem Dor.mp3 | 156
+/home/felipev/datasets/forro em vinil/Sivuca - 2005 - O poeta do som - áudio do DVD (Forró em vinil)/14 - João E Maria.mp3 | 156
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/09 Meia Saudade.mp3 | 156
+/home/felipev/datasets/forro em vinil/Caiana - 2001 - Caiana (Forró em vinil)/05 Jangada.mp3 | 155
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 2008 - 50 anos (Forró em vinil)/02 - De rostinho colado.mp3 | 154
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/12 - Fantasia.mp3 | 154
+/home/felipev/datasets/forro em vinil/Flávio José - 2003 - Acústico (Forró em vinil)/03-Companheira.mp3 | 153
+/home/felipev/datasets/forro em vinil/Petrucio Amorim - 2000 - A festa do forró (Forró em vinil)/05 - Nem Olhou Pra Mim.mp3 | 153
+/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/04 Nem Olhou Prá Mim.mp3 | 153
+/home/felipev/datasets/forro em vinil/O Grande Encontro 3 - 2000 (Forró em vinil)/08.Garoto De Aluguel.mp3 | 152
+/home/felipev/datasets/forro em vinil/Flávio José - 2005 - O Poeta Cantador (Forró em vinil)/01. O poeta cantador.mp3 | 152
+/home/felipev/datasets/forro em vinil/Toninho Ferragutti - 2006 - Nem Sol Nem Lua (Forró em vinil)/01 Na Sombra da Asa Branca.mp3 | 152
+/home/felipev/datasets/forro em vinil/Banda de Pífanos de Caruarú - 2003 - No século XXI, no pátio do forró (Forró em vinil)/04 - Casaca de couro.mp3 | 151
+/home/felipev/datasets/forro em vinil/Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/12 De Repente.mp3 | 149
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2003 - Despedida (Forró em vinil)/03. Bolo Mimoso.mp3 | 149
+/home/felipev/datasets/forro em vinil/Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/02 minhas desculpas.mp3 | 149

@@ -1,0 +1,500 @@
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/01 - Girassol.mp3 | 37324
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/09 -  Pagode Russo.mp3 | 30391
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/13 Vem Morena.mp3 | 29046
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/01 Me Usa.mp3 | 22173
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/10 Sabiá.mp3 | 15882
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/08 Pedras Que Cantam.wma | 15501
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/01 - Milonga para as Missões.mp3 | 14086
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/06 Olha Pro Céu.mp3 | 11317
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/03 - Descida Da Ladeira.mp3 | 11160
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/02 Boiadeiro.mp3 | 10950
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/10 - Rima com rima.mp3 | 9150
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/10-Feira de Mangaio.mp3 | 8893
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/07 - O xote das meninas.mp3 | 8794
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/11 - Petrolina Juazeiro.mp3 | 8483
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/02 Se Ze Limeira Sambasse Maracatu.mp3 | 8393
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/03 Berekeke.mp3 | 8077
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 02 - Só pra xamegar (Forró em vinil)/01 - Meu vaqueiro meu peão.mp3 | 7722
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/06 Meu Vaqueiro, Meu Peão.mp3 | 7722
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/04 - O Ovo E a Galinha.mp3 | 7006
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/02 Amor Que Vai.mp3 | 6939
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1994 -Rock do Jegue (Forró em vinil)/13 Severina Xique Xique.mp3 | 6727
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/04 A Feira de Caruaru.mp3 | 6601
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/06 Maracajá.mp3 | 6516
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/12 - Ciranda da Rosa Vermelha.mp3 | 6466
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/09 Respeita Januário.mp3 | 6303
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/14 Diabo Louro.mp3 | 6270
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/08. Abri A Porta.mp3 | 5801
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/11 Juazeiro.mp3 | 5778
+/home/felipev/datasets/forro em vinil/Flávio José - 1997 - Sem ferrolho e sem tramela (Forró em vinil)/02 - Espumas ao vento.mp3 | 5267
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/08 Noites Brasileiras.mp3 | 4989
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/07 - Dia Branco.mp3 | 4760
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/09 Baile Catingoso.mp3 | 4642
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/12 Pipoca Moderna.mp3 | 4540
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/07 - Meu Forró é Meu Canto.mp3 | 4440
+/home/felipev/datasets/forro em vinil/Amelinha - 1994 - Só forró (Forró em vinil)/09 Gemedera.mp3 | 4417
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/08 - Essa menina.mp3 | 4233
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1995 - Paisagem (Forró em vinil)/02 paisagem da janela.mp3 | 4011
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/08 Letras Negras.mp3 | 3983
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/05 Baião da Garoa.mp3 | 3778
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/14 - Beijando a Flora.mp3 | 3772
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/03. Sete Meninas.mp3 | 3699
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/06 Estrela Amazona.mp3 | 3586
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1994 -Rock do Jegue (Forró em vinil)/05 Radinho De Pilha.mp3 | 3583
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/16 A Feira de Caruaru.mp3 | 3565
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/02. Gostoso Demais.mp3 | 3403
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/01 -  Vira e Mexe.mp3 | 3389
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/08 O Circo de Seu Bidu.mp3 | 3379
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/04 - Paralelas.mp3 | 3333
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/10 Mensagem Pra Ze Calixto.mp3 | 3311
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/14 Benjaab.mp3 | 3307
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/10 No Ceara E Assim.wma | 3262
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/07 Tres Vendas.mp3 | 3226
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/04 Imaculada.mp3 | 3186
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/01 Verdadeiro Amor.mp3 | 3122
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/14 - Tesoura Do Desejo.mp3 | 2991
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/03 Apaixonada.mp3 | 2878
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/01 TARECO E MARIOLA.mp3 | 2862
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/15 - Chorando E Cantando.mp3 | 2842
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/01 - De Volta Pro Aconchego.mp3 | 2837
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/15 Matuto Do Salame.mp3 | 2836
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/04 - Pelas Ruas Que Andei.mp3 | 2819
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/07 - Anjo da guarda.mp3 | 2793
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/04 - Noite fria.mp3 | 2754
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/02 Filho do Dono.mp3 | 2723
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/04 Tentando Me Evitar.mp3 | 2699
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/12 - Cantiga do sapo.mp3 | 2649
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/02 Adoro.mp3 | 2613
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/04 Forro de Primeira.mp3 | 2592
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/05 - Vou pra Campinas.mp3 | 2525
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/02 - O tempo e o vento.mp3 | 2483
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/01 - Tatuagem.mp3 | 2464
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/11 - Solidão.mp3 | 2432
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/02 Tenho sede.mp3 | 2391
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/13 - Tenho sede.mp3 | 2391
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/01 Jose.mp3 | 2328
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/01 - Penerô Xerém.mp3 | 2321
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/10 Ladeiras.mp3 | 2299
+/home/felipev/datasets/forro em vinil/Mestre Ambrósio - 1996 - Mestre Ambrósio (Forró em vinil)/05 Jatoba.mp3 | 2228
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1993 - Devora-me (Forró em vinil)/12-Coração da gente.mp3 | 2164
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/07 Meu Araripe.mp3 | 2157
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/02 QUANDO BATE O CORAÇÃO.mp3 | 2150
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/02 - Sivuca - Quando me Lembro.mp3 | 2125
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/07 Minha Verdade.mp3 | 2017
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/01 - Minha verdade.mp3 | 2017
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/09 Espuma aos vento.mp3 | 1976
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/09 Xiquexique.mp3 | 1934
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/03 Dia de Cão.mp3 | 1932
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/13 - Um Bouquê Para uma Rosa.mp3 | 1927
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/01 - Caboclo Sonhador.mp3 | 1910
+/home/felipev/datasets/forro em vinil/Flávio José - 1992 - Caboclo sonhador (Forró em vinil)/04 Caboclo sonhador.mp3 | 1910
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/12 Valores do Passado.mp3 | 1880
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/13 - Meio dia.mp3 | 1877
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/06 - Menino sem juízo.mp3 | 1848
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/09 - Merceditas.mp3 | 1845
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/14. Quem Me Levará Sou Eu.mp3 | 1830
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/02 Fonte dos Desejos.mp3 | 1818
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/11 Pétalas.mp3 | 1787
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/08 - O Amanha E Distante.mp3 | 1776
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/10 - Trem das Sete.mp3 | 1724
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/03 - Forró de Olinda.mp3 | 1708
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/10 Florzinha.mp3 | 1663
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/05 Animal Faminto.mp3 | 1644
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/08 De Onde Vem.mp3 | 1627
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1991 - Felicidade Urgente (Forró em vinil)/03. Morena de Angola.mp3 | 1625
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/03 Face.mp3 | 1615
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/10 - Na Primeira Manhã.mp3 | 1582
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/19 Noda de Caju.mp3 | 1579
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/16 - Frevo Mulher.mp3 | 1564
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/17 Flor do Mamulengo.mp3 | 1532
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - Vol. 05 - 1994 - Flor do Mamulengo (Forró em vinil)/09 - Flor do Mamulengo.mp3 | 1532
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1993 - Devora-me (Forró em vinil)/10-Eu quero meu amor.mp3 | 1519
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/04 Voce Endoideceu Meu Coracao.wma | 1504
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/05 Sabia.wma | 1497
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/08-Frevo Sanfonado.mp3 | 1479
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/05 Pra Clarear.mp3 | 1469
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/04 - Forró Calangueado.mp3 | 1457
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/01 Caia por Cima de Mim.mp3 | 1436
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/13 - Coco do rala coco.mp3 | 1420
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/12 - Sivuca - Aquariana.mp3 | 1396
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/06 Canudos.mp3 | 1380
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/08 Cego Com Cego.mp3 | 1380
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/09 - Arrepiando.mp3 | 1347
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 06 - O Boi Zebu e as Formigas  (Forró em vinil)/11 - Barreiras.mp3 | 1326
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/01 Emerê.mp3 | 1315
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/01 - Baioque.mp3 | 1258
+/home/felipev/datasets/forro em vinil/Flávio José - 1997 - Sem ferrolho e sem tramela (Forró em vinil)/01 - Sem ferrolho e sem tramela.mp3 | 1253
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/04 Sonhar.mp3 | 1252
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/11 - Trio Nordestino - Morena Tropicana.mp3 | 1247
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/01 O Homem Ideal.mp3 | 1218
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/04 Baião Velho.mp3 | 1213
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1991 - Felicidade Urgente (Forró em vinil)/02. Felicidade urgente.mp3 | 1201
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/02 Emoremê.mp3 | 1183
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/02 - Pavao Mysteriozo.mp3 | 1168
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/10 Grande Amor da Minha Vida.mp3 | 1138
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/03 Assum Branco.mp3 | 1137
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/06 Fora de Mim.mp3 | 1133
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/14 -  Olha a Pisada.mp3 | 1083
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/02 A mulher de Mané Amaro.mp3 | 1059
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/06 - Cara metade.mp3 | 1057
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1993 - Devora-me (Forró em vinil)/05-Porto Seguro.mp3 | 1052
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/03 A Rolinha.mp3 | 1004
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/05 Uauá.mp3 | 1002
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/03 Saudade.wma | 995
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/13 O Carnaval da Minha Janela.mp3 | 980
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/03 - Retrato Redondinho.mp3 | 976
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/08 Retrato redondinho.mp3 | 976
+/home/felipev/datasets/forro em vinil/Elino Julião - 1998 - Vamos fazer run run (Forró em vinil)/20 Meu cofrinho de amor.mp3 | 971
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/17 - Cortando o Pano.mp3 | 971
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/17 -  Araponga.mp3 | 968
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/08 - Légua Tirana.mp3 | 958
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/04 Embolada.mp3 | 957
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/01 Chame Guinho.mp3 | 947
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/01 Lusitana Do Norte.mp3 | 947
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/05 - Calango da Lacraia.mp3 | 910
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/15 Coragem Pra Falar.mp3 | 886
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/06 Meu cariri.mp3 | 883
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/01 Vovó Alaíde.mp3 | 877
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/07 Las Muchachas de Copacabana.mp3 | 870
+/home/felipev/datasets/forro em vinil/Tom Zé e Zé Miguel Wisnik - 1997 - Parabelo (Forró em vinil)/07 Bendegó.mp3 | 867
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/02 Como Flor.mp3 | 867
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/07 -  Moda da Mula Preta.mp3 | 860
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/10 - Vida de vaqueiro.mp3 | 857
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1997 - Sol e chuva (Forró em vinil)/09 - Como Dois Amimais.mp3 | 813
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/06 Areia.mp3 | 804
+/home/felipev/datasets/forro em vinil/Assisão - 1997 - 20 Super Sucessos (Forró em vinil)/05 Fogueirinha.mp3 | 797
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/02 Vou de tutano.mp3 | 784
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/06 UM PASSARINHO.mp3 | 766
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/11 Mulher Comprometida.mp3 | 763
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/02-Roseira do Norte.mp3 | 735
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/16 -  Mangaratiba.mp3 | 734
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/16 É proibido cochilar.mp3 | 729
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/16 - Leito da saudade.mp3 | 726
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/05 Ovo de codorna.mp3 | 714
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/13 -  Perpétua.mp3 | 711
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/03 Sonho Lindo.mp3 | 696
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/10 -  Firim, Firim, Firim.mp3 | 690
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/05 Picadeiro Do Tempo.mp3 | 689
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/12 Xodó de sanfoneiro.mp3 | 689
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/06-Um Tom Pra Jobim.mp3 | 682
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 10 - Em todo canto do Mundo tem cearense  (Forró em vinil)/14 - Trem do Forró.mp3 | 679
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/07 - Doidinho Pra Ver.mp3 | 678
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/12 Ze Esteves.mp3 | 674
+/home/felipev/datasets/forro em vinil/Maciel Melo - 1995 - Alegria de nós dois (Forró em vinil)/03 caboclo sonhador.mp3 | 673
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/11 - Chão de Giz.mp3 | 665
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/13 Asa Branca.wma | 662
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/07 - Hospitaleira Vacaria.mp3 | 660
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/01 Abertura.mp3 | 658
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/01 - Trio Nordestino - Procurando Tú.mp3 | 650
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/12 Forró No Escuro.mp3 | 646
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/07-Forró na Penha.mp3 | 643
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/08 Ouro Puro.mp3 | 641
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/06. Hoje É Dia De Forró.mp3 | 631
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/13 -  O Xamego da Guiomar.mp3 | 618
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 1998 - Forró e paixão (Forró em vinil)/03 - Forró e paixão.mp3 | 615
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/06 Boi catimbó.mp3 | 613
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/07 Xote das meninas.mp3 | 612
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/09 -  Seu Januário.mp3 | 612
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/02 - Terra Prometida.mp3 | 610
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/04 Terra prometida.mp3 | 610
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/06 Mão No Fogo.mp3 | 609
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/08.Eu Sou O Forró.mp3 | 588
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/06 Distância.mp3 | 581
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/08 Pequenininha.mp3 | 580
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/03 - Quando Olho Pra Voce.mp3 | 578
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/07 REPRESA DO QUERER.mp3 | 574
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/08 Pássaro Livre.mp3 | 571
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/01 Bateu Saudade.wma | 559
+/home/felipev/datasets/forro em vinil/Mastruz Com Leite - 1997 - Ao Vivo (Forró em vinil)/16 Dor de Saudade.mp3 | 555
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Nas Quebradas do Sertão (Forró em vinil)/03 Eu sou do mundo.mp3 | 552
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/03 - Eu sou do Mundo.mp3 | 552
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/01 - Viajante forrozeiro.mp3 | 547
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/05 Firim fim fom do fole.mp3 | 540
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/16 - Firim fim fom do Fole.mp3 | 540
+/home/felipev/datasets/forro em vinil/Genival Lacerda - 1994 -Rock do Jegue (Forró em vinil)/01 Rock Do Jegue.mp3 | 537
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/03 - Nordestino Lutador.mp3 | 525
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/01 - Forró pesado.mp3 | 510
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/09 Me Pegue Pra Chamegar.mp3 | 509
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/01 forró da musa.mp3 | 509
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/01-Energia.mp3 | 506
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/14 - Frevos.mp3 | 504
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/09 Filosofia.mp3 | 503
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/10 Balanço de Maria.mp3 | 499
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/10 Ainda acho pouco.mp3 | 495
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/21 - Ainda acho pouco.mp3 | 495
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/09 - Relampiano.mp3 | 493
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/08 - Os Argonautas.mp3 | 492
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/10 Mundo de Prazer.mp3 | 491
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/04 - Forró Amadurou.mp3 | 490
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/07 Faz Um Tempo.mp3 | 480
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/07 - Sivuca - Em nome do Amor.mp3 | 480
+/home/felipev/datasets/forro em vinil/Targino Gondim - 1998 - Esperando na janela (Forró em vinil)/03 Esperando na janela.wma | 479
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/09 Poeira no terreiro.mp3 | 479
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/14 Prosa de rio é oferenda de siri.mp3 | 476
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/02 Odete.mp3 | 473
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/05 - Vila Do Sossego.mp3 | 467
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/01 - Vem pro meu mundo.mp3 | 465
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/11 Baiao Da Rua.wma | 463
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/10 Baião da rua.mp3 | 463
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/02 - Salto no vazio.mp3 | 456
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/02-Fuga para o Nordeste.mp3 | 452
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/12 Cariribe.wma | 447
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/05 Aroma.mp3 | 446
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/09 Foi Assim.mp3 | 442
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/04 - Não Me Deixe.mp3 | 442
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1993 - Devora-me (Forró em vinil)/03-Magalenha.mp3 | 441
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/03-Riacho Seco.mp3 | 438
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/02 - Pneu furado.mp3 | 437
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/02 - Coração Bobo.mp3 | 434
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/07 - Zanzibar.mp3 | 432
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/13 Pau de quiri.mp3 | 432
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/12 - Trio Nordestino - Mulher Rendeira.mp3 | 428
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/12 Segredos.mp3 | 426
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/13 - Tambor Do Mundo.mp3 | 422
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/01 - Sabiá.mp3 | 413
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/05 - Sivuca - Dino Pintando o Sete Cordas.mp3 | 407
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/10 Veja Margarida.mp3 | 403
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/05 - Sétima do Pontal.mp3 | 403
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/07 Rei do sertão.mp3 | 402
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/06 - Vamos Fugir.mp3 | 398
+/home/felipev/datasets/forro em vinil/Flávio José - 1992 - Caboclo sonhador (Forró em vinil)/01 O mundo não perdoa.mp3 | 397
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/16 - O mundo não perdoa.mp3 | 397
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/09 - Admirável Gado Novo.mp3 | 393
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/03 Os homi da Paraíba.mp3 | 387
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/10 Amei à toa.mp3 | 381
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 10 - Em todo canto do Mundo tem cearense  (Forró em vinil)/09 - Avoante.mp3 | 380
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/08 Peixe Desconhecido.mp3 | 375
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/03- Jesus Sertanejo.mp3 | 372
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/03 - Sivuca - Da Cor do Pecado.mp3 | 371
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/11 - Destino.mp3 | 370
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/15 - Não dá pra te esquecer.mp3 | 369
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/11-Subindo ao Céu.mp3 | 367
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/04 - Sivuca - Subindo ao Céu.mp3 | 367
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/04 Dois Rubis.mp3 | 365
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1991 - Felicidade Urgente (Forró em vinil)/12. La vie en rose.mp3 | 364
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/09-Forró em Timbaúba.mp3 | 359
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/18 -  Saudade.mp3 | 358
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1998 - Nas costas do Brasil (Forró em vinil)/07. Relembrando os velhos tempos    (Dominguinhos).mp3 | 355
+/home/felipev/datasets/forro em vinil/Anastácia - 1995 - Coração de mulher/13 - O sucesso da Zefinha.mp3 | 353
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 10 - Em todo canto do Mundo tem cearense  (Forró em vinil)/06 - Amor verdadeiro.mp3 | 349
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/01-Pau Doido.mp3 | 349
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - Vol. 05 - 1994 - Flor do Mamulengo (Forró em vinil)/03 - Te procuro.mp3 | 341
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/11 - a Musica de Nosso Amor.mp3 | 340
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/12 - Prenda minha.mp3 | 339
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/10 - Medo de te perder.mp3 | 338
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/04 - O sem Vergonha.mp3 | 337
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/20 -  Amor da Minha Vida.mp3 | 336
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/05 - Como posso te esquecer.mp3 | 336
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1997 - Baioque (Forró em vinil)/10 - Xotes.mp3 | 335
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/13 - Amor infinito.mp3 | 334
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/09 - Apitando na Curva.mp3 | 333
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/08 -  O Casamento de Rosa.mp3 | 331
+/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/06 Brilho da Lua.mp3 | 327
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/06 Cabra desmantelado.mp3 | 322
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/03 - Jacarepaguá Blues.mp3 | 322
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/11 Por A Mais B.mp3 | 315
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/14 - Sivuca - Tocata em Ré Menor.mp3 | 314
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/04 Na bocada da mata.mp3 | 310
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/09 Coco para Barreiros.mp3 | 308
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/05-Deixe o Breque pra Mim.mp3 | 307
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/10 Coco para Berlim.mp3 | 303
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/06 A Letra I.mp3 | 302
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/08 - Sivuca - Ainda me Recordo.mp3 | 302
+/home/felipev/datasets/forro em vinil/Flávio José - 1997 - Sem ferrolho e sem tramela (Forró em vinil)/06 - Saudade da boa.mp3 | 300
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/09.Casa Velha De Sapé.mp3 | 297
+/home/felipev/datasets/forro em vinil/Assisão - 1997 - 20 Super Sucessos (Forró em vinil)/03 Pau Nas Coisas.mp3 | 294
+/home/felipev/datasets/forro em vinil/Dona Selma do coco - 1998 - Minha História (Forró em vinil)/12 Encerramento.mp3 | 292
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Nas Quebradas do Sertão (Forró em vinil)/07 Nem me deu bola.mp3 | 291
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 10 - Em todo canto do Mundo tem cearense  (Forró em vinil)/02 - Meu Travesseiro.mp3 | 291
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/06 - Nem me deu Bola.mp3 | 291
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/13 Catingueira.mp3 | 289
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/02 Delírio de Amor.mp3 | 289
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/13 É bom fazer assim.mp3 | 284
+/home/felipev/datasets/forro em vinil/Sivuca - 1997 - Enfim Solo (Forró em vinil)/06 - Sivuca - Guacira.mp3 | 278
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/06 - Aconchego do amor.mp3 | 278
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Nas Quebradas do Sertão (Forró em vinil)/05 Forrozeiro apaixonado.mp3 | 275
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/05 - Forrozeiro apaixonado.mp3 | 275
+/home/felipev/datasets/forro em vinil/Fagner - 1996 - Bateu Saudade (Forró em vinil)/07 Na Asa Do Vento.wma | 274
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/06 - Trio Nordestino - Bom Demais.mp3 | 274
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/01 Paixão.mp3 | 272
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/04 - Flôres e Espinhos.mp3 | 272
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/01.A Poeira E A Estrada.mp3 | 272
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/15 Sonho de Amor.mp3 | 270
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/15 -  Aquele Chorinho.mp3 | 270
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/06 - O Ciúme.mp3 | 269
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/11 - Amor de Verdade.mp3 | 265
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/09 Amor de verdade.mp3 | 265
+/home/felipev/datasets/forro em vinil/Flávio José - 1997 - Sem ferrolho e sem tramela (Forró em vinil)/07 - Engenho velho.mp3 | 265
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/05 -  Adeus Pernambuco.mp3 | 264
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/11-Jazz Tupiniquim.mp3 | 263
+/home/felipev/datasets/forro em vinil/Magníficos - 1998 - Fonte dos Desejos (Forró em vinil)/14 Esse Teu Sorriso.mp3 | 261
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/14 Casa da saudade.mp3 | 259
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/01 O amor riu de mim.mp3 | 258
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/05 - Talismã.mp3 | 256
+/home/felipev/datasets/forro em vinil/Flávio José - 1991 - Cheiro de forró (Forró em vinil)/09 Que nem vem vem.mp3 | 255
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/12 - Que nem vem vem.mp3 | 255
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/09 - O bem e o mal.mp3 | 253
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/13-Gostosão.mp3 | 252
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/05 - Marcas desse amor.mp3 | 251
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/10 - Devolva.mp3 | 250
+/home/felipev/datasets/forro em vinil/Flávio José - 1992 - Caboclo sonhador (Forró em vinil)/06 Devolva.mp3 | 250
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/07 Quando sonhei que era santo.mp3 | 249
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 09 - Moto Táxi  (Forró em vinil)/08 - Ó peste.mp3 | 247
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/04 - Carta de marginal.mp3 | 245
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/03 - Tudo acabou.mp3 | 245
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/04 - Eu só quero um xodó.mp3 | 241
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/13 Popular Brasileira.mp3 | 241
+/home/felipev/datasets/forro em vinil/Trio Forrozão - 1998 - Trio Forrozão (Forró em vinil)/15 Sou eu sim.mp3 | 240
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/04 O BOM DO AMOR.mp3 | 239
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/09 Momentos de Paixão.mp3 | 239
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/08 SERTÃO.mp3 | 236
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 09 - Moto Táxi  (Forró em vinil)/09 - Criola.mp3 | 236
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/02 - O Juazeiro e a Sombra.mp3 | 235
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/07.Paixão Escondida.mp3 | 235
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/04- Kyrie Eleison.mp3 | 234
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/07 - Meu caminhoneiro.mp3 | 233
+/home/felipev/datasets/forro em vinil/Rabo de Saia - 1993 - Coisa Fôfa, Linda e Gostosa (Forró em vinil)/01 Vida de Artista.mp3 | 232
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/07 - Identidade.mp3 | 231
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/02 - Encontro.mp3 | 228
+/home/felipev/datasets/forro em vinil/Flávio José - 1991 - Cheiro de forró (Forró em vinil)/03 Cheiro de forró.mp3 | 224
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/14 - Cheiro de forró.mp3 | 224
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/05 Arrependido.mp3 | 223
+/home/felipev/datasets/forro em vinil/Saísse e os Bois - 1997 - Onde Passa Boi Passa Boiada (Forró em vinil)/05 Namoro.mp3 | 222
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1991 - Felicidade Urgente (Forró em vinil)/07. Fim de jogo.mp3 | 220
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/02.Já Não Conserto Mais.mp3 | 220
+/home/felipev/datasets/forro em vinil/Amelinha - 1996 - Fruta Madura (Forró em vinil)/09 - Siri na lata.mp3 | 218
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/17 - Recado.mp3 | 218
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 09 - Moto Táxi  (Forró em vinil)/02 - Meu estrangeiro.mp3 | 217
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 06 - O Boi Zebu e as Formigas  (Forró em vinil)/09 - Estamos em crise.mp3 | 213
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/04 -  Estrêla de Ouro.mp3 | 212
+/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/14 Amor Ou Paixão.mp3 | 210
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1994 - Maracatus, Batuques e Ladeiras (Forró em vinil)/07 Saudação ao Sol.mp3 | 208
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/14 -  Bilu Bilu.mp3 | 205
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/09 Aventuras Vulgares.mp3 | 204
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/06- O Credo.mp3 | 203
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/13 - Todo Ano.mp3 | 202
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/01 Todo ano.mp3 | 202
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/04 Melhores dias.mp3 | 202
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - Filho do Dono (Forró em vinil)/03 GENTE SOFRIDA.mp3 | 198
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/02 - Chililiqui.mp3 | 198
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/05 UM VERDADEIRO AMOR.mp3 | 197
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Choro Chorado (Forró em vinil)/05 Delicado.mp3 | 197
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/06-Cada um Torce como Pode.mp3 | 196
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/06 Queima fogueira.mp3 | 195
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/11.Queima Fogueira.mp3 | 195
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/12 - Na Cacimba Do Amor.mp3 | 194
+/home/felipev/datasets/forro em vinil/Trio Sabiá - 1996 - Forró pra lá de bom (Forró em vinil)/06 Desabafo.mp3 | 192
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/06 - Seca Nordestina.mp3 | 192
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/07 Seca nordestina.mp3 | 192
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/04.Vendavais.mp3 | 189
+/home/felipev/datasets/forro em vinil/Trio Virgulino - 1998 - Forró e paixão (Forró em vinil)/01 - Monalisa.mp3 | 188
+/home/felipev/datasets/forro em vinil/Sivuca - 1992 - Pau Doido (Forró em vinil)/08-Mergulho.mp3 | 188
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/11 Distante de Você.mp3 | 187
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/03 - Raízes do Nordeste.mp3 | 186
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/03 - Forrozeira espritada.mp3 | 184
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/06 - Avoante.mp3 | 183
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/09- Pai Nosso.mp3 | 182
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/11 -  Malhada dos Bois.mp3 | 182
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/01 - Nhanhar.mp3 | 182
+/home/felipev/datasets/forro em vinil/Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/02 - Seu Tuzinho.mp3 | 181
+/home/felipev/datasets/forro em vinil/Assisão - 1997 - 20 Super Sucessos (Forró em vinil)/01 Eu Quero Meu Amor.mp3 | 181
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 06 - O Boi Zebu e as Formigas  (Forró em vinil)/01 - Desculpa esfarrapada.mp3 | 179
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Acervo Especial (Forró em vinil)/12. Quero Nem Saber.mp3 | 177
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/08 - Namoro na Fazenda.mp3 | 175
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/06 - Sabido.mp3 | 173
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/11- Canto De Despedida.mp3 | 169
+/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/03 FESTA DO VAQUEIRO.mp3 | 169
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/03 Toque a madeira.mp3 | 169
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Os Grandes Sucessos (Forró em vinil)/08 - Gandaeira.mp3 | 163
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 02 - Só pra xamegar (Forró em vinil)/05 - Em plena Lua de Mel.mp3 | 162
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/04 - Em paz com a Vida.mp3 | 162
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1991 - Jorge de Altinho (Forró em vinil)/10 Menino de rua.mp3 | 161
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/05 - Procurando tú.mp3 | 161
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/07 Quero Ter Você Pra Mim.mp3 | 161
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/13 - Toca uma Polquinha.mp3 | 160
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Nas Quebradas do Sertão (Forró em vinil)/11 Brincadeiras de rua.mp3 | 159
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/10 - Brincadeiras de Rua.mp3 | 159
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/11 Vendedor de amendoim.mp3 | 157
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/13 Chamego.mp3 | 154
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/06 Tango de Nancy.mp3 | 153
+/home/felipev/datasets/forro em vinil/Saísse e os Bois - 1997 - Onde Passa Boi Passa Boiada (Forró em vinil)/04 Menino Bom.mp3 | 153
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Choro Chorado (Forró em vinil)/07 Doce de Coco.mp3 | 152
+/home/felipev/datasets/forro em vinil/Geraldo Azevedo - 1995 - Berekekê (Forró em vinil)/04 Aquarela Real.mp3 | 152
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/08 - Barriga branca.mp3 | 150
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1998 - Flor da Paraiba (Forró em vinil)/04 Lavadeira.mp3 | 149
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/12 - Queixumes.mp3 | 149
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/08 Poeira.mp3 | 149
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/14 Volte Pra Mim.mp3 | 149
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/21 -  Chamego das Cabrochas.mp3 | 148
+/home/felipev/datasets/forro em vinil/Cavalo de Pau - 1996 - Namorando Pelo Computador (Forró em vinil)/09 Lua Solidão.mp3 | 148
+/home/felipev/datasets/forro em vinil/Oswaldinho do Acordeon - 1997 - Forro novo (Forró em vinil)/07 Bom e Bonito.mp3 | 145
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 09 - Moto Táxi  (Forró em vinil)/16 - Moto Táxi.mp3 | 145
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/12 - Razões.mp3 | 145
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/12 Vidas Iguais.mp3 | 144
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/06 Como eu sou.mp3 | 142
+/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/01 - Coitadinha da Tonheta.mp3 | 142
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/17 - Como eu sou.mp3 | 142
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/09 Seca do nordeste.mp3 | 141
+/home/felipev/datasets/forro em vinil/Fagner - 1995 - Retrato (Forró em vinil)/07 Rubi grená.mp3 | 140
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1997 - Vol. 12 - Mulher (Forró em vinil)/10 - Nas ondas do amor.mp3 | 139
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/07 - Meu Xamego Meu Xodó.mp3 | 138
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/08 Meu xamego meu xodó.mp3 | 138
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/13 - A Prosa Impúrpura Do Caicó.mp3 | 136
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/10 - Segura essa.mp3 | 136
+/home/felipev/datasets/forro em vinil/Xangai - 1997 - Cantoria de Festa (Forró em vinil)/12 Qué qui tu tem canário-.mp3 | 136
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/09-Céu e Mar.mp3 | 134
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/09 - Madalena.mp3 | 133
+/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/06 - Pialo de Sangue.mp3 | 130
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/05 - Trio Nordestino - Mambo da cantareira.mp3 | 130
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/07 - Agrado de mulher.mp3 | 130
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 02 - Só pra xamegar (Forró em vinil)/04 - Rei do Baralho.mp3 | 128
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - Vol. 05 - 1994 - Flor do Mamulengo (Forró em vinil)/08 - Rala Coxa.mp3 | 128
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/08 - Petrolina, Juazeiro.mp3 | 128
+/home/felipev/datasets/forro em vinil/Magníficos - 1997 - Me Usa (Forró em vinil)/15 Basta Se Querer.mp3 | 127
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/07 Desejo.mp3 | 127
+/home/felipev/datasets/forro em vinil/Quinteto Violado - 1991 - Missa do Vaqueiro (Forró em vinil)/05- Glória.mp3 | 124
+/home/felipev/datasets/forro em vinil/Cavalo de Pau - 1996 - Namorando Pelo Computador (Forró em vinil)/03 Chuva Passageira.mp3 | 124
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/08 - Onde foi que eu errei.mp3 | 124
+/home/felipev/datasets/forro em vinil/Cascabulho - 1998 - Fome Da Dor de Cabeça (Forró em vinil)/08 Festança no canavial.mp3 | 123
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/04 - Lembrança de um beijo.mp3 | 123
+/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/11 Saudade matadeira.mp3 | 122
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1994 - Sanfona Dourada (Forró em vinil)/10 - Tenho Onde Morar.mp3 | 122
+/home/felipev/datasets/forro em vinil/Sebastião do Rojão - 1991 - Oi! eu de novo no forró (Forró em vinil)/07-O canto da ema.mp3 | 122
+/home/felipev/datasets/forro em vinil/Trio Nordestino - 1997 - Xodó do Brasil (Forró em vinil)/13 - Trio Nordestino - Madalena.mp3 | 121
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/09 - Na Quentura Do Forró.mp3 | 120
+/home/felipev/datasets/forro em vinil/Flávio José - 1993 - Terra prometida (Forró em vinil)/01 Na quentura do forró.mp3 | 120
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/04 Teu carinho.mp3 | 119
+/home/felipev/datasets/forro em vinil/Amelinha - 1994 - Só forró (Forró em vinil)/11 Cobra de chifre.mp3 | 119
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/15 - Teu carinho.mp3 | 119
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1990 - Olha Pro Ceu (Forró em vinil)/14 Baião de Dois.mp3 | 119
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/11 Oito baixos.mp3 | 116
+/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/11 Beatriz.mp3 | 116
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/22 - Oito Baixos.mp3 | 116
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1992 - Garanhuns (Forró em vinil)/03 Faz de mim.mp3 | 114
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/15 Vamos viver.mp3 | 114
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/25 - Vamos viver.mp3 | 114
+/home/felipev/datasets/forro em vinil/Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/10.Incerteza.mp3 | 113
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/08 Bem Querer.mp3 | 111
+/home/felipev/datasets/forro em vinil/Sivuca - 1994 - Sivuca Norte Forte (Forró em vinil)/05-Nosso Encontro.mp3 | 110
+/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/01 Eu Sou Humana.mp3 | 110
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - Vol. 05 - 1994 - Flor do Mamulengo (Forró em vinil)/05 - Jogo aberto.mp3 | 109
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/10 - Forró desarmado.mp3 | 107
+/home/felipev/datasets/forro em vinil/O Grande Encontro - 1996 (Forró em vinil)/12 - Veja (Margarida).mp3 | 106
+/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1992 - Asa branca (Forró em vinil)/05 você não gosta de mim.mp3 | 105
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1995 - É tradição (Forró em vinil)/03 No bem bom.mp3 | 105
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/06 - Cuidado com as coisas.mp3 | 105
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/14 - No bem bom.mp3 | 105
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1993 - Vol. 03 - Coisa nossa (Forró em vinil)/05 - Vaqueiro apaixonado.mp3 | 105
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1998 - Vol. 18 - Canta Trio Nordestino (Forró em vinil)/12 - Menino de colo.mp3 | 103
+/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/09 Dois Amores.mp3 | 101
+/home/felipev/datasets/forro em vinil/Alceu Valença - 1998 - Forró de todos os tempos (Forró em vinil)/01 - Eu quero ver você dizer que eu sou ruim.mp3 | 99
+/home/felipev/datasets/forro em vinil/Flávio José - 1996 - O melhor de (Forró em vinil)/15 - Forró Arretado.mp3 | 98
+/home/felipev/datasets/forro em vinil/Flávio José - 1992 - Caboclo sonhador (Forró em vinil)/05 Forró arretado.mp3 | 98
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1995 - Vol. 07 - Cabeça com Bobs x Barriga crescida  (Forró em vinil)/16 - Valentona.mp3 | 97
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/01 - Neguinha.mp3 | 96
+/home/felipev/datasets/forro em vinil/Dominguinhos - 1994 - Choro Chorado (Forró em vinil)/03 Espinha de Bacalhau.mp3 | 94
+/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1992 - Êta cabra danado de bom (Forró em vinil)/12 -  Farolito.mp3 | 94
+/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1994 - Vol. 04 - Rock do Sertão (Forró em vinil)/06 - Passeando pelo Nordeste.mp3 | 93
+/home/felipev/datasets/forro em vinil/Flávio José - 1992 - Caboclo sonhador (Forró em vinil)/08 Desafio.mp3 | 93
+/home/felipev/datasets/forro em vinil/Flavio José - 1994 - Nordestino Lutador (Forró em vinil)/11 - Desafio.mp3 | 93
+/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/01-Jeito manhoso.mp3 | 93
