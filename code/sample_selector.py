@@ -6,7 +6,7 @@ import time
 import urllib2
 import json
 
-DECADES = [(1950, 1959), (1960, 1969), (1970, 1979),
+DECADES = [(1950, 1959), (1960, 1969),(1970, 1979),
                (1980, 1989), (1990, 1999), (2000, 2009), (2010, 2019)]
 
 def split_albums_by_decade(path):    
@@ -86,4 +86,4 @@ if __name__ == '__main__':
     albums_by_decade = split_albums_by_decade('/home/felipev/datasets/forro em vinil')
     
     for decade in DECADES:
-        write_ordered_to_file(order_songs_by_play_count(albums_by_decade[decade]), decade[0], 100)
+        write_ordered_to_file(order_songs_by_play_count(albums_by_decade[decade]), decade[0], 500)
