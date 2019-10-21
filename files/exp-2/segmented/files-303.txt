@@ -1,0 +1,100 @@
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/08 Simplesmente sangrar.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/04 Brincar e amar.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/11 O cheiro da menininha.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/09 Piaba é barril.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/03 Saudade de lá.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/05 Amor de Lampião.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/10 Amanheceu.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/12 Onde você for eu vou.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/06 Eu devo a ela.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/02 Me diga coração.mp3
+/home/felipev/datasets/forro em vinil/Trio Bastião - 2012 - Simplesmente (Forró em vinil)/07 Vontade de você.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/07 Pense ne'u - Não vendo nem troco.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/12 Dança de moda - Xanduzinha - Vou casar já.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/13 Procissão.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/09 Numa sala de reboco - Xote das meninas - Sabiá.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/02 Olha pro ceu - São João na roça - São joão do carneirinho.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/15 Asa branca - A volta da asa branca.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/06 Baião de 2 - Baião da garoa - Baião n1.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/14 Riacho do navio - Estrada de Canindé - Vida de viajante.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/04 A morte do vaqueiro - Cigarro de paia - Faça isso não.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/03 Fica mal com Deus.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/11 Daquele jeito - Mané gambá - Aquilo bom.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/05 Sanfoneiro Zé Tatu - O fole roncou - Retrato de um forró - Forró de Zé buchudo.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/10 Xeêm.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/08 Do lado que relampea - Saudades de Helena - Dedo mindinho.mp3
+/home/felipev/datasets/forro em vinil/Flavinho Lima - 2012 - Canta Luiz Gonzaga (Forró em vinil)/01Oia eu aqui de novo - Imbalança.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/11 Sanfonando.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/01 Seu Januário.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/12 De Juazeiro a Pirapora.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/13 Luar do Nordeste.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/04 Aquele Chorinho.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/08 13 de Dezembro.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/03 Araponga.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/05 Fuga da África.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/10 Pisa de Mansinho.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/09 Impertinente.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/06 Sant'Ana.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/07 Sabido.mp3
+/home/felipev/datasets/forro em vinil/Marcelo Caldi - 2012 - Tem Sanfona no Choro (Forró em vinil)/02 Véspera de São João.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/08 Maria cangaceira.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/12 Voando na Asa Branca.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/13 Casa do Bras.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/04 Causos gonzagueanos.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/07 O Brasil nunca mais terá um trio, como Senna, Pelé e Gonzagão.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/17 Romario eterna.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/11 Abecedario catrumano.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/16 Quanto mais mexe mió.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/09 Saudade do corneteiro.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/05 O sonho de Téo Azevedo com Gonzagão no Parque Asa Branca.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/10 Forrozeiro.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/15 Poema - Um baiãozinho para o rei do Baião.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/01 Padroeira da visão.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/06 O buraco.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/02 Requiem a Gonzagão.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/03 Oxente, cabra da peste.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - 2012 - Salve 100 anos Gonzagão (Forró em vinil)/14 Puxe o fole sanfoneiro, Dominguinhos tocador.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/11 - Forró de Zé Mira.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/12 - Forró em Zé do Bar.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/01 - Forró de Zé Baracho.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/02 - Forró da Bete.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/17 - Festejo a São João.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/14 - Forró em Iguape (Duílio dos 8 Baixos).mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/03 - Tonho do Correio.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/16 - Pra Talita (Duílio dos 8 Baixos).mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/15 - Forró em Cachoeira (Duílio dos 8 Baixos).mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/08 - Tico no Forró.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/10 - Uma homenágem a Mano véio e Mano novo.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/07 - Uma homenágem ao Sr. Braulio.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/13 - Bico de Buli.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/06 - Bundinga no Forró.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/04 - Forró no Bode Assado.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/09 - Forró no Quartinho.mp3
+/home/felipev/datasets/forro em vinil/Pé Duro - 2012 - 8 Baixos no Pé de Serra (Forró em vinil)/05 - Varandão do Rio Real.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/05 Ingratidão.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/15 Cheiro de manga madura.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/10 Fulo de Janeiro.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/06 Corpo de mel.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/14 Cabelo de cacho.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/12 Letreiro do amor.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/17 Sapatiando na tábua.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/11 Agradecimento.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/07 Casal feliz.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/16 Forró do bom (José Maria Soriano).mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/03 Tremendo de emoção.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/01 Clariar clariar.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/08 Alegria certa.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/13 Menina linda.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/04 Eu quero você nené.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/02 Cartão pra solidão.mp3
+/home/felipev/datasets/forro em vinil/Os Sociais do Forró - 2012 - Casal feliz (Forró em vinil)/09 Querida mamãe.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/05 - Chico Chagas - TRISTESSE.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/06 - Chico Chagas - UM CHOPIN NO BACH OUVINDO UM FORRO.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/11 - Chico Chagas - WILLIAM TELL FINAL.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/03 - Chico Chagas - LAGO DOS CISNES  (Incidental ZHANNA AND IRINA).mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/07 - Chico Chagas - DANÇA DOS CAVALEIROS.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/10 - Chico Chagas - SINFONIA 40.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/08 - Chico Chagas - MOTO PERPETUO.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/04 - Chico Chagas - CONCERTO PARA UMA VOZ.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/01 - Chico Chagas - 5a SINFONIA.mp3
+/home/felipev/datasets/forro em vinil/Chico Chagas - 2012 - Um Chopin no Bach ouvindo Forró (Forró em vinil)/09 - Chico Chagas - PAVANE.mp3

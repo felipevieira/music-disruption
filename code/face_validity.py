@@ -9,7 +9,7 @@ def load_features_from_file(path):
                 return [[float(feature) for feature in feature_set.split()] for feature_set in features_file.readlines()]    
 
 def similarity_matrix_by_rbf(feature_set):
-        return rbf_kernel(features, gamma=0.1)
+        return rbf_kernel(feature_set, gamma=0.1)
 
 def get_artist_indexes(artist_song, list_of_files):
         indexes = []
@@ -63,4 +63,6 @@ if __name__ == "__main__":
         features = load_features_from_file('../files/all_features.txt')
         sm = similarity_matrix_by_rbf(features)
 
-        face_validity('../files/top50s - ordered.txt', sm)
+        print(sm)
+
+        # face_validity('../files/top50s - ordered.txt', sm)

@@ -1,0 +1,100 @@
+/home/felipev/datasets/forro em vinil/Túlio Araújo - 2014 -  East (Forró em vinil)/02. Nilo (Felipe Vilas Boas).wma
+/home/felipev/datasets/forro em vinil/Túlio Araújo - 2014 -  East (Forró em vinil)/06. Viena (Deangelo Silva).wma
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/02 Rede balançando (Durval Vieira - Mocotó).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/04 Amor de verdade (Luizinho do Forró - André Luiz).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/03 To te amando (Cecilio Nena - Genival Lacerda).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/11 Sanfoneiro amostrado (Edson Duarte).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/15 O choro é livre (Everaldo Ferraz - Guaracy Sampaio).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/14 Consagração do forró (Tony Araújo).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/09 Água cristalina (Antonio Dantas - Ligeirinho).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/06 Forró de mangalô (Antonio Martins - Luiz Vieira).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/05 Tempero diferente (Nandinho do Pandeiro - Guilherme de Souza).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/08 O sanfoneiro é o maior (João Silva - Zé Mocó).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/07 Xodó no forró (Durval Vieira - Mascotte).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/13 Eu agora sou feliz (Nandinho do Pandeiro - Genivaldo Barbosa).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/01 Forró baião (Moyses - Mocotó).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/10 Sete meninas (Toinho - Dominguinhos).mp3
+/home/felipev/datasets/forro em vinil/Trio Juazeiro - 2014 - Rede Balançando (Forró em vinil)/12 Olhar de passarinho (Petrucio Amorim).mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/13-Trio Maracá- Em plena lua de mel.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/05- Trio Maracá- Aconchego perfeito.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/10- Trio Maracá Jarrim de fulô.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/11- Trio Maracá- Forró gostoso.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/07- Trio Maracá -  Olhar de poesia.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/12- Trio Maracá- Dengo.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/08- Trio Maracá- A cura.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/02- Trio Maracá- Sonho de vaqueiro.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/03- Trio Maracá -  Resposta de Simião.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/01- Trio Maracá- Forró é alegria.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/06- Trio Maracá- Aguá com leite.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/09- Trio Maracá- Marmita.mp3
+/home/felipev/datasets/forro em vinil/Trio Maracá - 2014 - Forró e alegria (Forró em vinil)/04- Trio Maracá- Olha a Pisada.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/11 Meu lindo São João.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/02 Sanfona sentida.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/03 O nosso forró é  assim.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/10 Praia dos artistas.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/12 Pot Pourri São João.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/08 Por que Por que.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/04 Toque de fole.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/09 Filho do sertão.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/05 Sozinho.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/01 Eu só quero um xodó.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/06 Cenário perfeito.mp3
+/home/felipev/datasets/forro em vinil/Fernandinho do Acordeon - 2014 - O Filho do Sertão (Forró em vinil)/07 Outra vida.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/14 Trio Amizade - Forró de verdade.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/16 Os 4 Mensageiros - Nem tudo que brilha.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/09 Xote de praia - Que brisa é essa.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/22 Quarteto catuaba - Terra da garoa.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/15 Garapé - Se chover no meu Cariri.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/18 Caca Lopes - Caca quer caqui.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/21 Maré de lua - O que será do nosso amor.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/07 Os 4 Mensageiros - No balanço do fole.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/05 Garapé - Quando a gente se apaixona.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/06 Trio Sabiá - Pra cantar forró.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/13 Paulinho Nação - Sentimento bom.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/17 Trio Arcoverde - Forró arretado.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/02 Trio da Lua - Verdejando.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/23 Zé da Lua - Boa noite.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/20 Os 3 do bodoque - Agora quem não quer sou eu.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/04 Caca Lopes - Todo tempo é pouco pra falar de Gonzagão.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/10 Zé da Lua - São Miguel berço de SP.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/01 Joquinha do Acordeon - Início.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/12 Calangudê - Lembranças.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/08 Maré de lua - No forró eu vou.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/11 Quarteto Severina - Acelera coração.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/03 Trio Arcoverde - Saudade de Danielly.mp3
+/home/felipev/datasets/forro em vinil/Coletânea - SP Roots - 2014 - Forrozeiros da ZL (Forró em vinil)/19 Trio 100 vergonha - Baião de amor.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/05 Sanfona sentida.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/11 Xote das meninas - Sabiá  - Sala de reboco - Espumas ao vento - Lembrança de um beijo.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/03 Pronomes.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/12 Amor com café.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/13 Deixa clarear - Super fantástico - Onde tu tá neném - Vassourinha.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/10 Amei a toa.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/02 De olho na janela.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/08 A sorte é cega.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/09 Sanfoninha choradeira.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/07 Se tu quiser.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/04 Minha vida é te amar.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/06 Na casa de Dona Anita.mp3
+/home/felipev/datasets/forro em vinil/Trio Nu Kapricho - 2014 - Balançando o mundo (Forró em vinil)/01 Te faço gamar.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/01 Forró made in Caruaru.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/05 Menina da capoeira.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/11 O amor me faz crer.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/08 Todos os bonecos de Deus.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/02 Forró do rádio.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/04 Jeito manhoso.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/10 O tempero do amor.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/07 Na sombra do Juazeiro.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/09 O verdadeiro amor.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/12 Forró da Galeguinha.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/03 Jogo nas 11.mp3
+/home/felipev/datasets/forro em vinil/Azulinho - 2014 - Forró made in Caruarú (Forró em vinil)/06 Se a minha mulher me der chá.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/12 Darumdarumdê.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/13 Dói dói.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/11 Alarme falso.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/01 Confissão ao Padre Cícero.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/04 Saudade e dor.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/07 Quem me levará.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/06 Estrada de Canindé.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/03 Como a moda.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/05 Saudade da boa.mp3
+/home/felipev/datasets/forro em vinil/Lucimar - 2014 - Meu Forró é Forró (Forró em vinil)/10 No fogo da paixão.mp3
