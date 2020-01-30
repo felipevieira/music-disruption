@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/05 Carta de amor.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/01 Diploma dela.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/06 Caçador com balieira.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/09 Saudade de Piauí.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/11 Convite aos compositores.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/07 Canto da asa branca.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/10 A cabra está solta.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/03 Todos fungando.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/08 Coco de catolé.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/12 O galho da roseira.mp3
-/home/felipev/datasets/forro em vinil/Xexéu do norte - 1979 - Diploma dela (Forró em vinil)/04 Balançou o cajueiro.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/03 Tenho ciume até do vento.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/09 Desalento.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/04 Tire o olho dessa dona.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/11 A felicidade.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/01 Deixe aquele homem.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/08 Nossa noite de amor.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/07 Meu coração é das mulheres.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/12 Rei do kung fu.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/06 O hippie.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/05 Alguem ha de ouvir minha canção.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/02 Faço tudo que você quiser.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião - 1979 - Meu coração é das mulheres (Forró em vinil)/10 Dormindo sem lençol.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/08- Gosto de ver você falar.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/03- Cheguei novamente.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/09- Nêga boa.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/12- Rita.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/07- Chora mulher.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/06- Isabel.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/01- Casa de viúva.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/02- A nossa amizade.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/11- Feitiço no rebolado.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/05- Bye bye pra você.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/04- Nêga lá vai motiva.mp3
-/home/felipev/datasets/forro em vinil/Martins do Pandeiro - 1979 - Na gafieira gente bem (Forró em vinil)/10- A culpa é dela.mp3
-/home/felipev/datasets/forro em vinil/Albérico Sá - 1979 - Compacto duplo(Forró em vinil)/02 Forró de Mané Titico.mp3
-/home/felipev/datasets/forro em vinil/Albérico Sá - 1979 - Compacto duplo(Forró em vinil)/03 Forró de mizae.mp3
-/home/felipev/datasets/forro em vinil/Albérico Sá - 1979 - Compacto duplo(Forró em vinil)/01 Quero ver soltar balão.mp3
-/home/felipev/datasets/forro em vinil/Albérico Sá - 1979 - Compacto duplo(Forró em vinil)/04 São João é festa pra se brincar.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/02. Chorei de dor.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/05. Cajueiro.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/10. Forró quentão.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/09. Muritinga.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/06. Uma vaquejada no sertão.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/04. Leva eu Corina.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/12. Papagaio enfeitado.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/01. Ouro fino.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/11. Vaquejada do Brasil.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/07. Forró da gafieira.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/03.Atalaia.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1979 - Forró da gafieira (Forró em vinil)/08. Saudade de Maceió.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 6 - Mané De Sandália Nova.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 12 - Ginitiado.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 11 - Forró Do Pai.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 2 - Queimando Os Pés.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 10 - Rojão_Doido-Na_Casa_De_Chico_Véio-Depois_Da_Briga.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 8 - Casamento Da Gabriela.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 9 - Apertando O Gato.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 4 - Chá_Chá_Teca-Triste_Boiadeiro-Contradança.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 1 - Mané Na Discoteca.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 5 - Um Kilo Certo.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 7 - Recordando 32.mp3
-/home/felipev/datasets/forro em vinil/Manoel de Elias - 1979 - A discoteca do Mané...um forró incrementado (Forró em vinil)/Manoel De Elias - 3 - Forró Atrevido.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/07 - Sentado na pedra.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/11 - Lá vai ela.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/10 - Bacalhau brasileiro.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/12 - São João em Taperoá.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/06 - Quero ver você sorrindo.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/05 - Homem com homem não dá.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/02 - É bom pra valer.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/04 - Até o dia clarear.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/09 - Meu maceió.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/08 - Quem está ai.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/01 - A menina da blusa.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 1979 - É bom pra valer (Forró em vinil)/03 - Baianinha.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/01 - de são luiz a terezina.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/04 - nécio costa.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/07 - lua peixe.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/13 - guerreiro.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/08 - até quando.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/12 - na hera dos muros.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/10 - alcântara.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/02 - sanharó.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/09 - dia de festa.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/03 - sabiá.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/11 - folha verde.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/06 - fogo no paraná.mp3
-/home/felipev/datasets/forro em vinil/Irene portela - 1979 - rumo norte (Forró em vinil)/05 - passarinho.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/08 Nabo sêco (A mulher do cego).mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/02 Chamada do velho Faceta.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/07 Perdoa sá dona.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/03 Boa noite do velho Faceta-Amor de criança.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/09 Vacaria.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/14 despedida da mestra.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/06 O colchão.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/04 Dona Maçú.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/05 Galinha preta.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/11 O periquito.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/10 O maxixe.mp3
-/home/felipev/datasets/forro em vinil/Velho Faceta - 1979 - Pastoril do Velho Faceta vol. 2 (Forró em vinil)/13 Catolé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/02. Nascente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/09. Bom bocado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/12. Terra natal.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/08. Bom pra você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/05. Amoroso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/01. São Paulo ao Ceará.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/07. Coisinha boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/11. Choro no terreiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Mingo Ferreira - 1980 - Levanta poeira (Forró em vinil)/10. Levanta poeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/10 - Tarde de domingo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/04 - Sou mais forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/11 - Suspirando de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/03 - Até  o sol raiar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/05 - Moça destemida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/07 - Pró burro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/09 - São João no Yayu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/06 - Nossa infância.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/12 - Sou você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/08 - Obrigado Luiz.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/01 - Toca sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1980] - Pinto do acordedon - 1980 - As Filhas da viúva (Forró em vinil)/02 - As filhas da viúva.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/04-Imaginação.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/01-Forró da Bicharada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/08-Nunca mais eu vi Esperança.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/05-Bate, Tome, Toca e Cai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/02-Faixa 2.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/03-Sonho de Neve.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/10-Fim de Leilão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/06-Coisas nº10.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/07-Arapuá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Sivuca - 1981 - Vou Vida Afora (Forró em vinil)/09-Faixa 9.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/12 Senhora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/01 Varanda do castelo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/10 Pobre João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/08 Forró casamenteiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/06 Reizado a São José.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/04 Alô mamãe.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/07 Vem cá meu boi.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/09 A bolinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/02 São João em Quixadá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/05 O homem que mora no mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/11 Casinha triste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Clemilda - 1981 - Varanda do castelo (Forró em vinil)/03 O fole do Zé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/06 eu vou pra lá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/01 cabeça feita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/08 quem tem um não tem nenhum.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/09 mundo cão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/02 tem pouca diferença.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/05 samambaia trepadeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/07 competente demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/04 mãe solteira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/03 herança de meu pai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/11 bola de pé em pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jackson do Pandeiro - 1981 - Isso é que é forró (Forró em vinil)/10 são tomé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/03 - Forró queimado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/10 - Rojão seguro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/01 - Forró pizunhado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/02 - Vem Juliana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/05 - Chuleado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/04 - Toque desse jeito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/06 - Vegetariana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/11 - Quadrilha de Macaúbas_Frevo na Roça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/08 - A Poeira cobre.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Negrão dos Oito Baixos - 1981 - Toque desse jeito (Forró em vinil)/07 - Feta do Gordo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/06. Mesa Farta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/04. O Sapatão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/08. Balança Mais Não Cansa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/05. Na Pedreira do Riacho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/01. O Boi Lambeu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/02. O Preguiçoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/11. Acabou a Moleza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/03. Não Precisa Ter Ciúmes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/09. Tem Nada Não.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/10. A Eletricista.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/07. O Chevette da Menina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Durval Vieira - 1981 - O Sapatão (Forró em vinil)/12. Se Ela For Jogar Fora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/11 Cenas da seca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/09 Reizinho querido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/06 Espera.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/08 Meu mandato é você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/01 Quem ama sabe.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/03 Volte amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/05 Charlie Chaplin.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/10 do mundo nada se leva.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/02 É amor, é saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/07 Nosso ciúme.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Jorge Paulo - 1981 - Meu mandato é você (Forró em vinil)/04 Você disse adeus.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/01 - VÁ Á AMÉRICA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/06 - NABO SECO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/09 - FAÇASA O BEM E NÃO OLHES A QUEM.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/04 - AMOR DE CRIANÇA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/05 - TÁ FALTANDO ÔME.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/08 - O BICHEIRO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/11 - PESCARIA NA LAGOA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/07 - mesa de um só pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/10 - VAI PRA CASA PADILHA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/12 - O PIRIQUITO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/02 - CAUBÓI DO CEARÁ.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - 1981 - Sandro Becker vol.1 (Forró em vinil)/03 - FOFINHO E CHARMOSO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1981] - Ivan ferraz - 1981 - mania de quarentão (forró em vinil)/04 a moda é forró.mp3

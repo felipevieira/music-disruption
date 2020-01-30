@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/1984 - negrao dos oito baixos - a moca dos presentes (forro em vinil)/08 - no urro do leão.mp3
-/home/felipev/datasets/forro em vinil/1984 - negrao dos oito baixos - a moca dos presentes (forro em vinil)/09 - vamos aproveitar.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/01 - Arrasta-Pé em Maceió.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/12 - Forroreando no Regatão do Jacy.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/05 - Levanta a Saia.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/03 - Cabra bom nos 8 Baixos.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/10 - Forró na Amazonia.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/07 - Forró em Cuiabá.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/06 - Aguenta Mulher.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/04 - Machucando o Fole.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/11 - Forrobodó no Papouco.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/02 - Siri malandro.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/09 - Forró do Pitangui.mp3
-/home/felipev/datasets/forro em vinil/Edgar dos 8 Baixos - 1984 - Forró na Fazenda Flor do Brejo (Forró em vinil)/08 - Forroreando pelo Brasil.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/07 Dois na frente e um atras.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/09 A coroa é rica.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/10 Vai saudade.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/05 Mariquinha.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/06 Mexe, mexe no forró.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/01 O patrimonio.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/11 Mulher e parafuso.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/02 Bumba, bumba no zabumba.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/08 Brincando de amor.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/12 O rei da vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/04 Balanço do coqueiro.mp3
-/home/felipev/datasets/forro em vinil/Cicero Vaquejada - 1984 - A voz do forró vol.2 (Forró em vinil)/03 Noite bela.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/11 Dessa vez vai.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/01 Ela gosta de TV.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/09 Mulher comerciante.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/05 Último trem.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/07 Rainha do karate.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/03 Você pega no meu pé.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/04 Saudade de Goiabeira.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/10 Filosofia do beijo.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/02 Moça de Caruaru.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/06 Balança a saia. mulher.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/12 Quentura no salão.mp3
-/home/felipev/datasets/forro em vinil/Zé Paraíba - 1984 - Ela gosta de TV (Forró em vinil)/08 Babado e bico.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/09 - Trio Nordestino - Neném mulher.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/04 - Trio Nordestino - Amor e carinho.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/12 - Trio Nordestino - Busca de amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/08 - Trio Nordestino - Noite de festa.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/02 - Trio Nordestino - Forrozão.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/06 - Trio Nordestino - Forró do pic plic plá.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/10 - Trio Nordestino - Lembrança de você.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/11 - Trio Nordestino - No tempo bom, firim firim.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/07 - Trio Nordestino - Galopando.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/05 - Trio Nordestino - Balanço bom.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/03 - Trio Nordestino - Chamego.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1984 - Com amor e carinho (Forró em vinil)/01 - Trio Nordestino - Cair na brincadeira.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/07- A Menina dos Meus Olhos.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/06- Que Grilo Dá (Rock de Repente).mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/01- Cambalhotas.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/08- Moinhos.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/02- Dia Branco.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/03- Casaca de Couro.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/04- Rajada de Vento.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/05- Solidão.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - Mágico (Forró em vinil)/09- Maracatu Colonial.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/12- Plano piloto.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/5- Taxi lunar.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/4- Agalopado.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/7- Coração Bobo.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/8- Fé na perua.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/6- Por todo lá.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/9- Chego já.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/1- Punhal de prata.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/3- A dança das borboletas.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/11- Cabelo no pente.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/2- Caravana.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1984 - História da Música Popular Brasileira (Forró em vinil)/10- Como dois animais.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/05 Meu sofrimento.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/10 Uma carta de amor.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/11 A dona da pensão.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/09 Troque esse disco.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/06 Mulher fingida.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/08 Dançarina da noite.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/04 Respeite o seu marido.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/03 Quero ser remador.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/12 Apaixonado por você.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/01 Beija-me.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/13 Procure outro homem.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/07 Menina moça do mar.mp3
-/home/felipev/datasets/forro em vinil/Jorge Paulo - 1984 - Beija-me (Forró em vinil)/02 Lady amor.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/3- Forrozando.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/12- Lição de beijo.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/10- Do jeito que a gente gosta.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/8- Dina.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/1- Os olhos dela.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/7- Procurando Tu.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/9- Santo Antonio , São Pedro e São João.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/2- O Sanfoneiro só tocava isso.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/5-  Mulher de verdade.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/4- Cheiro da Carolina.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/11- Forró Granfino.mp3
-/home/felipev/datasets/forro em vinil/Bons tempos -  1984 - Forró (Forró em vinil)/6- Forró do Dominguinhos.mp3
-/home/felipev/datasets/forro em vinil/Irmãos do Baião - 1984 - Preciso de um xodó (Forró em vinil)/02 O aniversário da Dinha.mp3
-/home/felipev/datasets/forro em vinil/Irmãos do Baião - 1984 - Preciso de um xodó (Forró em vinil)/09 Preciso de um xodó.mp3
-/home/felipev/datasets/forro em vinil/Irmãos do Baião - 1984 - Preciso de um xodó (Forró em vinil)/12 Vai ter mais fogueira.mp3
-/home/felipev/datasets/forro em vinil/Irmãos do Baião - 1984 - Preciso de um xodó (Forró em vinil)/04 Segura a morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/11 - Granito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/07 - Mimoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/02 - Forró no Pageú.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/01 - Ouricuri.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/06 - Jaguaribe.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/08 - Viração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Adolfinho - 1988 - Forró Mimoso (Forró em vinil)/12 - Bonitinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/01 - Na Bodega do Bodega.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/07 - Baião da Meia-Noite.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/11 - Forró no Claro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/03 - Repinicando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/06 - Bolé Bolé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/08 - Xodó de Sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/09 - Bom no Pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/02 - Remexendo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/12 - Roedeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/04 - Balanço Bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/10 - Batuque do Índio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gerson Filho - Flor do Sertão (Forró em vinil)/05 - Flor do Sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/01 Galeguim do zói azu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/11 Solte a franga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/07 Coração quente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/04 Sou caipira mas não sou otário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/10 Um pau de arara na Guanabara.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/12 A coisa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/05 Dedo na massa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/09 Pra iscangaiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/02 O drama do meu compadre.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/06 Aditivo pra revigorá coroa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/08 Não precisa rimar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Genival Lacerda - 1988 - Galeguim do zói azu (Forró em vinil)/03 O forró dos Marajás.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/10 Zomzeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/06 Forró de arrepiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/04 Melô do mamulengo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/12 Forró de Siá Raimunda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/09 É no balanço do mar - Prepare a fogueira - Deixa clarear - São João é isso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/03 Amor divinal.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/08 Me dá me dá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/01 Um amor numa fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/02 Forró da calibrina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/05 A mulher de Mané Amaro - Cantiga do sapo - Meu pião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/11 Pequenininha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Assisão - 1988 - Bola de cristal (Forró em vinil)/07 Bola de cristal.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/06 Beijo mel.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/09 Fricoteiro do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/11 Gosto de verdura.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/12 Reforma agrária.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/05 Quero te dar vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/07 Jogo de cintura.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/01 Tenho muito gás.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/08 tem que mexer pra adoçar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/02 Olha eu outra vez.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/03 Pra machuucar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/04 Passa lá em casa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Anastácia - 1988 - Tem que mexer pra adoçar (Forró em vinil)/10 Saudade roedeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/09. O girassol da baixada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/07. Pisa no meu coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/02. Salve-se quem puder (com Dominguinhos).mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/08. Um bilhete pro seu Lua (com Gonzaguinha).mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/10. A flor da magia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/11. Luã.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/03. Segredo de menina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/06. Dragão encantado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/01. Doida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/05. Palavra de mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Elba Ramalho - 1988 - Fruto (Forró em vinil)/04. Estrela grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/03 É fogo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/11 Solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/07 Cabra encherido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/12 A gente fuma muito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/01 Inquilino honesto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/09 Feijoada na roça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/08 Tudo por você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/06 Eu você e o amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/02 O xote da cama.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/04 Cobrando ciumes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/10 duas opções.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Sabiá - 1988 - Tudo por você (Forró em vinil)/05 Clube do asinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/02 xamego.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/07 estrada de canidé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/06 noites brasileiras.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/08 juazeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/03 vem morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/04 derramaro o gai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/05 pobre sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/10 amanhã eu vou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/01 ABC do sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - 1988 - Gonzagão e Fagner - ABC do sertão (Forró em vinil)/09 vozes da seca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/02 - Trio Nordestino - Paixão pela bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/10 - Trio Nordestino - Rejeição.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/07 - Trio Nordestino - Meus quatro filhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/05 - Trio Nordestino - Deu uma, deu duas, deu três.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/12 - Trio Nordestino - Menina moça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/01 - Trio Nordestino - No bumbum do zabumba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/08 - Trio Nordestino - Você merece.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/09 - Trio Nordestino - Dá, dá, dá nega.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/06 - Trio Nordestino - Ditado popular.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/04 - Trio Nordestino - Foi dida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/11 - Trio Nordestino - Ela que errou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1988] - Trio Nordestino - 1988 - Na Intimidade (Forró em vinil)/03 - Trio Nordestino - Arrocha o passo.mp3

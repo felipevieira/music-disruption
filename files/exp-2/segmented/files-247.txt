@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/09. Pra sacolejar (João Silva).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/03. Amor não tem idade (Antonio José).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/11. Tangendo a dor (Xico Bizerra).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/07. Xodó e chamego (Junior Vieira).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/12. Mexe ai pra gente ver (João Silva).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/10. Tá roendo coração (Aluizio Cruz – Wanderley Martins).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/02. Tá faltando alguem (Mestre Zinho – Aloizio Cruz).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/13. Amor eterno (Tio Joca – Jeffinho).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/04. Levei a sério (Thomia Santos).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/05. Pisa no chão (Miraldo Aragão).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/08. Trovão (Jorge Mello).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/01. Se tu quiser (Xico Bizerra).mp3
-/home/felipev/datasets/forro em vinil/Trio Sabiá - 2004 - Pra Sacolejar (Forró em vinil)/06. Seu aconchego (Junior vieira – Terezinha do Acordeon).mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/13 'Seu' Amadeu.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/10 Céu de balão.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/14 Mil colibris.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/01 Passarim João.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/05 Cobertor de estrelas.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/04 Lua Brasil.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/06 Espinho e flor.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/12 Minha Pintura.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/11 Você não quis.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/07 Pores-de-sol.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/16 Chorinho do sanhaçu.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/02 Pé de saudade.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/09 Vou deixar não.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/08 Do outro lado da rua.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/03 Cochicho.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2004 - Forroboxote 3 (Forró em vinil)/15 Crato, Araripe, Assaré.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/17. Homenagem A Zé Dantas.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/10. A Vida Do Viajante.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/03. Xote Das Moças.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/04. São João Chegou.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/15. Queixas Do Norte.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/09. Xote Do Véio.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/07. Ai, Amor.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/06. Velho Novo-Exú.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/12. Quarqué Dia.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/05. Derramaro O Gai.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/08. Café.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/02. Feira Do Gado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/13. Documento De Matuto.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/14. Xaxado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/18. Todo Homem Quer.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/16. Adeus Iracema.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/01. Respeita Januário.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 2004 - Quarqué dia (Forró em vinil)/11. Saudade Da Boa Terra.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/04 Reizado a São José.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/16 Boi de carro.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/02 Na fazenda de vovo.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/03 Coração de pedra.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/09 Boca do forno.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/01 Calor da vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/12 Grande vaquejada de Xerém.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/17 Vaqueiro nota zero.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/15 Quero voltar pra mim.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/18 O fazendeiro.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/05 Currutela.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/14 Como é grande a natureza.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/10 Maria Gulora.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/06 Povo guerreiro.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/07 Vaquejada da Bahia.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/08 Araripina.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/19 Toque de 8 baixos.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/11 Forró na Sala de Reboco.mp3
-/home/felipev/datasets/forro em vinil/Alcymar Monteiro - 2004 - Aboios e vaqueiros (Forró em Vinil)/13 Se tu quiser.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/10. Cadê você.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/08. Você.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/11. Festa de boi.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/09. Forrozinho bom.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/02. Tristeza nunca mais.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/01. Melo do desempregado.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/06. Mariar.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/07. Gelo na farinha.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/05. Escravo do passado.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/12. Não tem hora pra parar.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/03. Brilha Caruarú.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2004 - 25 Anos de Forró (Forró em vinil)/04. Engulindo Corda.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/07 Faca Como Eu.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/12 Dor Da Separacao.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/08 Voce Nem Nem.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/13 50 Anos de Forro.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/05 Cancao Pra Bob Marley.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/14 Eu Quero Voce Nene.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/15 Meu Destino E Cantar.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/03 Eu Quero Forroza.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/10 Forro Do Remelexo.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/11 Forro Do Xenhenhem.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/09 Tenho Sede (2).mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/04 Xote Da Gameleira.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/02 Pode Voltar.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/16 Eu So Quero Um Xodo.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/06 Beijo Com Batom.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 2004 - 50 anos de forró/01 Ta Querendo Cafune.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/03 - Trio Nordestino - Bola e meia.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/02 - Trio Nordestino - Apague o candieiro.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/14 - Trio Nordestino - Tinguinlingui+Chap-Chap.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/07 - Trio Nordestino - Xaxado bossa nova.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/01 - Trio Nordestino - Amor de São João (Fala Mansa).mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 2004 - Baú do Trio Nordestino - Vol. 02 (Forró em vinil)/09 - Trio Nordestino - Já faz tempo não lhe vejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Toninho Guedes - 2011 - Miragem (Forró em vinil)/13. Cuidado com a perseguida (Toninho Guedes).wma
+/home/felipev/datasets/forro em vinil resampled/[2011] - Toninho Guedes - 2011 - Miragem (Forró em vinil)/01. Volta (Eraldo Cavalcante – Toninho Guedes).wma
+/home/felipev/datasets/forro em vinil resampled/[2011] - Toninho Guedes - 2011 - Miragem (Forró em vinil)/08. Vergonha na cara (Toninho Guedes).wma
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/15 - O Papagaio Depravado - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/10 - Não te dou razão - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/11 - Não consigo te esquecer - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/07 - Forró do Tamanco - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/01 - Serei pra sempre assim - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/12 - Meu Salgueiro - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/02 - Pra nós dois - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/05 - Parte da minha vida - DANILO PERNAMBUCANO - FORRÓ E POESIA (Participação Nádia Maia).mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/04 - Se possível for - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/09 - Homenagem a Gennaro - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/03 - Deve ser amor - DANILO PERNAMBUCANO - FORRÓ E POESIA (Participação Os Nonatos).mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/06 - A Gemedeira - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/13 - Acordar São João - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/08 - Forró do Plic Plic Plá - DANILO PERNAMBUCANO - FORRÓ E POESIA (Participação Santanna, O Cantador - Quartinha Zabumbeiro).mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Danilo Pernambucano -  2011 - Forró e poesia - vol.3 (Foirró em vinil)/14 - A Linguiça do Jumento - DANILO PERNAMBUCANO - FORRÓ E POESIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/03 Pra ficar no grau.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/15 Cerca de pedra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/02 Hoje eu to relax.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/14 Zirene.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/09 A cada dia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/04 Ela já sabe tudo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/11 Tomando as dores.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/01 Simbora.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/13 Arapiraca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/16 Eu, a cama e Nobelina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/10 O trem do forró grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/07 Na sala de reboco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/08 Tome xote.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/12 Jardim do Seridó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/05 Meu Seridó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Amazan - 2011 - Pra ficar no grau (Forró em vinil)/06 De lua e amores.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/10 - Eu tô assim - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/12 - Feito que nem caldo de cana (Instrumental) - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/4 - Quero passar a mão  - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/1 - Até o dia Clarear - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/13 - Você está cabeluda - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/8 - Forró na veia - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/3 - NegaTereza  - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/5 - Fechei os olhos - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/6 - Estou de volta - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/2 - Hoje tem forró do bom - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/7 - Amorzão - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/11 -Quem rela bucho não entra - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Trio Sucupira - 2011 - Até o dia clarear (Forró em vinil)/9 - Pensando em você - Trio Sucupira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/10 - PISE DE MANSINHO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/04 - SANTA TRINDADE.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/06 - HOJE TEM FORRÓ.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/07 - CIÇO E LUZIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/01 - CORES DA ALEGRIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/13 - NOITES DO MEU LEMBRAR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/08 - FESTA DAS CORES.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/02 - PANO DO DIA UM.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/03 - ESTRADA LONGA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/09 - CLARIDÁDIVA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/11 - DOMINGOS.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/12 - O ROMANCE DO FOLE COM A VIOLA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/05 - EU E NÓS.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/14 - BAIÃO DAS CORES.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/15 - O LONGE É PERTO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Xico Bizerra - 2011 - Forroboxote 09 (Forró em vinil)/16 - OLINDA, HOLANDA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/01 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/07 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/06 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/04 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/10 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/14 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/03 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/13 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/15 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/09 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/05 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/12 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/02 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/08 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Quinteto Dona Zaíra - 2011 - Tome forró (Forró em vinil)/11 - .mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/05 MSN.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/10 Dança do dia a dia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/01 No teu abrigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/06 Ispim de mandacaru.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/07 Nordestinês.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/02 Cheiro de nos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/08 Puliça.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/13 Grito de paz.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/12 Maria da roça.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/09 Vide vida marvada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/04 Carga pesada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/03 Paraiba apaixonado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Flavio Leandro - 2011 - Cheiro de nós (Forró em vinil)/11 Saudade de nos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/24 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/06 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/25 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/12 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/22 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/17 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/26 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/05 - Artista Desconhecido - Título Desconhecido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2011] - Chuchu Beleza - 2011 - Eu canto forró (Forró em vinil)/13 - Artista Desconhecido - Título Desconhecido.mp3

@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/12 Sacos de amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/08 Forró Cremoso.mp3
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/07 Jarrim de Fulô.mp3
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/11 Comendo brasa.mp3
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/13 Querer não é poder.mp3
-/home/felipev/datasets/forro em vinil/Trio Classe A - 2007 - Lagrimas de Uma sanfona (Forró em vinil)/04 Lágrimas de uma Sanfona.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/14 - Senna, Pele E Gonzagão - Asa Branca.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/08 - Espumas Ao Vento - Lembranças De Um Beijo.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/01 - Sinônimos - Jardim Dos Animais.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/02 - Minha Doce Estrela - Não É Pouco Não.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/09 - Taxi Lunar - Dona Da Minha Cabeça - Dia Branco.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/13 - Devolta Pro Aconchego - Gostoso Demais.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/12 - Frevo Mulher.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/06 - Meu Erro - Fácil De Entender.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/05 - Da Boca Pra Fora - Proibido Cochilar.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/04 - O Que Eu Queria.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/03 - Saudade D'oce.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/11 - Sou Do Banco - Tareco E Mariola.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/07 - Anjo Querubim - Confidências.mp3
-/home/felipev/datasets/forro em vinil/Waldonys - 2007 - Ao Vivo (Forró em vinil)/10 - Meu Cenário - Você Endoideceu Meu Coração.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/01 Faixa 1.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/14 Faixa 14.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/12 Faixa 12.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/11 Faixa 11.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/07 Faixa 7.mp3
-/home/felipev/datasets/forro em vinil/João Lacerda - 2007 - Herança de meu pai (Forró em vinil)/08 Faixa 8.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/12-Tambor de Peito (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/07-Samba na Casa de Rosa e outros cocos - Participação Biliu de Campina - Intérprete Angélica - As B.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/03-Prenúncio de Sabiá (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/02-Ao Rei do Baião (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/13-Galope dos Dias (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/11-Bem Maior (Robson Bass) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/04-Tamborete de Forró (Angélica Lacerda) Interprete Angélica lacerda - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/06-Lá vem Batista (Cátia de França) Interprete Angélica Lacerda e Cátia de França - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/10-Xô Passarinho (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/01-Caminhante (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/08-Saudosa Solitude (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/05-Eu Acredito (Escurinho) Intérprete Angélica e Escurinho - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/14-O São João é Bom demais (Angélica lacerda & Regina Negreiros) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/As Bastianas - 2007 - Colcha de Retalhos (Forró em vinil)/09-Morena (Gen Gen) Intérprete Angélica - As Bastianas.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/08 Corina.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/02 Não Cheguei Pro Seu Nariz.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/03 Divergência.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/15 Carinhoso.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/11 No Meu Cariri.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/12 Cerca Velha.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/13 O Nordeste Precisa De Paz.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/10 Sininho Do Amor.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/06 Ladeira Do Penar.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/09 Mestre Mundo.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/01 Desabafo.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/04 Pisa Na Fulô.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/14 Carcará.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/07 Tema Do Juizo Final.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 2007 - Ontem, hoje e sempre (Forró em vinil)/05 Maria Coisa.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/10 - Semente.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/02 - Lua.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/03 - Água.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/07 - Flor.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/08 - Vento.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/12 - Passarinho.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/09 - Sol.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/05 - Chuva.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/06 - Terra.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/04 - Casa.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/01 - Bicho.mp3
-/home/felipev/datasets/forro em vinil/Xico Bizerra - 2007 - Forroboxote 07 (Forró em vinil)/11 - Estrela.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/01 Gaiola da Saudade.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/07 Argila.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/09 Último Minuto.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/05 Tempos Quase Modernos (Qual o Assunto que Mais Lhe Interessa).mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/06 A Natureza das Coisas.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/03 Noite Severina.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/12 Dois Pra Sempre.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/10 A Dança das Borboletas.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/08 Boi Cavalo de Tróia.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/15 Conceição dos Coqueiros.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/02 Ave Anjos Angeli.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/11 As Forças da Natureza.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/13 Os Beijos.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/16 Amplidão.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/04 Rua da Passagem (Trânsito).mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 2007 - Qual o assunto que mais lhe interessa (Forró em vinil)/14 Novena.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/03 Beijo molhadinho.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/15 O gás de D. Regina.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/12 Me deitar no teu colo.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/07 Naquela casinha.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/11 Forró com cheirinho de mulher.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/08 Molhadinha de suor.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/05 Jamais esqueceu.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/01 O amor que mata e cura.mp3
-/home/felipev/datasets/forro em vinil/Marrom & Filhos da Paraíba - 2007 - O meu nordeste tem jeito (Forró em vinil)/02 O rio e o mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - João Gonçalves - 2013 - Molhado e pingando (Forró em vinil)/07 Piqui no feijão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - João Gonçalves - 2013 - Molhado e pingando (Forró em vinil)/05 Pelando frango.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - João Gonçalves - 2013 - Molhado e pingando (Forró em vinil)/06 Lembranças.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/05 Hoje não saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/12 Cair na folia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/08 Quer ficar comigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/04 O cheiro da menininha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/02 Aprendi a gostar de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/13 Chora minha sanfona.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/15 Caminhoneiro do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/09 De casa pra folia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/03 Porque não liga pra mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/01 Nação forrozeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/10 O amor eu encontrei.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/11 Só o amor ilumina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/07 O babulina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/06 Medo de amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Thais Nogueira - 2013 - Sou Brasil (Forró em vinil)/14 Nos dois.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/10- ONDE DEUS POSSA ME OUVIR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/03- FREVO MEIO ENVERGONHADO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/07- AMOR DE BUMBA MEU BOI.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/01- EMBOLAR NA AREIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/04- QUANDO EU FECHO OS OLHOS.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/02- DEITAR E ROLAR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/11- TU DE LA EU DE CA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/05- PORQUE TEM QUE SER ASSIM.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/13- MINHA VIDA É TE AMAR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/12- NA REDE.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/06- NAO CHORA NAO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/14- FORRO BRASILEIRO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/08- FIBRA DE CRISTAL.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Elba Ramalho -  2013 - Vambora lá dançar (Forró em vinil)/09- MUCURIPE.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/12 O entardecer na fazenda.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/05 O porto seguro e o além-mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/13 O encanto do beija-flor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/04 Chorôrô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/09 Deixa estar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/07 o xote do inho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/11 Bença, mãe.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/03 Cante Comigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/01 Sou o forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/08 Panhã-panhã.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/02 Amor do bom com carinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/06 Despedida de solteira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 - Sou o forró (Forró em vinil)/10 Não dá mais.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/11 Eu amo só você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/05 É o sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/06 Perdi meu tempo com você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/04 Falta você no meu peito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/09 Me apaixonei de novo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/02 Desde menino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/01 O amor acabou.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/08 Pra ganhar você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/13 Fogueira de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/12 Pra ter mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/14 Não te dou o meu perdão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/03 O Gonzagão falou.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/10 Aos cantores do nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Alessandro Rodrigues - 2013 - Pra ganhar você (Forró em vinil)/07 Sou mais um filho do sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/11 dança mariquinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/08 aboio apaixonado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/05 ai, ai, Portugal.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/02 tacacá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/10 meu pandeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/12 vamos xaxear.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/13 calango da lacraia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/01 tudo é baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/14 fuga da África.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/06 Mariá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/09 dúvida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/03 bamboleando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/04 sanfonando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Socorro Lira e Oswaldinho do Acordeon - 2013 - O Samba do Rei do Baião (Forró em vinil)/07 Rei Bantu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Ustrês - 2013 - CD Promo (Forró em vinil)/TRIO USTRÊS - DA BOCA PRA FORA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Ustrês - 2013 - CD Promo (Forró em vinil)/TRIO USTRÊS-XAXADO BOSSA NOVA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Ustrês - 2013 - CD Promo (Forró em vinil)/TRIO USTRÊS-FORRÓ DO POEIRÃO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Ustrês - 2013 - CD Promo (Forró em vinil)/TRIO USTRÊS-RESTO DE AMOR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Ustrês - 2013 - CD Promo (Forró em vinil)/TRIO USTRÊS - TE FAÇO GAMAR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/02 Samarina - A novidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/03 Forró de Itaúnas - Cativeiro coração - Um pouquinho de você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/04 Jardim do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/07 O forró daqui.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/06 Lindo lago do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/05 Meu xodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/01 O brilho do lampião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Chama Chuva - 2013 - e o show continua (Forró em vinil)/08 Amor realizado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/10 Agora sua vez.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/01 De onde vem o baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/05 Grão de areia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/03 Festa dos animais.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/02 Sanfona sentida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/15 Forró de Rosinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/12 Serenin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/08 Eu quero paz.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/06 Ingratidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/11 Desabafo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/16 Primeiro encontro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/14 A tinta pinta e o pintor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/09 Rapa cuia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Evinha do Forró - 2013 - Rainha do Pé de Serrra (Forró em vinil)/07 No meu Cariri.mp3

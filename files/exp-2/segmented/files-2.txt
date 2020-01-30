@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/01-  Bem te vi atrevido.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/12- Por hoje é só.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/07- Moonlight Serenade.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/05- Marimba.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/02-Dança-de-Caboclo-Trio-Nagô.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/06-Atchim-Ary-Lobo.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/08-Frevo-dos-Vassourinhas-Zaccarias-e-Sua-Orquestra.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/01-Dengoso-Fafá-Lemos.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/07-Delicado-Fafá-Lemos.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/04-Sabiá-Laranjeira-Canhoto-e-Seu-Regional.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/05-Aproveita-a-Maré-Mesquita.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1956 - Rhythms of Brazil (Forró em vinil)/03-Fafá-em-Hollywood-Fafá-Lemos.mp3
-/home/felipev/datasets/forro em vinil/coletanea - 1957 - Pereirinha, Antonio Carlos e Noemy Cavalcanti - Vamos dançar a quadrilha/1 - VAMOS DANÇAR A QUADRILHA.mp3
-/home/felipev/datasets/forro em vinil/coletanea - 1957 - Pereirinha, Antonio Carlos e Noemy Cavalcanti - Vamos dançar a quadrilha/2 - CASAMENTO DA ROSINHA.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/06 Sou Que Nem Mineiro.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/07 Martelo Agalopado.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/01 Dançá na Roça É Bom.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/03 Severina.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/05 Amor de Vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/02 Cabo João.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/04 14 Dedos.mp3
-/home/felipev/datasets/forro em vinil/Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/08 Forró do Zé Vicente.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 04 - TREIS E TREZENTOS.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 03 - FREVO MALUCO.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 01 - CATINGUEIRA DO SERTÃO.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 07 - CANDONGA.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 05 - CANAÃ.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 02 - BONITINHO.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 06 - PENERA O BAIXO.mp3
-/home/felipev/datasets/forro em vinil/1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 08 - SANFONA NA ESCOCIA.mp3
-/home/felipev/datasets/forro em vinil/Jair Alves - 1957 - 78RPM (Forró em vinil)/1 - Lá no Norte - Baião.mp3
-/home/felipev/datasets/forro em vinil/Jair Alves - 1957 - 78RPM (Forró em vinil)/2 - Cangote Cherôso (Cochilando) - Baião.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/04. Xote das Moças.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/02. Moça Freira.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/08. Meu Pajeú.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/06. Gibão de Couro.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/07. Comício no Mato.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/01. Forró no Escuro.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/05. Delegado no Côco.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/03. Sertão Sofredor.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/11 Mulata, mulata..mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/07 Nêga.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/03 A fonte secou.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/08 Vai com jeito.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/09 O baião em Paris.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/04 Carrapicho.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/01 Maracangalha.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/05 No paraíso das mulatas.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/12 Fantasia carioca.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/10 Zezé.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/02 Brasileirinho.mp3
-/home/felipev/datasets/forro em vinil/Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/06 Vai na paz de Deus.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/06-Segredos do Sertanejo_José Cândido_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/05-Quadrilha é bom_Zé Dantas.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/04-Quero ver xaxar_António Correia_Silveira J.R_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/01-Quando a terra tá moiada_Zé Dantas.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/07-Pisa na fulo_Silveira J.R_Ernesto Pires_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/08-É sempre assim_Tito Mendes_Caubi Melo.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/03-Peba na pimenta_José Batista_João do Vale_Adelino Ribera.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1957 - Vamos Xaxar (Forró em vinil)/02-Que Coco é esse_Maruim.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/8 - 4 x 1.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/3 - Coco de improviso.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/5 - Cabo Tenório.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/1 - O canto da ema.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/7 - Boi tungão.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/6 - Coco social.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/2 - Pai Orixá.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/4 - Tarimá.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/01 Chão moiadinho.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/07 Baião da corda.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/04 Prego batido ponta virada.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/06 Cabra valentão.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/05 Tempo de molecote.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/08 Coro cotum.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/03 Você não faz o que eu faço.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/02 Mata sete.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/06-Pot-pourriFaixa 6.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/01-Caravan.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/05-Viva Meu Samba.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/03-Mistura Fina.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/02-Feitiçaria.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/07-Sonhando Contigo.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/04-Canção do Mar.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/05 Se eu soubesse.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/07 Escuta donzela.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/02 A laranjeira.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/03 ia pra missa.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/06 Sabino e lampeão.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/01 Acorda Maria Bonita.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/08 eu não pensei tão criança.mp3
-/home/felipev/datasets/forro em vinil/Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/04 Mulher rendeira.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/07 - Baião De Cartola.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/05 - Fim De Mundo.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/01 - Barba De Bode.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/04 - Ai, Ai, Ui, Ui.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/03 - Me Case Logo.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/06 - Sanfoninha De Oito Baixos.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/02 - Assim Que Cantar O Galo.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/08 - Forró Na Caiçara.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/06-Viva o Samba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/06 Sabino e lampeão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/01 Acorda Maria Bonita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/08 eu não pensei tão criança.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/04 Mulher rendeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/11 Mulata, mulata..mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/07 Nêga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/03 A fonte secou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/08 Vai com jeito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/09 O baião em Paris.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/04 Carrapicho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/01 Maracangalha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/05 No paraíso das mulatas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/12 Fantasia carioca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/10 Zezé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/02 Brasileirinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Os brasileiros - 1957 - OS BRASILEIROS NA EUROPA (Forró em vinil)/06 Vai na paz de Deus.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/01 Chão moiadinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/07 Baião da corda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/04 Prego batido ponta virada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/06 Cabra valentão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/05 Tempo de molecote.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/08 Coro cotum.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/03 Você não faz o que eu faço.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zito Borborema - 1957 - 10 polegadas - O nordeste canta (Forró em vinil)/02 Mata sete.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/06-Pot-pourriFaixa 6.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/01-Caravan.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/05-Viva Meu Samba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/03-Mistura Fina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/02-Feitiçaria.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/07-Sonhando Contigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Motivos para Dançar 2 (Forró em vinil)/04-Canção do Mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/06 Sou Que Nem Mineiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/07 Martelo Agalopado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/01 Dançá na Roça É Bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/03 Severina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/05 Amor de Vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/02 Cabo João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/04 14 Dedos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Fernandes - 10 - polegadas - 1957 - Dançá na roça é bom (Forró em vinil)/08 Forró do Zé Vicente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/04. Xote das Moças.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/02. Moça Freira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/08. Meu Pajeú.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/06. Gibão de Couro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/07. Comício no Mato.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/01. Forró no Escuro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/05. Delegado no Côco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Luiz Gonzaga - 1957 - O reino do baião (Forró em vinil)/03. Sertão Sofredor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/07 - Baião De Cartola.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/05 - Fim De Mundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/01 - Barba De Bode.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/04 - Ai, Ai, Ui, Ui.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/03 - Me Case Logo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/06 - Sanfoninha De Oito Baixos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/02 - Assim Que Cantar O Galo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Zé Gonzaga - 1957 - Sua sanfona sua simpatia (forró em vinil)/08 - Forró Na Caiçara.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 04 - TREIS E TREZENTOS.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 03 - FREVO MALUCO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 01 - CATINGUEIRA DO SERTÃO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 07 - CANDONGA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 05 - CANAÃ.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 02 - BONITINHO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 06 - PENERA O BAIXO.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - 1957 - Gerson Filho - Oito baixos (Forró em vinil)/GERSON FILHO - 08 - SANFONA NA ESCOCIA.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/8 - 4 x 1.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/3 - Coco de improviso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/5 - Cabo Tenório.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/1 - O canto da ema.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/7 - Boi tungão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/6 - Coco social.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/2 - Pai Orixá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jackson do Pandeiro e Almira - 1957 - Os Donos do Ritmo (Forró em vinil)/4 - Tarimá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/06-Viva o Samba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/08-Maria Tereza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/07-Samba de Padua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/05-Deixe o Breque Pra Mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/03-Rio Antigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/04-Cozinheiro Forçado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/02-Meu Sonho é Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Sivuca - 1957 - Turma da Gafieira (músicas de Altamiro Carrilho) (Forró em vinil)/01-Samba de Morro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/06-Segredos do Sertanejo_José Cândido_João do Vale.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/05-Quadrilha é bom_Zé Dantas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/04-Quero ver xaxar_António Correia_Silveira J.R_João do Vale.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/01-Quando a terra tá moiada_Zé Dantas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/07-Pisa na fulo_Silveira J.R_Ernesto Pires_João do Vale.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/08-É sempre assim_Tito Mendes_Caubi Melo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/03-Peba na pimenta_José Batista_João do Vale_Adelino Ribera.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Marinês - 1957 - Vamos Xaxar (Forró em vinil)/02-Que Coco é esse_Maruim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jair Alves - 1957 - 78RPM (Forró em vinil)/1 - Lá no Norte - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Jair Alves - 1957 - 78RPM (Forró em vinil)/2 - Cangote Cherôso (Cochilando) - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Pregões Diversos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Prece ao Vento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Moleque de Cancela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Ida e Volta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Sete Folegos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Benvindo Nortista.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Topada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Sina Danada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Aboio do Carreiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/Derna de Piquinininho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1958] - Gilvan Chaves - 1958 - Encantos do Nordeste (forró em vinil)/As 4 Coisas do Mundo.mp3

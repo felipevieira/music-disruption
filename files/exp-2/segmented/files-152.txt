@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/08 Balanço do amor.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/10 Passarinho liberdade.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/09 Canto primeiro.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/04 Minha procura.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/01 Tá cheirando a coisa boa.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/02 olhos da saudade.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/06 Dia de mar azul.mp3
-/home/felipev/datasets/forro em vinil/Fernando Filizola - 1986 - Tá cheirando a coisa boa (Forró em vinil)/03 Indo e voltando.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/04 Doutor de agronomia.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/08 Valeu boi.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/05 Saudades de um vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/09 Pensamento de vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/06 Fazendeiros bondosos.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/07 Reunidas Sobral.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/03 Vamos cocotinha.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/02 Hei, de arribação.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/01 Lambada na vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Vavá Machado e Zé Almeida - 1986 - Pagode de Vaqueiro (Forró em vinil)/10 Aboios e improvisos.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/03 açucena cheirosa.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/01 forró de cabo a rabo.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/09 engambelando.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/08 viva meu padim.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/05 boca de caieira.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/04 passo fome, mas não deixo.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/07 xote machucador.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/12 quadrilha chorona.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/10 forrónerão.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/02 forró da miadeira.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/06 rodovia asa branca.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/11 queimando lenha.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1986 - Forró de cabo a rabo (Forró em vinil)/13 eu e meu fole.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/04 Senhora Dona.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/09 Alga Marinha.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/02 Cheiro da Saudade.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/10 Amigo da Arte.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/07 Amiga de Graça.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/05 Rubi.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/01 No Romper da Aurora.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/06 Me Segura Que Senão Eu Caio.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/03 Amor Covarde.mp3
-/home/felipev/datasets/forro em vinil/Alceu Valença - 1986 - Rubi (Forró em vinil)/08 Mar de Amor Menina (Galope Raso).mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/08 coisa com coisa.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/07 forró de categoria.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/02 seu manoelito.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/01 são joão a dois.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/12 feitiço no forró.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/06 forró fifó.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/10 é proibido ficar só.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/04 brincar de laçar.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/09 um casal de advogados.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/03 raimunda.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/05 tem tempero no forró.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1987 - Forró de categoria (Forró em vinil)/11 fruto do amor.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/12. A Dança do Perú.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/09. Passarinho Vermelho.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/06. O Pau de Sebo Escorregador.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/04. Surra de Amor.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/07. Merengue Dela (Fricote Nela).mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/08. Ele Entrou Bem .mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/01. Forro Cheiroso.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/02. O Namoro do Cazuza.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/03. Recado Prá Zetinha.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/11. Oxente Bichinho.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/10. O Biriteiro.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1987 - Forró Cheiroso (Forró em vinil)/05. As Três Meninas.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/06 - MINHA GATA.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/10 - A PICADA DA COBRA.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/07 - A FOLIA DO JOÃO CARECA.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/03 - SALADA NO CAPRICHO.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/09 - XODÓ DE MULHER.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/08 - O GREGO E A BRASILEIRA.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/11 - NHEM NHEM.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/05 - O GRILO.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/02 - SEVERINA COOPER.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/12 - BANHO DE AÇUDE.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/01 - ALGODÃO DOCE.mp3
-/home/felipev/datasets/forro em vinil/1987 - Sandro Becker vol7 (Forró em vinil)/04 - O COMEÇO TÁ NO FIM.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/02 - Beleza no Forró.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/01 - Rapaz Direito.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/09 - Forró em Santo Estêvão.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/06 - Roque no Forró.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/03 - Pimentinha do Norte.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/05 - Homenágem a São Bernardo.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/12 - E deixa o Dia clarear.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/11 - Plano Cruzado.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/07 - Raposa no Forró.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/08 - Som Nordestino.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/10 - Fazenda Aldeira.mp3
-/home/felipev/datasets/forro em vinil/Pé Duro - 1987 - Raposa no forró (Forró em vinil)/04 - Chôro do Gatão.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/03 Coqueiro velho.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/07 Pisa devagar.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/05 O canto da cigarra.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/01 Deixa falar.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/11 Dormi demais.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/12 Se eu pudesse te daria.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/02 Forró do Bastião.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/08 Minha Campina Grande.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/04 Diferença de estado.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/10 Desabafo de nordestino.mp3
-/home/felipev/datasets/forro em vinil/Fúba - 1987 - Na pisada do forró (Forró em vinil)/06 Saudade do meu amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Zé Duarte - 1991 - A dona do meu Kadett (Forró em vinil)/05 - O Buraco é mais embaixo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Zé Duarte - 1991 - A dona do meu Kadett (Forró em vinil)/04 - Quem bota sou eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Zé Duarte - 1991 - A dona do meu Kadett (Forró em vinil)/10 - Vou contar prá Marilú.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/10 Minha Flor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/02 Piscando Os Olhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/04 Querendo Mais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/01 Meu Brinquedo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/05 Dança do Povão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/03 Balanço da Bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/06 Pensando Naquilo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/09 Um Presente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/11 Escada do Poder.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/08 Paixão Errante.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Nordestinos do Ritmo - 1991 - Querendo Mais (Forró em vinil)/07 Sol e Energia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/04 Bota pra feder.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/01 Delícia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/11 Cupido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/03 Buraco de tatu - Quebro essa mesa - Serenata - Na emenda - Safra boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/08 Salão de beleza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/07 A festa do ano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/05 A nossa felicidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/12 Mundo de fantasia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/09 De corpo a coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/02 Doideira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/10 A dor do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Assisão - 1991 - Doideira (Forró em vinil)/06 Vida de forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/06 - Pequeno Salário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/01 - A Voz do Povo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/04 - Vai Operário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/02 - Tá ficando bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/10 - Felizes os pobres reunidos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/09 - A procura de alguém.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/08 - O Desemprego no Brasil.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/05 - Povo Irmão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/03 - Opção.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Castanheiro - 1991 - O Canto das Comunidades Vol. 02 (Forró em vinil)/07 - Por onde vai a Trilna.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/01 - A Cara de Tuta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/04 - O Namoro da Viúva.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/12 - Você é minha Paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/06 - Quando Ela Faz Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/09 - De Perna a Dentro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/07 - Em Tenção de Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/03 - Aplicação no Over.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/11 - Você é meu Doce.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/05 - Fome Medonha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/02 - Seu Tuzinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/10 - Cabo Zé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Clemilda - 1991 - Em Tenção de Você (Forró em vinil)/08 - Pirua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/07. Lambaforró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/10. Retrato.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/03. Se você gostasse de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/05. Hábitos e costumes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/09. Deixa assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/08. Dúvida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/02. Deixa de chorar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/01. Dá pra mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/04. Sabor de paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Aécio - 1991 - E os 6 do Nordeste (Forró em vinil)/06. Pout-pourri_Cair na brincadeira_Até o sol raiar_Choromingo_Você tá mais bonita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/08 Saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/05 Adeus Mariana - O destino nos separou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/02 Lambada pra morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/03 Comechama.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/06 Mistura de forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/07 Ele e ela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/10 Lamento sertanejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/09 Devagarinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/04 Só quero você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Raimundinho do Acordeon - 1991 - Só quero você (Forró em vinil)/01 São João em Uauá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/05 Faixa 5.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/03 Faixa 3.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/02 Faixa 2.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/10 Faixa 10.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/04 Faixa 4.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/09 Faixa 9.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/06 Faixa 6.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/01 Faixa 1.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/07 Faixa 7.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Tacyo Carvalho - 1991 - Estação do amor (Forró em vinil)/08 Faixa 8.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/09 Banquinho da solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/12 Forró do chinelão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/11 Amor profundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/05 Lambada á Zequinha Santana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/10 Menina faceira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/04 Amor e paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/07 Cheirinho de mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/02 Capricho do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/06 Araponga no fandango, vaneirão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/08 Procissão da hora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/01 Uma rosa com amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Trio Lembrança - 1991 - Cheirinho de mulher (Forró em vinil)/03 Corpo de pecado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/05 - O fim do Século.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/03 - Se trava a Língua é assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/09 - A Carestia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/01 - A resposta de São José dos Cacetes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/06 - Como é bom se aprender a ler.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/11 - Tudo novo é bonito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/08 - O Côco de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/02 - O Aborto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/10 - Você quer Mulher boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1991] - Cachimbinho & Geraldo Mousinho - 1991 - Cantar Côco é assim (Forró em vinil)/04 - As Peças do Carro.mp3

@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/03 Farinha do mesmo saco.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/05 Festa do sul.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/06 Fazenda da cabaça.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/08 O galo cantou.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/07 Dengosa.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/01 Sanfonão do Zé.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/02 Fofinha.mp3
-/home/felipev/datasets/forro em vinil/Zé Bettio - 1985 - A música, a natureza e os animais (Forró em vinil)/12 Pisou na bola.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/07 Isso e aquilo.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/11 Arrasta pé da Sinhá.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/03 Na beira da piscina.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/12 Corda jaca mineiro.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/06 Jóia do nordeste.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/02 Essa é minha.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/08 Ora essa.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/01 Tá bom assim.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/10 pegue seguro.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/09 Embaixo do umbuzeiro.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/04 Malicioso.mp3
-/home/felipev/datasets/forro em vinil/1985 - Gerson Filho -  A jóia do nordeste vol19 (Forró em vinil)/05 Quadrilha do ano.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/5- Baile da Tartaruga.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/7- Se lavou ta novo.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/6- Acerte o passo.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/9- Relampeô.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/1- O amor jorrou.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/8- Lutando pela vida.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/2- Forró na construção.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/11- Molhado de suor.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/10- Barra Pesada.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/3- A coisa não anda boa.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/12- Homenagem a Nazareth.mp3
-/home/felipev/datasets/forro em vinil/Nelson da Sanfona - 1985 - Se lavou ta novo (Forró em vinil)/4- Forro peneirado.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/04 Fúba - A Tainha.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/05 Fúba - Mulheres que sabem amar.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/07 Fúba - Mexe-Mexe.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/08 Fúba - Quero Visitar a Bahia.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/03 Fúba - Lá vai a Boiada.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/02 Fúba - A Saudade Dói.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/10 Fúba - Cantando e Sorrindo.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/12 Fúba - Mar de Rosas.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/11 Fúba - Falsa Patroa.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/06 Fúba - Não vem que não tem.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/01 Fúba - Asa Branca Cantadeira.mp3
-/home/felipev/datasets/forro em vinil/1985 - Fuba - Forró 85, cantando e sorrindo (Forró em vinil)/09 Fúba - Casa Grande.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/06 Sou assim.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/07 Geração 2001.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/11 É mentira dela.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/02 Quem manda sou eu.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/09 Forró exportação.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/12 Simplesmente amor.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/03 Chamas de amor.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/04 Universitário.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/01 É só badalação.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/08 coça, coça.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/10 Marieta.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1985 - Forró exportação (Forró em vinil)/05 Banho no raso.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/11.Mistérios Da Meia Noite.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/05.Absurdo Blues.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/12.Oh Pecador.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/01.De Gosto, De Agua E De Amigos.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/06.Forrobodó.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/02.Desejo De Mouro.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/07.Martelo Dos 30 Anos (Five Hundred Miles (M. Incidental).mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/03.Mestiça.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/09.Um Corpo Que Sai.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/10.Paralelas.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/08.Chuva Pesada.mp3
-/home/felipev/datasets/forro em vinil/Zé Ramalho - 1985 - De Gosto, de Água e de Amigos (Forró em vinil)/04.Sensaçôes Brancas.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/08 - Chô chô Fora Gavião.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/06 - Ela é Linda Lua Cheia.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/10 - Leilão de um Coração Apaixonado.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/11 - Timbó no Carimbó.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/04 - Melo da Brilhantina.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/12 - A Tremela.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/09 - Pagando o Pato.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/02 - Forró do Zé Pequeno.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/03 - Forró em Tribobó.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/07 - Benedita Bole-Bole.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/05 - Elba o Ferreiro do Forró.mp3
-/home/felipev/datasets/forro em vinil/Kojak do Forró - 1985 - Kojak do Forró (Forró em vinil)/01 - Kojak do Pirulito.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/10 rolo da moeda.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/04 forró com gosto de pecado.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/05 anjo da guarda.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/11 te faço um cafuné.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/09 nilopolitano.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/03 numa sala de reboco.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/01 isso aqui tá bom demais.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/02 amigo velho tocador.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/07 forró do quem quer.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/08 pra fungar e poeirar.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/06 seu amor é tão gostoso.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1985 - Isso aqui tá bom demais (Forró em vinil)/12 salão de barro batido.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/06 - Vamos Pular Fogueira.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/01 - Quem Quizer Que Venha Ver.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/03 - Benzinho Não Quero Ver Você Triste.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/04 - Meu Benzinho Eu Te Amo.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/11 - A Minha Vida é Você.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/07 - Não Desligue o Telefone.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/02 - Forró em Campina Grande.mp3
-/home/felipev/datasets/forro em vinil/Trio Cajueiro - 1985 - Bicho bom, quem não quer (Forró em vinil)/12 - Homem de Brinco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/03 Forrozeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/10 Mulher fogosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/06 Porque hoje é São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/07 Catedral do forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/05 Se exploda lá no sol.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/08 Foi você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Trio Sabiá - 1989 - Prova de amor (Forró em vinil)/02 Quero gandaiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/10 - Brinca, moreninha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/06 - Brincadeira de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/11 - No balanço da helena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/09 - Chamego bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/04 - Prato do dia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/01 - Preciso de você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/07 - Desemenda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/02 - Momentos lindos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/08 - Carinho de mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/05 - Mulher, cachaça e forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/03 - Brigas de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - tiziu - 1989 - Preciso de você (forró em vinil)/12 - Vivendo só de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/06 Timorante.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/05 Chorona.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/10 Toque toque sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/01 O Gonzagão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/08 Meu sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/07 Roda no salão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/09 Teimosia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/02 Agarrado com você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/04 Fazenda três ladeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joãozinho do Exu - 1989 - Sanfona, disposição e garra - Forró pra valer (Forró em vinil)/03 O sanfoneiro chegou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/04 O nosso amor é tão lindo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/02 Légua tirana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/01 Baião - Juazeiro - Paraíba - Qui nem jiló - Asa branca - A triste partida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/09 Sempre venenosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/08 bom tá é lá dentro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/07 Hipnotizadinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/10 Preciso te ver.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/06 Danado de bom - Sanfoninha choradeira - Forró de cabo a rabo - De fiá pavi - Viva meu Padim - Deixa a tanga voar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/03 Penera penera.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Joquinha Gonzaga - 1989 - Joquinha Gonzaga (Forró em vinil)/05 Vida afora coração adentro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/04 Depois da Festa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/03 Arrasta-frevo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/08 Forró Apracatado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/05 Xaxá Mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/13 Baile na Roça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/12 Manhã de Junho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/10 Meus Dezoito Anos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/07 Ao Mestre Capiba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/06 Do Jeito Que Vocês Gostam.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/02 Ói o Freio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/01 Forrobodó Cigano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/11 Tá Ruço.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Luiz Gonzaga - 1989 - Forrobodo cigano (Forró em vinil)/09 Festa na Roça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/01 Ela voltava.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/06 São João do Caruaru.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/11 Me responda se souber.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/04 Vamos cantar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/12 O fumo é um veneno.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/09 O caranguejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/08 Insônia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/05 A cachorra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/07 A mulher brigou comigo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/10 Caridosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/03 Minha namorada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Zenilton - 1989 - Quando eu ia ela voltava, quando ela voltava eu ia (Forró em vinil)/02 Tumim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/12 - vaca valente (Ci‡o do Par -Ital£cia).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/09 - jacu-pemba (Luiz Rodrigues-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/07 - cabe‡a de prego (Ci‡o do Par -Z‚ Mota).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/13 - bairros de bel‚m (Ci‡o do Par -Ital£cia).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/04 - pilota (Ci‡o do Par -Z‚ Capoeira).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/06 - r dio gravador (Luiz Rodrigues-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/05 - passeando no paraiso (Ci‡o do par -Julio Ricardo).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/08 - filho de poeta (Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/10 - mulher e futebol (Luiz Rodrigues-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/02 - desemprego (Luiz Rodrigues-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/11 - saudade da tereza (Lopiano-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/03 - coador de caf‚ (Ci‡o do Par -RochÆo).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/14 - o revoltado (Lopiano-Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Ciço do Pará - 1989 - Quem ganhou foi eu (Forró em vinil)/01 - comadre antonia (Ci‡o do Par ).mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/06 - sapoti.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/01 - frevendo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/07 - sax em branco e preto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/02 - amo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/10 - alfa e ômega.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/08 - velho arvoredo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/03 - nem pra voz nem pra sopro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/04 - sue ann.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/09 - catedral.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Chiquinho do Acordeon - 1989 - chiquinho do acordeon (Forró em vinil)/05 - barroquinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/02 O Forró do Palhaço.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/10 Amore Mio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/08 Monsieur Buzzet.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/05 Os Amores Que Tive.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/06 Maçã do Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/09 Festival de Pipa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/01 O Véio Quer Maitê.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/03 A Grande Estrela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/07 O Kiko.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/04 Coisinha Maluca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - 1989 - Sandro Becker vol.9 - Para presidente (Forró em vinil)/11 Pout-Pourri de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1989] - Carlos André - 1989 - Na estrada do amor (Forró em vinil)/03. Desejo louco.mp3

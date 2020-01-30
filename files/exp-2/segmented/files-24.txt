@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/06 Hora do Adeus.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/11 Forró de Pedro Chaves.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/07 Garota Todeschini.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/02 Tu Qué Mingabelá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/04 Crepúsculo Sertanejo.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1967 - Óia eu Aqui de Novo (Forró em vinil)/12 Ou casa ou morre.mp3
-/home/felipev/datasets/forro em vinil/1967 -  Coletânia - Compacto - Rozenblit (Forró em vinil)/Lado A - Gordurinha - Cadeira de Balanço (Sebastião Lopes).mp3
-/home/felipev/datasets/forro em vinil/1967 -  Coletânia - Compacto - Rozenblit (Forró em vinil)/Lado B - Germano Batista - Ela Sabe (Gildo Branco - Reinaldo de Oliveira).mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/01 Súplica cearense.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/02 A cadeia da vila.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/06 Qual é o pó.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/11 Não sou de nada.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/10 Quando os baianos se encontram.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/03 Oito da Conceição.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/05 Tenente Bezerra.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/04  Baianada.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/07 Poeira de morte.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/12 Passe ontem.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/09 Vendedor de caranguejo.mp3
-/home/felipev/datasets/forro em vinil/1967 - Gordurinha - Súplica cearense (Forró em vinil)/08 Eu preciso namorar.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/08 - Revendo Iracema.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/01 - Perigoso.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/12 - Nostalgia.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/06 - Bibop no choro.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/10 - Teclado que chora.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/03 - Dançando azul.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/07 - Recordando o Havai.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/09 - Silêncio por favor.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/05 - Lamento.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/11 - Saudade de um pau de arara.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/04 - Deixa comigo.mp3
-/home/felipev/datasets/forro em vinil/noca do acordeon - 1968 - o rei do teclado (Forró em vinil)/02 - O rei do teclado.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/01 - Evolução.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/05 - Nosso Forró.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/02 - Baião do Berimbau.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/07 - Recordando velhos Tempos.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/09 - Samba nosso.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/04 - Monumento.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/03 - Forrozinho gostoso.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/10 - Sapecando o Forró.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/06 - Escorregando.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/12 - Aprenda a dançar.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/08 - Isto é Saudade.mp3
-/home/felipev/datasets/forro em vinil/Oswaldo Silva - 1968 - Evolução (Forró em vinil)/11 - Capoeira.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/03-O Sininho do Amor.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/10-Amor ‚ mais amor.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/04-Fartura no Nordeste.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/11-Cantiga de Viola.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/02- no balan‡o do mar.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/01-Ora viva SÆo JoÆo.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/07-Tara-ra-ra.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/06-O Urubu ta com Raiva do Boi.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/09-Tema de Amor.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/08-Sete punh .wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/12-Aproveita pessoa.wma
-/home/felipev/datasets/forro em vinil/Marinês - 1968 - Mandacaru (forró em vinil)/05-Matuto.wma
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/07. Quadrilha da meia noite.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/12. Semente do amor.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/03. Direito de encher.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/09. Saindo pela tampa.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/06. Bela Veneza.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/05. Eu de cá, você de lá.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/04. Querendo me derrubar.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/01. Preferiu a boemia.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/11. Capim da lagoa.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/02. Nós semos cantador.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/10. Quadrilha no terreiro.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1968 - Eu de cá, você de lá (Forró em vinil)/08.  Mentira da cabra.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/02-VITÓRIA DE SANTO ANTÃO.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/08-COCO XEREM.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/07-LINHA VERDE.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/12-ANITA DO CIPÓ.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/09-MANDUQUINHA.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/10-MEU ARARIPE.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/03-MAZURCA.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/11-ROSA DO MEARIM.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/05-DE JUAZEIRO A CRATO.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/01-MADRUCEU O MILHO.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/06-O ANDARILHO.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1968 - São João do Araripe (Forró em vinil)/04-A CHEIA DE 24.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/07. Não Vai Ser de Cassuá.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/06. Mulher Basta Uma.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/08. O Rabo do Jumento.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/04. Horário do Jumento.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/02.  A Flor do Ananás.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/01. A Carta da Véia Filomena.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/10. Você Cai.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/03. A B C do Amor.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/09. Tv Carcará.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1968 - Ludugero e seu jumento (Forró em vinil)/05. Lá Vem o Dia.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 10 Pula moçada.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 06 Piquenique.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 11 Saudade de Janete.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 04 Bucho com bucho.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 09 Saudade dela.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 07 Mesmo que queijo.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 02 Festa do Chitão.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 05 Rouxinol cearense.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 12 Serenata do galo.mp3
-/home/felipev/datasets/forro em vinil/Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 03 Adeus Marina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/01 Chua chua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/11 Saudação a Bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/02 Acorda São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/05 Sinhá Dona.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/12 Vôo da saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/07 Rodero novo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/06 Menino atentado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/09 Lenço de Yayá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Clemilda - 1968 - Rodêro novo (forró em vinil)/08 Quadrilha em Propriá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 10 Pula moçada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 06 Piquenique.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 11 Saudade de Janete.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 04 Bucho com bucho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 09 Saudade dela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 07 Mesmo que queijo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 02 Festa do Chitão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 05 Rouxinol cearense.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 12 Serenata do galo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 03 Adeus Marina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Zé Calixto Sanfoneiro bom é 01 Chôro gaiato.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Zé Calixto - 1968 - Sanfoneiro bom é (Forró em vinil)/Sanfoneiro bom é 08 Canarinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/05-Valha-me Deus, Senhor São Bento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/11-Canto Sem Protesto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/09-Saudades de helena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/04-Nordeste Pra Frente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/01-Canaã.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/10-Tic-Tac, Tic -Tac.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/08-Baião Polinário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/07-Diz Que Vai Virar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/02-Pobreza Por Pobreza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/06-Erva Rasteira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/12-Chico Valente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Luiz Gonzaga - 1968 - Canaã (Forró em vinil)/03-Festa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Carlos Diniz - 1968 - Compacto (Forró em vinil)/02 Gamação.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Carlos Diniz - 1968 - Compacto (Forró em vinil)/01 Novinho em folha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Osvaldo Oliveira - 1968 - Festejo junino - Compacto duplo (forró em vinil)/02 Estou querendo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Osvaldo Oliveira - 1968 - Festejo junino - Compacto duplo (forró em vinil)/04 Disse me disse.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Osvaldo Oliveira - 1968 - Festejo junino - Compacto duplo (forró em vinil)/01 Festejo junino.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Osvaldo Oliveira - 1968 - Festejo junino - Compacto duplo (forró em vinil)/03 Nem Santo Antonio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/09 - Chega de chorar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/04 - Atire no bicho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/12 - Se teu pai deixar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/02 - Véio mole.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/11 - É forró que vamos ter.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/07 - Vamos pular, gente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/06 - Jardim do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/03 - Uma prece para os homens sem deus.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/05 - Não levo Maria.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/10 - ABC da saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/01 - Naquele São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Trio Nordestino - 1968 - É forró que vamos ter (Forró em vinil)/Trio Nordestino - 1968 - É forró que vamos ter/08 - Rosinha indiferente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/06 - Terreiro de fulô.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/05 - Mariazinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/12 - Pagode alagoano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/07 - Zé Modesto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/08 - Prograsso da Bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/09 - Noite de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/10 - Cidade mãe.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/01 - Foguete baiano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/03 - A volta do mata-sete.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/04 - Saudades de belém.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/02 - Sombra do cajueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - nino paranoá - 1968 - Foguete baiano (Forró em vinil)/11 - Uma prece para os homens sem deus.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Birinho - 1968 - Compacto Simples (Forró em vinil)/1 - Birinho - la no corrope.mp3
+/home/felipev/datasets/forro em vinil resampled/[1968] - Birinho - 1968 - Compacto Simples (Forró em vinil)/2 - Birinho - Abane o fogo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/09 - Luar de Campina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/05 - A voz da razao.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/04 - Lembraca medonha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/10 - Orgulho de vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/12 - Pagode na serra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/06 - Serrador de primeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/08 - O tocador quer beber.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/01 - No pezinho da fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/11 - Cante cantador.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/02 - E caco pra todo lado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/03 - O canto do galo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - 1969 - osvaldo oliveira e jacinto silva - É caco pra todo lado/07 - Vem ca morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/04. Xá xá de Cachoeirinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/11. Hello, goodbye.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/10. Os camarões.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/09. Você passa, eu acho graça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/07. Quero lhe dizer cantando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/02. L'amour est bleu (O amor é azul).mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/03. Sá Marina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/12. L'important c'est la rose (O importante é a rosa).mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/05. Camarão no Rio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/06. Noites brasileiras.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/08. La la la.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Camarão - 1969 - A bandinha do Camarão (Forró em vinil)/01. Xeêm.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/10 - Volte a festejar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/02 - Corda de meu Coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/01 - Na Sombra da Jaqueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/06 - Marcha da Fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/09 - Coração gelado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/08 - Almanaque sertanejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/11 - Valente é o Bentiví.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/04 - Estou ruendo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/07 - Amor enchucalhado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/12 - Pra bem longe de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1969] - Josa Vaqueiro do Sertão - 1969 - Na Sombra da Jaqueira (Forró em vinil)/05 - Ano novo.mp3

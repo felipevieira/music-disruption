@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/11 - Quebra pau.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/12 - Sanfoneiro bom.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/05 - Comigo é assim.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/02 - Baião em Cajazeiras.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/08 - Norte e sul.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/03 - Forró alagoano.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/07 - Só danço com você.mp3
-/home/felipev/datasets/forro em vinil/1975 - Zé Paraíba - Forró de latada (Forró em vinil)/04 - Passei no norte.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/04. Chamego de cearense.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/01. Cascad e coco.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/10. Arrasta-pé em Itabaiana.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/02. Curió.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/06. Arrasta-pé em Paulo Afonso.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/03. Serra da Borborema.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/09. Subindo no coqueiro.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/112. Forró da roedeira.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/07. Forró no Carirí.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/08. Passeando no ecuro.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/11. Voltei pro sertão.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1975 - Forró envenenado (Forró em vinil)/05. Forró no Piraí.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/05 Madrid.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/02 Liguarudo.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/12 Dor de uma saudade.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/07 Tankichain.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/11 Comodoro.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/01 Não bebi nada.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/09 Crepusculo.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/03 Romano.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/06 Durango.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/10 Assunção.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/08 Perdido no deserto.mp3
-/home/felipev/datasets/forro em vinil/Toco Preto - 1975 - Perdido no deserto (Forró em vinil)/04 Veneza.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/05- Quem ver cara não ve coração.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/11- Tempo infalivel.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/06- Casa-te com Vera.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/02- Cajueiro velho.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/08- Saudade de Rosinha.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/01- Vai lavar o siri.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/03- Cartas pra ela.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/10- Te querer nunca mais.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/04- O sol foi.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/12- Não ver ninguém.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/07- Meu Nordeste.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1975 - Cajueiro velho (Forró em vinil)/09- Lombo de boi.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/03 Chega gemer.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/04 Forró em Petrolina.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/09 Hoje a noite é nossa.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/08 Forró metido a besta.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/12 Forró mengão.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/01 Botão variado.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/05 Frevo em Boqueirão.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/02 Chega pra cá, pra eu Joana.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/11 Tocador desenfadado.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/06 Vai morrer de roedeira.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/10 Forró fofinho.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1975 - Botão variado (Forró em vinil)/07 Barbeiro da cidade.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/08 - Agonia.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/02 - Forró do Velho Inácio.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/09 - Amor que eu plantei.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/04 - Festa de cores.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/07 - Era fogo.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/01 - Quem rela bucho não entra.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/05 - Canto de amor.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/03 - Precisamos dar um jeito.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/06 - Você vai se machucar.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/12 - Todo mundo é meu irmão.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/11 - Me case mamãe.mp3
-/home/felipev/datasets/forro em vinil/1975 - trio mossoro - forro do velho inacio/10 - Nós brinca, nós namora.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/02 Galo de Campina.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/05 Nego de botuca.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/03 Cecília.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/01 Forró do Zé Parnambuco.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/10 Fruta madura.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/06 Quero troco.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/07 Forró do Zé Mané.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/08 Tururi.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/12 Baião do ABC.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/04 Matuto na cidade.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/11 Desespero.mp3
-/home/felipev/datasets/forro em vinil/Ciço do Pará - 1975 - Forró do Zé Pernambuco (Forró em vinil)/09 Notícias de papai.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/07 Dezessete e Setecentos.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/14 Forro em Limoeiro-1x1-A Mulher de Anibal-Sebastiana.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/10 Asa Branca.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/11 Vem Morena-Cinura Fina-Xote das Meninas-Forr do Mane Vito.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/05 Da Cor do Pecado.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/01 Rosa Morena-Samba da Minha Terra.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/03 Escurinho-Falsa Baiana.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/02 Acertei no Milhar.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/08 Baiao.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/13 Delicado.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/04 Tico Tico No Fuba.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/12 Brasileirinho.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/09 Paraiba-Juazeiro-Mangaratiba-Qui Nem Jilo.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1975 - 2011 - 100 Anos de Musica Popular Brasileira Disco 4 (Forró em vinil)/06 Vira e Mexe.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/04 - Maria do Maranhão.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/10 - Flor do campo.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/08 - Mariá.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/09 - Coração de gelo.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/06 - Chô galo.mp3
-/home/felipev/datasets/forro em vinil/Elino Julião e Messias Holanda - 1975 - Cara de durão/12 - Vida de cangaceiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/08 - Tanto queima quanto atrasa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/12 - Marcha rancho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/11 - Me diga se tá certo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/06 - Jogo peço e ela me dá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/05 - Pronde tu vai luiz.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/02 - Asa Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/09 - Posso falar e cantar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/10 - Na volta da pá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/07 - Cantiga de cego.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Xangai - 1976 - Schangay - Acontecivento (Forró em vinil)/03 - Forró de Surubin.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/13 - No Pé da Fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/06 - Forró sem Grilo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/11 - Campo Belo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/05 - Marilú.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/08 - Bicão no Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/12 - Mané Sabino.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/03 - Devolva o Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/10 - Forró no Irecê.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/09 - Quadrilha do Norte.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/01 - Chapeu furado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/07 - Senhora dona da Casa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/04 - Xique Xique.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Pedro Sertanejo - 1976 - O bom Baiano (Forró em vinil)/02 - Santo Reis.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/11 Vou tomar cuidado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/09 Relembrando caho de côco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/08 manhoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/01 Forró do Ivan.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/06 Quadrilha bossa nova.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/10 Briga de galo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/02 Não atrapalha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/07 Diferente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/05 Forrózinho moderno.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/03 Forró no palhoção.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/12 Canto da siriema.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Camarão - 1976 - Forró no palhoção (Forró em vinil)/04 Cala boca Paulina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/05 - Do lado de cá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/10 - Só de leve.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/03 - Vamos dançar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/07 - Moça namoradeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/01 - Cheio de Piegas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/12 - Meu Bem vai viajar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/04 - Maneirinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/02 - Risacadinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/06 - Balançeado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/08 - Farrista.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/09 - Linda Morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Negrão dos Oito Baixos - 1976 - Vamos Dançar (Forró em vinil)/11 - Merengão da Bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/04 Na goiabeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/05 Na hora que eu ia beijar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/01 O batedor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/11 jeitinho e um anjo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/02 sua presença.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/08 Bicho besta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/09 Na noite que eu fugi com ela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/06 Amor americano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/07 Baile dos malandros.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/10 não dou carona.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/03 Oxente gente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Bastinho Calixto - 1976 - Bastinho Calixto (Forró em vinil)/12 Só você não vem.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/02 Xote da Lua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/03 Ficou na história.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/07 Rio de Janeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/01 Forró do Zé Sobral.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/05 Côco venenoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/12 Benzinho como é.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/11 Côco do Zé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/08 A mulher do sapateiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/04 Construção do nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/10 Solteirão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/06 Benzinho como é.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - José Sobral - 1976 - Isto é que é forró (Forró em vinil)/09 Lindo papel.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/03 carimbó de vovó sinhá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/07 no laço do carimbó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/05 sou o estopim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/04 flor de croatá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/11 maracá de menino.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/10 nosso amor está morrendo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/09 mestre mundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/01 nordeste valente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/12 como vai passando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/08 você me machucou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/06 mundo louvado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Marinês - 1976 - Nordeste valente (Forró em vinil)/02 casa de marimbondo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/12. Asa Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/06. Chora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/09. Estória do lagarto e o sabiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/01. Anda depressa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/05. Mulher ciumenta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/03. Riacho da pedreira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/02. Caminho de Santos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/04. Entorrou a boca da égua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/10. Sai de perto dele.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/07. Quero um beijinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/08. Não sei se vou....mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Os 3 do Brasil - 1976 - Coisas proibidas (Forró em vinil)/11. Você diz....mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Lucymar - 1976 - O namoro e a poupança (Forró em vinil)/06 dez barrigudinhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Lucymar - 1976 - O namoro e a poupança (Forró em vinil)/04 eu dou, eu dou, eu dou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Lucymar - 1976 - O namoro e a poupança (Forró em vinil)/11 sinto saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Lucymar - 1976 - O namoro e a poupança (Forró em vinil)/08 dói, dói.mp3
+/home/felipev/datasets/forro em vinil resampled/[1976] - Lucymar - 1976 - O namoro e a poupança (Forró em vinil)/02 vem e vai.mp3

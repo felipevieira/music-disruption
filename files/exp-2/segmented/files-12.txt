@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/05 - Pagando o pato.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/03 - Protesto.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/01 - Prelúdio para ninar gente grande.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/02 - Jaguaribe.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/04 - Guarânia da lua nova.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/12 - Paroliado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/10 - A fava que o boi comeu.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/07 - Meu sentido era na bela.mp3
-/home/felipev/datasets/forro em vinil/Luiz Vieira - 1962 - Encontro com Luiz Vieira (Forró em vinil)/09 - Chovendo eu fico.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/13 WALDICK SORIANO - Piza no Pe Dele.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/11 WALDICK SORIANO - Peguei Um Ita No Norte.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/10 WALDICK SORIANO - Quando Vovo Sonhava.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/14 WALDICK SORIANO - Perdao Para Dois.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/08 WALDICK SORIANO - Jura.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/04 WALDICK SORIANO - Amor de Venus.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/09 WALDICK SORIANO - Homenagem a Recife.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/05 WALDICK SORIANO - Perdoa-me Pelo Bem Que Te Quero.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/06 WALDICK SORIANO - Maldita Hora.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/02 WALDICK SORIANO - Paraquedista.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/12 WALDICK SORIANO - Minha Solidao.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/03 WALDICK SORIANO - O Amor Numa Serenata.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/01 WALDICK SORIANO - Manaus Meu Paraiso.mp3
-/home/felipev/datasets/forro em vinil/Waldick Soriano - 1962 - Sua Majestade a 8 Baixos (Forró em vinil)/07 WALDICK SORIANO - Os Olhos Do Meu Bem.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/07- Posso falar de saudade.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/11- Protesto.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/08- A vida passou.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/12- Deixa que eu sofra.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/01- Sete folegos.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/10- Tolice.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/09- Nem uma luz brilhou.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/04- Praia de Deus.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/06- Vontade louca.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/05- Cabra grande e bêsta.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/03- O homem da granja.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Chaves - 1963 - Gilvan Chaves (Forró em vinil)/02- Cantiga de cego.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/04-Sá Dona_Luiz Guimarães_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/10-Nascí no interior_António Barros.mp310 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/05-Macaco Veiro_J.B. De Aquino_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/09-Deixei minha Terra_Sebastião Rodrigues_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/07-Pizei no lírio_Juvenal Lopes.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/03-Sanharó_Luíz Guimarães_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/06-É pra xaxá_Ary Monteiro_Domingues José.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/11-4 Fia Feme_Ary Monteiro_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/12-Ou Raxa ou Faxea_Sebastião Rodrigues_Eraldo Monteiro.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/01-Balanceiro da usina_João do Vale_Abdias Filho.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/08-Xote melo o bico_J.B de Aquino_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1963 - Coisas do norte (Forró em vinil)/02-Coisas do norte_Rosil Cavalcante_João do Vale.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Zé Pereira CBS (forró em vinil)/ABDIAS - Beliscando (Abdias Filho).mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Zé Pereira CBS (forró em vinil)/ABDIAS - Zé Pereira (Abdias Filho)- Abre Alas (Chiquinha Gonzaga).mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/01 7 punhá.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/05 Rato molhado.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/09 cumendo quente.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/07 De colegio a Propriá.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/08 Baturité.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/06 Chão baiano.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/10 Casa amarela.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/04 Petrolandia.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/03 Vida de sanfoneiro.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/02 Chuliando da vovó.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/12 União.mp3
-/home/felipev/datasets/forro em vinil/Pedro Sertanejo - 1963 - O rei do sertão (Forró em vinil)/11 Papagaio malandro.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/07 História de um órfão.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/02 Mané Cazuza.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/05 A cigana mentiu.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/12 Escada da Glória.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/08 Patrulha da cidade.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/11 Aqui vou bem.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/06 Cento e vinte.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/04 Faca de ponta.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/03 Vitimas do nordeste.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/01 Quem encosta em Deus não cai.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/10 Coco da Juliana.mp3
-/home/felipev/datasets/forro em vinil/Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/09 História do Jeová.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/05 Vamos lá em Casa.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/09 Chorando Baixinho.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/03 Por que Te Amo.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/08 Barra da Madrugada.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/02 Pra que é que eu Vivo.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/10 Januário é o Maior.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/07 Seu Vigário.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/06 Estrada da vida.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/04 Seu dia Chegará.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga e seu conjunto - 1963 - Alma de Sertanejo (Forró em vinil)/01 Intenção de Mariquinha.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/12 Santa Clara Clareou.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/08 Assunto Novo.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/10 Beira Mar.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/09 Despontadinho.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/11 Pra Amanhecer Dia.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/02 A Pisada É Essa.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/01 São João na Roça.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/05 Balançaram a Roseira.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/04 Só Nessa Base.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/03 Acenderam a Fogueira.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/06 Vou Te Dizer.wma
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 -  Jackson do Pandeiro, Almira e Zé Calixto - Caminho da roça (Forró em vinil)/07 Tempo de Milho Verde.wma
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/9 - TUDO E NADA.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/8 - VIVA O SAMBA.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/12 - CINQšENTA MEGATONS.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/1 - FORNALHA.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/3 - SE CHOVESSE NO NORDESTE.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/08 Patrulha da cidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/11 Aqui vou bem.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/06 Cento e vinte.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/04 Faca de ponta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/03 Vitimas do nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/01 Quem encosta em Deus não cai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/10 Coco da Juliana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Ary Lobo - 1963 - Poeira de ritmos (Forró em vinil)/09 História do Jeová.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - 1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/02 - Bom é Esse.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - 1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/01 - La Vai Fumaça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - 1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/03 - Desengonçado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - 1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/04 - Toca Moço.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/06 Engole Cobra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/04 Forró No Marruá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/02 Forró de Beradeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/10 Casquinho de Mussuã.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/11 Buteco da Guilé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/12 Besouro Mangangá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/09 Forró De Seu Abeia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/03 Rechaço Do Brigé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/05 Bolim Bolacho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/01 Canjicada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/07 Recordando Taperoá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Abdias - 1963 - Arrasta pé (Forró em vinil)/08 Fogosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/02 Na Bodega do Bodega.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/07 Baião da Meia-noite.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/01 Bom É Esse.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/05 Xote Em Ribeirão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/12 Toca Moço.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/03 Música de Boite-quim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/09 De São Paulo ao Rio Grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/08 Lá Vai Fumaça.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/06 Desengonçado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/10 Forró na Praia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/11 Forró na Rua do Canto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/04 Forró do Patu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/09 O balaieiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/08 Seguro morreu de velho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/10 Ginga da mulata.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/05 B A bá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/11 Madalena.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/01 Twist não.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/04 Cabra feliz.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/03 A base de bala.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/02 Garoto de Caculé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/12 O vento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/07 Forró do Zé Lagoa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1963] - Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/06 Scrath de ouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Coronel Ludugero - 1964 - 78RPM (Forró em vinil)/Lado A - Sem mulher não presta (Coroné Ludugero).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Coronel Ludugero - 1964 - 78RPM (Forró em vinil)/Lado B - Duas fia pra casá (Coroné Ludugero).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/01 Forró de fim de feira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/07 Arrasta-pé no surrão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/08 Bombo frouxo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/11 Sempre.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/06 Sonolento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/10 Cacimba de dentro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/02 Beco da facada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/09 Forró no Riachão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/04 Clube dos cumpade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/03 Fole gemedor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/05 Tocando borá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Abdias - 1964 - Fole Gemedor (Forró em vinil)/12 Capengando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/02 Jackson do Pandeiro - São João no brejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/09 Zé Calixto - Oitão da casa grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/03 Jackson do pandeiro - O navio tá bom na marcha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/05 Borrachinha - Sem ter obrigação.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/12 Jackson do Pandeiro - Viva São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/04 Alventino Cavalcanti - Hoje tá pra mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/11 Alventino Cavalcanti - Baião da Letra A.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/10 Jackson do Pandeiro - De pé no chão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/07 Jackson do Pandeiro - Véspera e dia de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/06 Zé Calixto - Vai Zé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/08 Borrachinha - Nascimento grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - São João no brejo (Forró em vinil)/01 Zé Calixto - Queima a sola do pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/01 - Caminho de Pedra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/05 - Lamento amor, mas é o fim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/12 - Saudades de Maceió.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/04 - Galo de Briga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/03 - Maria Moita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/02 - Moinho D'Agua.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/06 - Amoroso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/10 - Nascer Baiano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/11 - Vida Bela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/08 - Morena do Grotão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/07 - Vida Ruim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Moura Junior - 1964 - EmbolaBalanço (Forró em vinil)/09 - Não ta Certo Não.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/01 Futurista.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/02 Vai não vai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/10 Delirando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/12 Ciumento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/04 Dançando agarradinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/05 Noca no choro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/03 Escorregando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/11 Revendo Itapuã.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/09 Cidade baixa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/08 Evolução.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/07 Baião da saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Noca do acordeon - 1964 - Brincando com os dedos (Forró em vinil)/06 Teimoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/04 - Frevo Cantagalo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/11 - Não há compreenção.mp3

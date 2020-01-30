@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - Victor- 1945 - 78 rpm (Forró em vinil)/LUIZ GONZAGA - Festa Napolitana.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - Victor- 1945 - 78 rpm (Forró em vinil)/LUIZ GONZAGA - Ovo Azul.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1947 - 78 RPM (Forró em vinil)/Lado B - Asa Branca (Luiz Gonzaga - Humberto Teixera).mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1947 - 78 RPM (Forró em vinil)/Lado A - Paraiba (Luiz Gonzaga - Humberto Teixera).mp3
-/home/felipev/datasets/forro em vinil/Emilinha Borba 78rpm - 1950 - Baião de dois_Paraíba (Forró em vinil)/Emilinha Borba - Paraíba_02.mp3
-/home/felipev/datasets/forro em vinil/Emilinha Borba 78rpm - 1950 - Baião de dois_Paraíba (Forró em vinil)/Emilinha Borba - Baião de dois_01.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1950 - 78 rpm (Forró em vinil)/01 - Disco voador.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1950 - 78 rpm (Forró em vinil)/02 - Alencarina bonita.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - Dança da Moda 1950 78rpm (Forró em vinil)/Lado B - Respeita Januário.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - Dança da Moda 1950 78rpm (Forró em vinil)/Lado A - A Dança da Moda.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1950 - 78RPM (Forró em vinil)/01 Vem morena (Zé Dantas - Luiz Gonzaga).mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1950 - 78RPM (Forró em vinil)/02 Quase maluco (Luiz Gonzaga - Victor Simon).mp3
-/home/felipev/datasets/forro em vinil/Ademilde Fonceca - 1951- 78 RPM (Forró em vinil)/01 - Delicado.mp3
-/home/felipev/datasets/forro em vinil/Ademilde Fonceca - 1951- 78 RPM (Forró em vinil)/02 - Arrasta-pé.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/02 - Mulher Rendeira - Casinha da Colina.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/03 - Não Dei Meu Coração - Epa! O Baião Pegou.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/08 - Desengano - Nao Perdes por Esperar.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/06 - A Mulher Barbada - Côco do Bamba Lê Lê.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/07 - Meu Limão, Meu Limoeiro - Urubu Malandro.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/04 - Peguei um Ita no Norte - Trem Ô Lá Lá.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/05 - Cuco - No Ceara Não Tem Disso Não.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1953 - Baião Nr. 3 (Forró em vinil)/01 - Casinha Pequena - Cangaceiro.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1954 - 78 rpm (Forró em vinil)/02 - Zé Gonzaga - Galope à Beira Mar.mp3
-/home/felipev/datasets/forro em vinil/Zé Gonzaga - 1954 - 78 rpm (Forró em vinil)/01 - Zé Gonzaga - Cascatinha.mp3
-/home/felipev/datasets/forro em vinil/1954 - Gerson Filho - Baião do Soldado (Forró em vinil)/Lado A - Baião do Soldado (Gerson Filho - Antonio Filho).mp3
-/home/felipev/datasets/forro em vinil/1954 - Gerson Filho - Baião do Soldado (Forró em vinil)/Lado B - Baião em Caxias (Estanislau Silva - Gerson Filho - Agnaldo Assis).mp3
-/home/felipev/datasets/forro em vinil/Januário - 78 RPM - 1954 (Forró em vinil)/01 - O Balaio do Veremundo.mp3
-/home/felipev/datasets/forro em vinil/Januário - 78 RPM - 1954 (Forró em vinil)/02 - Pronde Tu Vai Lui.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1954 - 78RPM (Forró em vinil)/02 - Êta Baião (Marçal Araújo) - Baião.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1954 - 78RPM (Forró em vinil)/01 - Boi Brabo (Rosil Cavalcante) - Côco.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/01 Jackson do Pandeiro - Forro em Caruaru.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/08 Jackson do Pandeiro - O galo Cantou.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/07 Jackson do Pandeiro - 1 X 1.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/04 Jackson do Pandeiro - Sebastiana.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/05 Jackson do Pandeiro - Forró em Limoeiro.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/06 Jackson do Pandeiro - Cremilda.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/03 Jackson do Pandeiro - Falsa Patroa.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/02 Jackson do Pandeiro - A Mulher do Anibal.mp3
-/home/felipev/datasets/forro em vinil/Januário - 1955 - 78 RPM -  RCA (forró em vinil)/januario - januario vai tocar.mp3
-/home/felipev/datasets/forro em vinil/Januário - 1955 - 78 RPM -  RCA (forró em vinil)/januario - calango do irineu.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/05- Quando me lembro corrigido.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/07- Corrupio.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/03- Primeiro amor.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/08- Musica de carrocel.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/10- Morena boca de ouro.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/02- Voo do bezouro.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/01- Toccata em ré menor.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/06- Lover.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/09- Coração.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Eis Sivuca (Forró em vinil)/04- Tenebroso.mp3
-/home/felipev/datasets/forro em vinil/Zezé Gonzaga - 1956 - Columbia (Forró em vinil)/Lado A - Natal das Crianças.mp3
-/home/felipev/datasets/forro em vinil/Zezé Gonzaga - 1956 - Columbia (Forró em vinil)/Lado B - A Caminho de Belém.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1956 - Mata sete - Vizinha faladeira - 78 RPM (Forró em vinil)/Lado A -  Mata Sete.mp3
-/home/felipev/datasets/forro em vinil/Zito Borborema - 1956 - Mata sete - Vizinha faladeira - 78 RPM (Forró em vinil)/Lado B - Vizinha faladeira.mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/03 - Ele Disse (Marcal Araújo - José dos Prazeres).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/06 - 17 na Corrente (Edgar Ferreira - Manoel Firmino Alves).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/02 - Rosa (Ruy Moraes e Silva).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/04- No Quebradinho (Marçal Araújo - José dos Prazeres).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/08 - Êta Baião (Marçal Araújo).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/07 - Côco do Norte (Rosil Cavalcanti).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/01 - Falso Toureiro (Heleno Clemente - José Gomes).mp3
-/home/felipev/datasets/forro em vinil/Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/05 - Moxotó (Rosil Cavalcanti - José Gomes).mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/3 - Na batida do samba.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/7 - Favela.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/8 - Côco tará-ta-tá.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/2 - Água com açucar.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/1 - Copacabana.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/6 - Beijos de mel.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/5 - Hoje ou amanhã.mp3
-/home/felipev/datasets/forro em vinil/Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/4 - Comprando Barulho.mp3
-/home/felipev/datasets/forro em vinil/Orlando Dias - 1956 - 78 RPM (Forró em vinil)/02 - Perigo de Morte (Gordurinha - Wilson de Moraes) - Baião.mp3
-/home/felipev/datasets/forro em vinil/Orlando Dias - 1956 - 78 RPM (Forró em vinil)/01 - Superstição (Portinho - W. Falcão) - Bolero.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/10- com que roupa - carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/05- paraiba - orlando silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/09- qui nem giló - orlando silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/01- baião - orlando silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/03- cabeça inchada - orlando  silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/12-  é com esse que eu vou - carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/06- cabelos brancos - carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/07- baião da garoa - orlando silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/11- asa branca - orlando silveira e orquestra.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/08- atire a primeira  pedra- carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/02- na pavuna - carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/04- me leva seu rafael - carolina cardoso de menezes.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Tesouro e Meio.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Derramaro o Gai.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - O Chero da Carolina.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Braia Dengosa.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Vassouras.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Tacacá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Aboio Apaixonado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Chorão.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/04- Gracioso.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/09- Duas Contas.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/11-  Misterioso.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/03- Tu e eu.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/08- Enigmático.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/06- X9 .mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/10- Bolero da Sorte.mp3
-/home/felipev/datasets/forro em vinil/Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/02- Angel`s lullaby.mp3
+/home/felipev/datasets/forro em vinil resampled/[1945] - Luiz Gonzaga - Victor- 1945 - 78 rpm (Forró em vinil)/LUIZ GONZAGA - Festa Napolitana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1945] - Luiz Gonzaga - Victor- 1945 - 78 rpm (Forró em vinil)/LUIZ GONZAGA - Ovo Azul.mp3
+/home/felipev/datasets/forro em vinil resampled/[1947] - Luiz Gonzaga - 1947 - 78 RPM (Forró em vinil)/Lado B - Asa Branca (Luiz Gonzaga - Humberto Teixera).mp3
+/home/felipev/datasets/forro em vinil resampled/[1947] - Luiz Gonzaga - 1947 - 78 RPM (Forró em vinil)/Lado A - Paraiba (Luiz Gonzaga - Humberto Teixera).mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Zé Gonzaga - 1950 - 78 rpm (Forró em vinil)/01 - Disco voador.mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Zé Gonzaga - 1950 - 78 rpm (Forró em vinil)/02 - Alencarina bonita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Luiz Gonzaga - 1950 - 78RPM (Forró em vinil)/01 Vem morena (Zé Dantas - Luiz Gonzaga).mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Luiz Gonzaga - 1950 - 78RPM (Forró em vinil)/02 Quase maluco (Luiz Gonzaga - Victor Simon).mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Emilinha Borba 78rpm - 1950 - Baião de dois_Paraíba (Forró em vinil)/Emilinha Borba - Paraíba_02.mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Emilinha Borba 78rpm - 1950 - Baião de dois_Paraíba (Forró em vinil)/Emilinha Borba - Baião de dois_01.mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Luiz Gonzaga - Dança da Moda 1950 78rpm (Forró em vinil)/Lado B - Respeita Januário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1950] - Luiz Gonzaga - Dança da Moda 1950 78rpm (Forró em vinil)/Lado A - A Dança da Moda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1951] - Ademilde Fonceca - 1951- 78 RPM (Forró em vinil)/01 - Delicado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1951] - Ademilde Fonceca - 1951- 78 RPM (Forró em vinil)/02 - Arrasta-pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Zé Gonzaga - 1954 - 78 rpm (Forró em vinil)/02 - Zé Gonzaga - Galope à Beira Mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Zé Gonzaga - 1954 - 78 rpm (Forró em vinil)/01 - Zé Gonzaga - Cascatinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - 1954 - Gerson Filho - Baião do Soldado (Forró em vinil)/Lado A - Baião do Soldado (Gerson Filho - Antonio Filho).mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - 1954 - Gerson Filho - Baião do Soldado (Forró em vinil)/Lado B - Baião em Caxias (Estanislau Silva - Gerson Filho - Agnaldo Assis).mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Januário - 78 RPM - 1954 (Forró em vinil)/01 - O Balaio do Veremundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Januário - 78 RPM - 1954 (Forró em vinil)/02 - Pronde Tu Vai Lui.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Jackson do Pandeiro - 1954 - 78RPM (Forró em vinil)/02 - Êta Baião (Marçal Araújo) - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1954] - Jackson do Pandeiro - 1954 - 78RPM (Forró em vinil)/01 - Boi Brabo (Rosil Cavalcante) - Côco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Januário - 1955 - 78 RPM -  RCA (forró em vinil)/januario - januario vai tocar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Januário - 1955 - 78 RPM -  RCA (forró em vinil)/januario - calango do irineu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/01 Jackson do Pandeiro - Forro em Caruaru.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/08 Jackson do Pandeiro - O galo Cantou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/07 Jackson do Pandeiro - 1 X 1.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/04 Jackson do Pandeiro - Sebastiana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/05 Jackson do Pandeiro - Forró em Limoeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/06 Jackson do Pandeiro - Cremilda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/03 Jackson do Pandeiro - Falsa Patroa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1955] - Jackson do Pandeiro - 1955 - Jackson do Pandeiro (Forró em vinil)/02 Jackson do Pandeiro - A Mulher do Anibal.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Zezé Gonzaga - 1956 - Columbia (Forró em vinil)/Lado A - Natal das Crianças.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Zezé Gonzaga - 1956 - Columbia (Forró em vinil)/Lado B - A Caminho de Belém.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Zito Borborema - 1956 - Mata sete - Vizinha faladeira - 78 RPM (Forró em vinil)/Lado A -  Mata Sete.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Zito Borborema - 1956 - Mata sete - Vizinha faladeira - 78 RPM (Forró em vinil)/Lado B - Vizinha faladeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/3 - Na batida do samba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/7 - Favela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/8 - Côco tará-ta-tá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/2 - Água com açucar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/1 - Copacabana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/6 - Beijos de mel.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/5 - Hoje ou amanhã.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Severino Araujo e sua Orquestra Tabajara - 1956 - 10 polegadas (Forró em vinil)/4 - Comprando Barulho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/03 - Ele Disse (Marcal Araújo - José dos Prazeres).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/06 - 17 na Corrente (Edgar Ferreira - Manoel Firmino Alves).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/02 - Rosa (Ruy Moraes e Silva).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/04- No Quebradinho (Marçal Araújo - José dos Prazeres).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/08 - Êta Baião (Marçal Araújo).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/07 - Côco do Norte (Rosil Cavalcanti).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/01 - Falso Toureiro (Heleno Clemente - José Gomes).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Jackson do pandeiro - 1956 - Forro do Jackson - 10 polegadas (Forró em vinil)/05 - Moxotó (Rosil Cavalcanti - José Gomes).mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/10- com que roupa - carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/05- paraiba - orlando silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/09- qui nem giló - orlando silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/01- baião - orlando silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/03- cabeça inchada - orlando  silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/12-  é com esse que eu vou - carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/06- cabelos brancos - carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/07- baião da garoa - orlando silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/11- asa branca - orlando silveira e orquestra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/08- atire a primeira  pedra- carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/02- na pavuna - carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Carolina Cardoso de Menezes e Orlando Silveira - 1956 - Honeymoon In Rio (Forró em vinil)/04- me leva seu rafael - carolina cardoso de menezes.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Tesouro e Meio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Derramaro o Gai.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - O Chero da Carolina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Braia Dengosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Vassouras.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Tacacá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Aboio Apaixonado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Luiz Gonzaga - 1956 - ABOIOS E VAQUEJADAS (Forró em vinil)/LUIZ GONZAGA - Chorão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Orlando Dias - 1956 - 78 RPM (Forró em vinil)/02 - Perigo de Morte (Gordurinha - Wilson de Moraes) - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Orlando Dias - 1956 - 78 RPM (Forró em vinil)/01 - Superstição (Portinho - W. Falcão) - Bolero.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/04- Gracioso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/09- Duas Contas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/11-  Misterioso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/03- Tu e eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/08- Enigmático.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/06- X9 .mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/10- Bolero da Sorte.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/02- Angel`s lullaby.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/01-  Bem te vi atrevido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/12- Por hoje é só.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/07- Moonlight Serenade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Motivo para Dançar (Forró em vinil)/05- Marimba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/05- Quando me lembro corrigido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/07- Corrupio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/03- Primeiro amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/08- Musica de carrocel.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/10- Morena boca de ouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/02- Voo do bezouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/01- Toccata em ré menor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/06- Lover.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/09- Coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1956] - Sivuca - 1956 - Eis Sivuca (Forró em vinil)/04- Tenebroso.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/05 Se eu soubesse.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/07 Escuta donzela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/02 A laranjeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1957] - Volta Seca - 1957 - Cantigas de Lampeão (forró em vinil)/03 ia pra missa.mp3

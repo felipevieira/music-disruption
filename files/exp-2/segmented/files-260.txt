@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/06 - Estão roubando meu baião.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/13 - O jumento de Damião.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/10 - O Rio São Francisco.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/03 - Namorando no escuro.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/01 - Acabou-se tudo.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/04 - Ta dentro deixa.mp3
-/home/felipev/datasets/forro em vinil/Zenilton - 2007 - Acabou-se tudo (Forró em vinil)/14 - Corno rico e corno pobre.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/03 Venha Pro Meu Ninho.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/12 Tá no Sangue e no Suor.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/10 Outra Era.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/08 Carioca Nordestino.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/05 O Bom Senso da Loucura.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/04 Pergunte ao Meu Lenço.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/11 Biliu Misturado.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/06 Além Mar.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/01 Coco Trocado.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/02 Cana Caiana.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/07 Retrato da Bahia.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/14 Arrastando o Pé.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/13 Meia Noite e Meia.mp3
-/home/felipev/datasets/forro em vinil/Chico Salles - 2007 - Tá no sangue e no suor (Forró em vinil)/09 Cajueiro Doce.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/01 Faixa 1.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/14 Faixa 14.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/12 Faixa 12.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/11 Faixa 11.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/07 Faixa 7.mp3
-/home/felipev/datasets/forro em vinil/Luiz Paulo - 2007 - Cada Vez Melhor  (Forró em vinil)/08 Faixa 8.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/11. Luzes da Ribalta.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/06. Lagrimas (ontem, hoje, amanhã).mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/12. Morena Bela.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/10. Desilusão.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/02. Nos somos dois sem-vergonha.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/04. A Desconhecida.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/05. No dia em que eu partir.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/01. Vou rifar meu coração.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/07. Não sei o que faço.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/03. A massa.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/08. (Pout-Pour) Sombras - Beijo Gelado - Coração Reclama).mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2007 - Canta o que o povo gosta (Forró em vinil)/09. Cadeiras de Roda.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/01 Faixa 1.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/15 Faixa 15.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/14 Faixa 14.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/12 Faixa 12.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/11 Faixa 11.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/07 Faixa 7.mp3
-/home/felipev/datasets/forro em vinil/2007 - Benício Guimarães - Dialeto cultural  (Forró em vinil)/08 Faixa 8.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/05 Bom motivo.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/02 Jardim dos animais.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/06 Brilho da lua.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/12 Tô te querendo.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/08 Favo de mel.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/10 Minhas desculpas.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/15 Agora vamos festejar.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/13 Enfiando os dedos.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/01 Vamos balançar.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/09 Cara metade.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/04 Não consigo te esquecer.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/11 Amor, amor, amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/14 Beijo de amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/03 Canção da saudade.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2007 - Demorou, mas chegou (Forró em vinil)/07 Eu e você.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/07 Contando os Dias.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/15 Meu Reinado.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/06 Mais um dia sem te ver.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/03 Amizade Passageira.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/02 Benzedeira.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/11 Tocador desarrumado.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/05 Zoeira.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/04 Chorando Por Ele.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/09 Moça Brejeira.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/01 Tome Doê.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/13 Xote Machucadinho.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/12 Juriti.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/14 Veja Só.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/16 Trio Juriti e Forró Quebradinho.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/10 Sair do Miserê.mp3
-/home/felipev/datasets/forro em vinil/Trio Juriti - 2007 - Forró Irresistível (Forró em vinil)/08 Aprendi Gostar de Mim.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/05 Eu quero é Namorar  - Bráulio de Castro.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/03 Suvaco de Gambá  - Velho Xaveco.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/09 Vacaria - DP.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/11 O Cara Preta  - Velho Xaveco.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/06 O Peixe Pacu  - Velho Xaveco.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/07 Casamento da Pastora - DP.mp3
-/home/felipev/datasets/forro em vinil/Antologia do Pastoril Profano - 2007 - Sambada (Forró em vinil)/04 Dona Maçu  - DP.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/10 Trio Clandestino - Sem o teu calor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/08 Trio Clandestino - Eu quero te amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/07 Trio Clandestino - Forró pra eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/03 Trio Clandestino - O tal conquistador.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/09 Trio Clandestino - Forró ajeitado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Trio Clandestino - 2013 - Novo tempo (Forró em vinil)/04 Trio Clandestino - Novo tempo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Roninho do Acordeon - 2013 - Na pisada do rei (Forró em vinil)/03 A vida do viajante.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Roninho do Acordeon - 2013 - Na pisada do rei (Forró em vinil)/05 Vira e mexe.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Roninho do Acordeon - 2013 - Na pisada do rei (Forró em vinil)/02 A morte do vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Roninho do Acordeon - 2013 - Na pisada do rei (Forró em vinil)/01 A hora do adeus.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Roninho do Acordeon - 2013 - Na pisada do rei (Forró em vinil)/04 Nilopolitano - Guadá e Liv no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/13 Decolagem pro sertão de Nova York.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/06 Nilopolitano - Guada e Liv no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/09 Lamento Nordestino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/07 Meu bem.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/08 Pietros return.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/11 Meu acordeon.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/12 Longe de casa - Na beira do asfalto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/05 Coração machucado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/14 Quero te ver feliz - Morena bela - Lamparina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/02 Bom e bonito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/04 Qui nem jiló.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/03 A gente se ve no baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/10 Brigas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/15 De João pra João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Joquinha do Acordeon - 2013 - Meu acordeon (Forró em vinil)/01 O início.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/01 - Pimenta com Pitú - Estrada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/03 - Pimenta com Pitú - Menina Preta.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/05 - Pimenta com Pitú - Feira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/04 - Pimenta com Pitú - Descendo a ladeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/06 - Pimenta com Pitú - Saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/08 - Pimenta com Pitú - Fé em Deus.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/07 - Pimenta com Pitú - Manteiga.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pimenta com Pitú - 2013 - Estrada (Forró em vinil)/02 - Pimenta com Pitú - Jeitinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/06 no pé de balcão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/14 belo xote.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/11 quando te vi gostei.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/03 campo novo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/02 vou de 8 baixos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/13 guisado de camarão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/08 rio seco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/09 mesmo que queijo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/05 Forró de pifano.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/04 dançador de festa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/01 Forró pra raimundo nunes.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/10 confusão no arraiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/07 bola preta.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Luizinho Calixto - 2013 - Discoteca do Calixto vol.5 (Forró em vinil)/12 reminiscencias.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/02. canto torto II.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/01. canto torto I.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/03. não tem mais não.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/12. éter do desejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/07. cataia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/05. baião alinhado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/11. a vida é tão boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/06. barulhinho bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/09. giro solto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/15. devoto cantador.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/14. minha toada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/10. não maltrata o cabra assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/04. virado no mói de cuentro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/08. até o sol raiar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Pé de Mulambo - 2013 - Giro Solto (Forró em vinil)/13. forró de lampião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/01 Princesinha no CHôro.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/11 Um xote pra Neném.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/08 Libertango.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/07 Subindo ao Céu.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/13 Sanfona Dourada.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/10 Wave.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/05 Um Pé no Asfalto, outro na Buraqueira.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/04 João e Maria.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/06 Mercedita.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/03 Adios Nonino.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/02 Lamento Sertanejo.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/12 Salve, Dominguinhos.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Targino Gondim - 2013 -Chorando mais eu (Forró em vinil)/09 Delicado.wma
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/11 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/04 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/05 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/09 - Chorão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/10 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/08 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/07 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/03 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/02 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/01 - Agradecimentos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Carrapicho dos 8 Baixos - 2013 - No Estúdio (Forró em vinil)/06 -.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/06 - Cordestinos - Mar da Minha Terra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/09 - Cordestinos - Jimis Galop.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/08 - Cordestinos - Forrockatu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/03 - Cordestinos - Azul Elétrico.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/04 - Cordestinos - Evelise.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/01 - Cordestinos - Nordeste de Paris.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/02 - Cordestinos - Soturno(1).mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/07 - Cordestinos - Refazenda.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/05 - Cordestinos - A Balada do Cachorro Louco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Nicolas Krassik e Cordestinos - 2013 - Nordeste de Paris (Forró em vinil)/10 - Cordestinos - Tears.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Marquinhos Café - 2013 - Tô beirando (Forró em vinil)/16 13 de dezembro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Marquinhos Café - 2013 - Tô beirando (Forró em vinil)/14 Toque toque sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2013] - Marquinhos Café - 2013 - Tô beirando (Forró em vinil)/09 Forró gostoso.mp3

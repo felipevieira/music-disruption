@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/6 - DERROTA.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/7 - BAIXO RELÒVO.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/4 - ESTOU COM RAIVA DO MAR.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/2 - NORDESTE SANGRENTO.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/10 - A LµGRIMA NÇO DEIXA CICATRIZ.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/11 - FAZER BEM SEM VER A QUEM.mp3
-/home/felipev/datasets/forro em vinil/1963 - gordurinha - um espetáculo (Forró em vinil)/5 - BAIÇO BEM.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/01 A Festa do Milho.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/05 Liforme Instravagante.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/06 Pra Onde Tu Vai Baião.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/12 Faz Força Zé.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/09 Eu Vou Pro Crato.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/11 Casamento Improvisado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/10 Caboclo Nordestino.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/04 A Morte do Vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/07 Pisa no Pilão.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/03 Desse Jeito Sim.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/08 Amigo Velho.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1963 - Pisa no Pilão (Forró em vinil)/02 Pedido de São João.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/02 Na Bodega do Bodega.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/07 Baião da Meia-noite.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/01 Bom É Esse.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/05 Xote Em Ribeirão.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/12 Toca Moço.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/03 Música de Boite-quim.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/09 De São Paulo ao Rio Grande.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/08 Lá Vai Fumaça.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/06 Desengonçado.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/10 Forró na Praia.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/11 Forró na Rua do Canto.mp3
-/home/felipev/datasets/forro em vinil/Gerson Filho - 1963 - Lá vai fumaça (Forró em vinil)/04 Forró do Patu.mp3
-/home/felipev/datasets/forro em vinil/1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/02 - Bom é Esse.mp3
-/home/felipev/datasets/forro em vinil/1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/01 - La Vai Fumaça.mp3
-/home/felipev/datasets/forro em vinil/1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/03 - Desengonçado.mp3
-/home/felipev/datasets/forro em vinil/1963 - Gerson Filho - Lá Vai Fumaça - RCA (forró em vinil)/04 - Toca Moço.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/06 Engole Cobra.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/04 Forró No Marruá.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/02 Forró de Beradeiro.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/10 Casquinho de Mussuã.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/11 Buteco da Guilé.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/12 Besouro Mangangá.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/09 Forró De Seu Abeia.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/03 Rechaço Do Brigé.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/05 Bolim Bolacho.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/01 Canjicada.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/07 Recordando Taperoá.mp3
-/home/felipev/datasets/forro em vinil/Abdias - 1963 - Arrasta pé (Forró em vinil)/08 Fogosa.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/12 Forró do Zé Pinheiro.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/11 Forró no Leblon.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/01 Asa Branca da Serra.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/02 Promessa.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/04 Farofada do Zé.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/03 Polca do Coroné.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/10 Pagando Promessa.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/07 Sabino.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/08 Tanguarina.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/06 Palmeirinha.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/05 Maranguape.mp3
-/home/felipev/datasets/forro em vinil/Severino Januário - 1963 - Tanguarina (Forró em vinil)/09 Xote da Mamãe.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/09 O balaieiro.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/08 Seguro morreu de velho.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/10 Ginga da mulata.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/05 B A bá.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/11 Madalena.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/01 Twist não.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/04 Cabra feliz.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/03 A base de bala.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/02 Garoto de Caculé.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/12 O vento.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/07 Forró do Zé Lagoa.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1963 - Forro de Zé Lagoa (Forró em vinil)/06 Scrath de ouro.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/07 - Chupando Gêlo.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/10 - Nair.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/01 - Carta a Maceió.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/04 - Retrato da Bahia.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/09 - Moça Bossa-Nova.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/06 - Muié ciumenta.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/08 - Xaxado bamba.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/05 - O Canto do Passarinho.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/11 - Não tá certo não.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/03 - Saudade do Nordeste.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/12 - Côco Sergipano.mp3
-/home/felipev/datasets/forro em vinil/Trio Nordestino - 1963 - Trio Nordestino (Forró em vinil)/02 - Defesa de Baiano.mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1964 - 78RPM (Forró em vinil)/Lado A - Sem mulher não presta (Coroné Ludugero).mp3
-/home/felipev/datasets/forro em vinil/Coronel Ludugero - 1964 - 78RPM (Forró em vinil)/Lado B - Duas fia pra casá (Coroné Ludugero).mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/07 - Comprei um Berimbau.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/12 - O Bom Xaxador.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/04 - No Balanco do Baiao.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/05 - Mare Vai.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/06 - Tililingo.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/03 - Lamento de Jangadeiro.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/01 - Babalao.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/11 - Parabens, Guanabara.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/09 - Cheguei Agora.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/02 - O Assunto e Berimbau.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/08 - Samba de Calole.mp3
-/home/felipev/datasets/forro em vinil/Jackson do Pandeiro - 1964 - E vamos nós (Forró em vinil)/10 - rosalina.mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1964 - Compacto - RCA (Forró em vinil)/Lado B - Siu, Siu, Siu (Onildo Almeida).mp3
-/home/felipev/datasets/forro em vinil/Marinês - 1964 - Compacto - RCA (Forró em vinil)/Lado A - Valsa Nenê (Jacinto Silva - Abdias Filho).mp3
-/home/felipev/datasets/forro em vinil/Sebastião do Rojão - 1964 - O balanço da mulata (Forró em vinil)/01 O balanço da mulata.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/02 - Do jeito que Deus mandou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/09 - Ingratidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/05 - Desafio a São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/06 - Amor ingrato.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/01 - Fim de festa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/10 - Ninguém é demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/12 - Garanhuns.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/07 - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/08 - Rala o coco Lili.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Dominguinhos - 1964 - Fim de festa (Forró em vinil)/03 - Taca fogo na fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/05. Pegueiu a reta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/02. Arrasta o pé Zé Lagoa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/04. Lembrança do meu sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/01. Forró campinense.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/10. Mastigadinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/09. Quadrilha no cariri.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/08. Adeus Campina Grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/12. Forró em Alagoinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/03. Saudade do meu baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/06. Damião no frevo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/07.Forrobodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Geraldo Correia - 1964 - Um baixinho e seus 8 baixos (Forró em vinil)/11. Castigando o fole.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/12 A saudade dói.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/08 Forró em casa amarela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/04 Eu vi o sassaruê.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/10 Capoeira no baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/02  Tem jabaculê.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/01  Quem não sabe beber.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/06 Baba de baba.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/09 Dia de beijada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/03 Olha o vento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/07 Samba do birim bim bim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/11 Comigo não.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jackson do Pandeiro - 1964 - Tem jabaculê (Forró em vinil)/05 De lascar o cano.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Wanderley - 1964 - Compacto duplo (Forró em vinil)/03 Avolta do boêmio.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Wanderley - 1964 - Compacto duplo (Forró em vinil)/01 Número 1.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Wanderley - 1964 - Compacto duplo (Forró em vinil)/02 Cinco letras que choram.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Wanderley - 1964 - Compacto duplo (Forró em vinil)/04 Por onde passei.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Catulo de Paula - 1964 - Compacto simples (Forró em vinil)/02 - Maria Moita - Thelma (Carlos Lyra - Vinicius de Morais).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Catulo de Paula - 1964 - Compacto simples (Forró em vinil)/01 - Pau de Arara - Catulo de Paula (Carlos Lyra - Vinicius de Morais).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/03 - A Volta da Asa Branca-Baião da Garôa-Mulher Rendeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/02 - Asa Branca-Kalu-Joazeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/07 - Clube dos Cumpade(João Silva-Pedro Cruz).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/06 - No meu Cariri-Caranguêjo Sá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/05 - No Ceará não tem disso não-Adeus adeus Morena-Qui nem Giló.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/08 - De Joazeiro a Crato(Julinho-Luiz Gonzaga).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/12 - E o tempo carregou(João Silva-Pedro Cruz).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/01 - Último pau de arara-Pau de Arara-Assum preto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/11 - Tapuio(Julinho-Ary Monteiro).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/04 - É Baião-Paraíba-Xanduzinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/09 - Recordando o Ceará(Julinho).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Julinho - 1964 - Relembrando o nordeste (Forró em vinil)/10 - A noite do sanfoneiro(João Silva-Miguel Lima).mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/10 - Saudade atroz.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/02 - Gato sem unha não briga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/05 - Quem dá aos pobres empresta a deus.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/09 - Saudade de Caicó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/03 - Lele ziriguidum.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/06 - Cabelos grisalhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/04 - Quem mandou você pra cá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/01 - Forró em Calcaia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/12 - Poeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/11 - Pastoril no torrião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/07 - Vamos a farinhada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - 1964 - ary lobo - Forró em calcaia/08 - Duelo do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/03-Menina Moça.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/08-Morena Linda.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/12-Expressão da Verdade.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/06-Passaro Teimoso.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/04-Grande Reinado.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/05-Homem não Chora.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/09-Seu Zeze.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/02-Lindo Papel.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/01-Novo Nordeste.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/07-Ao Amanhecer no Sertão.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/10-Vem Ca  Meu Bem.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Jota Lima - 1964 - O novo nordeste (Forró em vinil)/11-Homem Pequeno.wma
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/06 - Numa Sala de Reboco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/05 - Ave Maria Sertaneja.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/07 - Viva o Arigó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/11 - Lembrança de Primavera.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/10 - Forró do Zé do Baile.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/08 - Cantiga de Vem Vem.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/02 - Toque de Rancho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/04 - Marimbondo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/09 - Cocotá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/01 - A Triste Partida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Luiz Gonzaga - 1964 - A Triste Partida (Forró em vinil)/03 - Cacimba Nova.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/10 O Canto do Pitiguari.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/09 Não Me Negue Não.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/07 Rodamoinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/08 Mané Fulô.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/06 Caminhão do Norte.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/04 Diabinho Maluco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/01 O Forró É Meu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/05 Zé da Venda.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/02 Samburá de Peixe Miúdo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/03 Pica-pau.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/12 Baião dos Romeiros.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Gerson Filho - 1964 - O forró é meu (Forró em vinil)/11 Pensando Em Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1964] - Severino Januário - 1964 - Fuzuê no salão (Forró em vinil)/10 Brumadinho.mp3

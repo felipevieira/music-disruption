@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/05 - trio potiguá - quem tá fora entra.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/06 - trio potiguá - o tempo passa.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/04 - Trio Potiguá - meu destino.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/01 - trio potiguá - chiquita no forró.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/07 - trio potiguá - sanfoneiro atrevido.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/02 - trio potiguá - tudo de bom.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/11 - trio potiguá - sem sair do tom.mp3
-/home/felipev/datasets/forro em vinil/Trio Potiguá - 2008 - Tudo de bom (Forró em vinil)/12 - trio potiguá - Pra ela.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/17 Deus do Barro.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/10 O Rei nas Estrelas.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/14 Cidade Grande.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/05 Minha Home-Page.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/04 Nem Olhou Prá Mim.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/12 Meninos do Sertão.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/15 Chorar Prá Que.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/03 Anjo Querubim.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/11 Se Não Eu Choro.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/13 Cavaleiros do Meu Sonho.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/02 Tareco e Mariola.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/20 Forró Brasileirinho.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/16 Feitiço de Mulher.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/18 Como Posso Te Esquecer.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/07 Filho do Dono.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/19 Estrela Cadente.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/09 Devagar.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/08 Baião de Nós Dois.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/06 Confidências.mp3
-/home/felipev/datasets/forro em vinil/Petrúcio Amorim - 2008 - 20 Super Sucessos Petrúcio Amorim (Forró em vinil)/01 Meu Cenário.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/14 - Mestre Zinho e Amigos - Forró Balance o Ganzar.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/03 - Mestre Zinho e Amigos - Vou Te Cutucar.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/13 - Mestre Zinho e Amigos - Namoro na Roça.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/10 - Mestre Zinho e Amigos - No Ronco do Fole.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/06 - gosinho e Amigos - O Tocador quer Beber.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/09 - Mestre Zinho e Amigos - Não Tem Hora Pra Parar.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/11 - Mestre Zinho e Amigos - Chora Pirrita.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/07 - Mestre Zinho e Amigos - Namoro Inchirido.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/05 - Mestre Zinho e Amigos - Viro Bicho do Mato.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/04 - Mestre Zinho e Amigos - O Bicho Pega.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/01 - Mestre Zinho e Amigos - Bulir com Tu.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/02 - Mestre Zinho e Amigos - Coração Mole.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/12 - Mestre Zinho e Amigos - Minha Morena.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 2008 - Mestre Zinho e Amigos (Forró em vinil)/08 - Mestre Zinho e Amigos - Jura de Amor.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/01 Faixa 1.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/14 Faixa 14.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/12 Faixa 12.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/11 Faixa 11.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/07 Faixa 7.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 2008 -Tô nem ai (Forró em vinil)/08 Faixa 8.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/05 Princesa do Agreste.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/03 Tamborete de Forró.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/12 A Cura.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/07 Doidim por Você.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/02 Meninos.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/10 Pra nunca mais tu me deixar.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/09 Cheiro de Nós.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/08 Chamego Proibido.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/04 Forro do Camarão.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/11 Bote Tempo.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/06 Vontade.mp3
-/home/felipev/datasets/forro em vinil/Santanna, O Cantador - 2008 - Xote Pé de Serra - Ao Vivo (Forró em vinil)/01 Ana Maria.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/02 - A Vida do Viajante.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/01 - Aprendi com o Rei.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/04 - Pout-porri - Asa Branca, Baião, Pé de serra.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/14 - Karolina com K.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/05 - Sorriso Cativante.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/08 - Orelia.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/13 - Roendo Unha.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/07 - Estrada de Canindé.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/06 - Juazeiro.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/12 - Mané Gambá.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/03 - A Letra I.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/09 - Fulô da Maravilha.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/10 - Boiadeiro.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 2008 - Canta Gonzaga (Forró em vinil)/11 - Pout-porri - Forró nº 1_ Aí tem.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/26 Faixa 26.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/24 Faixa 24.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/19 Faixa 19.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/23 Faixa 23.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/21 Faixa 21.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/16 Faixa 16.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/25 Faixa 25.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/28 Faixa 28.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/17 Faixa 17.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do Nordeste - 2008 - Cantam sua história 35 anos (Forró em vinil)/27 Faixa 27.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Trio Dona Zefa - 2014 - Beleza de baile (Forró em vinil)/05 Deixa de Besteira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Trio Dona Zefa - 2014 - Beleza de baile (Forró em vinil)/07 Tive que Arribá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/09 - Sexo frágil.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/11 - Não arrebenta a Sapucaia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/08 - No Cariri é assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/12 - Forrozeiro do bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/07 - Na Selva da Vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/02 - Mulher barraqueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/01 - Beijando muito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/16 - São João em Catu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/03 - O Pinto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/13 - Quenga de categoria.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/10 - Picada de Besouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/05 - O escondidinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/06 - Fui criado assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/14 - Ela amou Jô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/15 - Noite de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Zezé Martins - 2014 - Vol. 04 - O Pinto (Forró em vinil)/04 - Babado forte.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/07. Recado de Passarinho - Zadir Marques Porto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/10. Madrugada com Estrelas - J. Sobrinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/12. Saudades do Papa João Paulo II e de Frei Damião - J. Sobrinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/04. Apagão - José Roberto Beserra Neves.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/11. São João em Santa Bárbara - J. Sobrinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/09. Amor de Pedreiro - Soninho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/03. Fogueirinha - Rochinho e André Rodrigues.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/13. A Alegre Volta - J. Sobrinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/02. Tareco e Mariola - Petrúcio Amorim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/01. Rei nas Estrelas - Petrúcio Amorim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/06. Menina da Novela - Soninho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/05. Se minha sanfona falasse - J. Sobrinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - J. Sobrinho - 2014 - Rei nas Estrelas (Forró em vinil)/08. O Vaqueiro - Galego do Acordeon.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/09 O vento.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/13 Forró da terra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/03 Saudade do sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/11 Onde nasceu dois Luiz.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/01 Beco do lavrador.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/08 Meu lugar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/04 Dia de cão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/06 Calendário desbotado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/05 Casa da solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/02 Caboclo de fé.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/15 De volta pro meu sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/12 Colorindo a vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/10 Tem nada não.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/14 Verde revelação.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Ari de Arimatéia - 2014 - Ari de Arimatéia (Forró em vinil)/07 Velhos tempos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - ForróBamba - 2014 - Single (Forró em vinil)/02 Me chama de amor (Guilhermino Ramos).mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - ForróBamba - 2014 - Single (Forró em vinil)/01 Café na cama (Guilhermino Ramos).mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Elmo Oliveira & Baião mais Eu - 2014 - CD Promocional  (Forró em vinil)/05 Te amo e tres pontinhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Elmo Oliveira & Baião mais Eu - 2014 - CD Promocional  (Forró em vinil)/03 Nao tem dinheiro que pague.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Elmo Oliveira & Baião mais Eu - 2014 - CD Promocional  (Forró em vinil)/01 Cavaleiro solitario.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Elmo Oliveira & Baião mais Eu - 2014 - CD Promocional  (Forró em vinil)/04 Sem nexo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Elmo Oliveira & Baião mais Eu - 2014 - CD Promocional  (Forró em vinil)/02 Tesouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/12 Chapéu de Palha, recanto da poesia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/06 Não há noite bonita sem luar e nem um dia feliz sem teu amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/10 Só sabe quem está detido quanto custa a liberdade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/03 Perguntas sem respostas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/04 A natureza agredida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/11 Solte o boi vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/09 Admirando a natureza.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/01 O que falta e o que sobra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/05 A falha da humanidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/08 divergências.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/02 Numa feira do interior.mp3
+/home/felipev/datasets/forro em vinil resampled/[2014] - Tenda do Repente - 2014 - Chapéu de Palha (Forró em vinil)/07 Perguntas e respostas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/10 Mãe.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/03 Lápis de cor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/04 Casa de tapera.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/02 Ressentimento.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/01 Forrobodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/08 Sem querer olhar pra trás.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/05 Cadê você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/13 Vou embora pro sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/09 Pra não ficar na mão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/11 Avoante.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/12 Estou voltando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/07 Toque o pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Flávio José - 2015 - Toque o pé (Forró em vinil)/06 Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/01 Aqui é couro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/04 Licença pro baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/13 Toada pra Dominguinhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/09 Atazanado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/03 Resedá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/02 Tua fulô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/05 Sanfona no peito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/08 Quilariando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/10 Manacá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/07 Rainha do meu cantar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/11 Lembrança de João do Vale II.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/12 Modinha pra você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Macaíba - 2015 - Comida Típica Tempero Universal (Forró em vinil)/06 Lembrança de João do Vale I.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Caruá - 2015 - Trio Caruá (Forró em vinil)/03 PRA FALAR A VERDADE.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Caruá - 2015 - Trio Caruá (Forró em vinil)/05 MENINO PRODIGIO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Caruá - 2015 - Trio Caruá (Forró em vinil)/04 MOLHADINHA DE SUOR.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Caruá - 2015 - Trio Caruá (Forró em vinil)/02 Umbigada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Trio Caruá - 2015 - Trio Caruá (Forró em vinil)/01 DE PONTINHO EM PONTINHIO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Fê Nogueira & Os 3 do Baião - 2015 - Forró de Respeito (Forró em vinil)/11. Fê Nogueira & Os 3 do Baião - Cheia de Chiquê.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Fê Nogueira & Os 3 do Baião - 2015 - Forró de Respeito (Forró em vinil)/03. Fê Nogueira & Os 3 do Baião - Campo de Batalha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Fê Nogueira & Os 3 do Baião - 2015 - Forró de Respeito (Forró em vinil)/02. Fê Nogueira & Os 3 do Baião - Rico de Amor .mp3
+/home/felipev/datasets/forro em vinil resampled/[2015] - Fê Nogueira & Os 3 do Baião - 2015 - Forró de Respeito (Forró em vinil)/05. Fê Nogueira & Os 3 do Baião - Forró de Respeito.mp3

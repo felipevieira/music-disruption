@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/12 - Corno Chorão.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/09 - Chifrudim.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/01 - Casa Separa.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/06 - Cabra Namorador.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/04 - Casa, Roupa E Comida.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/13 - 50 Anos de Vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Sirano - 1995 - Cabra Namorador (Forró em vinil)/08 - Ficando Solteiro.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/06 UM PASSARINHO.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/08 SERTÃO.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/04 O BOM DO AMOR.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/01 TARECO E MARIOLA.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/05 UM VERDADEIRO AMOR.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/09 BALANÇANDO A TANAJURA.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/02 QUANDO BATE O CORAÇÃO.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/03 FESTA DO VAQUEIRO.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/10 IMITANDO OS OITOS BAIXO.mp3
-/home/felipev/datasets/forro em vinil/Flavio José - 1995 - Tareco e mariola (Forro em vinil)/07 REPRESA DO QUERER.mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/08. Prosa mineira  (Lima Jr. e Milton Edilberto).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/05. Fuxico (Dinho Oliveira, Gutemberg Vieira e Didi.mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/01. Pau de atiradeira  (Papalo Monteiro).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/11. Absorto  (Zeto).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/06. Avoante saudade (Paulo Matricó).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/04. Moenda (Lembranças de engenho) - (Paulo Matricó, Luiz Homero e Miguel Marcondes).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/10. Fulorando (Anchieta Dali).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/02. Da cor do chão (Anchieta Dali e Luiz Homero).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/03. Na roça  (Anchieta Dali e Paulo Matricó).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/09. Terra mãe  (Luiz Homero e Miguel Marcondes).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/07. Canção da lua (Paulo Matricó).mp3
-/home/felipev/datasets/forro em vinil/Paulo Matricó - 1995 - Outro Verso (forró em vinil)/12. Coração mamulengo (Pauoo Matricó).mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/14. vagalume sem lume.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/01. em nome do sol.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/11. é isso que o zé quer.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/10. o valor do cajueiro.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/13. tempo bom.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/02. só mulher é quem faz o homem sofrer.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/06. quero ver rodar.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/05. paraiso das aguas.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/12. zezé.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/07. milunguita.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/09. nunca mais brigar.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/04. lembranças.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/08. forró de eronica.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1995 - Forrozeiro internacional (Forró em vinil)/03. aquela rosa.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/01 Telefonista.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/09 Peleja de Viola.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/06 O Troco do Coroné.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/07 Nós Vamos Se Virando.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/02 Coisa Boa.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/08 Forró Em Jacaraú.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/05 No Clima do Forró.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/04 Tudo de Novo.mp3
-/home/felipev/datasets/forro em vinil/Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/03 Dobrado do Coroné.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/01 - FOI ELA.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/08 - VAMOS CAIR NO FORRÓ.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/10 - BOQUINHA DE MEL.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/03 - UM GOGÓ NO FORRÓ.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/05 - AMOR ARDENTE.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/06 - SEM VOCÊ TUDO É SAUDADE.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/02 - DE CORPO E ALMA.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/04 - AMOR E PAIXÃO.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/09 - LICOTIXO.mp3
-/home/felipev/datasets/forro em vinil/Erivaldo de Carira - 1995 - De pai para filhos (Forró em vinil)/07 - AMOR COM ELA.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/15 -  Aquele Chorinho.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/06 -  Lígia.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/02 -  Minha Fulô.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/07 -  Moda da Mula Preta.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/13 -  Perpétua.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/10 -  Firim, Firim, Firim.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/12 -  Nós Queremos uma Valsa.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/21 -  Chamego das Cabrochas.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/16 -  Mangaratiba.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/08 -  O Casamento de Rosa.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/05 -  Adeus Pernambuco.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/18 -  Saudade.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/14 -  Olha a Pisada.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/11 -  Malhada dos Bois.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/03 -  Arrancando Caroá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/04 -  Estrêla de Ouro.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/09 -  Pagode Russo.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/01 -  No Meu Pé de Serra.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/19 -  Propriá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/17 -  Açucena Cheirosa.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1995 - No Meu Pé de Serra (Forró em vinil)/20 -  Amor da Minha Vida.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/11 Meus Canarinhos.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/02 Forró Pro Santo.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/10 Licutixo.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/07 Gabiraba.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/09 Puro Mel.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/01 Pispel.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/15 Tributo Ao Rei Luz.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/14 Função.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/08 De São João A São Pedro.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/06 Moda Vaqueira.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/03 Paixão Matreira.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/13 Ciganinha.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/04 Fé Lis.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/12 Comendo Festa.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/05 Anjo Guardião.mp3
-/home/felipev/datasets/forro em vinil/Edigar Mão Branca - 1995 - De São João A São Pedro (Forró em vinil)/16 Borocochô.mp3
-/home/felipev/datasets/forro em vinil/Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/07 Ao mestre Zé Calixto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Zé Índio - 2001 - Orgulho brasileiro (Forró em vinil)/04 Cama de varas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Zé Índio - 2001 - Orgulho brasileiro (Forró em vinil)/09 Insegurança.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Zé Índio - 2001 - Orgulho brasileiro (Forró em vinil)/06 Orgulho brasileiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Zé Índio - 2001 - Orgulho brasileiro (Forró em vinil)/08 Uma cartinha pra mainha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/01 Que Nem Doce No Tacho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/08 O Beijo E A Bronca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/10 Lavas De Um Vulçao.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/04 No Sangue E No Suor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/14 Não Sai, Não Sai.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/06 Na Pena Do Beija-Flor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/05 Teu Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/12 A Bandinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/03 Coração Menino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/11 O Rosto Da Solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/07 No Batente Da Janela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/09 Se Puxar Ao Pai.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/13 Procurando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Petrúcio Amorim - 2001 - Bebendo Na Fonte (Forro em vinil)/02 Forró Do Sapateiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/01 Pra Se Aninhar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/14 É Ouro Em Pó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/11 Cidadão Comum.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/10 Ainda Ontem.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/03 Carrapeta De Batom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/08 Qui Nem Brasa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/06 Esperando Na Janela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/07 Baião _ De Onde Vem O Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/12 Balance Eu _ Vida De Vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/05 O Bom Da Vaquejada _ Se Tiver Vaquejada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/09 Coitado De Eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/13 Aniversário De São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/04 Dance Forró Mais Eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Targino Gondim - 2001 - Dance Forró Mais Eu (Forró em vinil)/02 Verdade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/04 - eu acho é bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/13 - caetano no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/10 - lívia no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/01 - tá bom que tá danado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/03 - sanfoninha choradeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/07 - forró sem frescura.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/09 - jeito de amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/11 - não é brincadeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/02 - aprendi com rei.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/06 - eu e você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/08 - você não é pra mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/05 - feito louco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Waldonys - 2001 - Aprendi com o rei (Forró em vinil)/12 - destino penitente.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/03 A dança da moda.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/12 Acorda povo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/10 Radio de pilha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/09 Forrofiando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/04 Xote da saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/06 Pra descansar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/11 Amor de sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/05 Forró do mangue.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/01 Não tem Chororô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/07 Noronha, minha sereia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/02 Agarradinho meu amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Quenga de coco - 2001 - Forrofiando (Forró em vinil)/08 Dá o laço e arrocha o nó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/08 Sede de amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/04 Esperando na janela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/15 De volta pra casa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/02 Parecida com você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/03 O cheirinho dela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/09 Nunca mais solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/13 Sonhos pra sonhar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/06 Saudade machucadeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/14 Derretendo de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/05 Caia nos meus braços.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/11 Despedida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/07 Minha história.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/01 Paixão antiga.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/12 Separação.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Jorge de Altinho - 2001 - De volta pra casa (Forró em vinil)/10 Pout Pourri.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/08. Kalina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/01. O Filho Da Excelencia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/06. A Bodega Do Matuto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/07. O Sonho Da Vida Longa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/10. É Preciso Rebolar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/09. O Disco Voador.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/04. A Revolta Das Jumentas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/03. A Dieta Da Farinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/02. O Ricão Do Cabaré.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Amazan - 2001 - Dez Poemas Engraçados  Vol. II (Forró em vinil)/05. A Linguiça Do Jumento.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/09 - Formosura.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/03 - Sem ela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/06 - Segredo (com Sinfonéia).mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/11 - Fuzuê.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/10 - Desconectado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/04 - Anjo da guarda.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/05 - Funaré.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/08 - Pra você voltar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/01 - Não é pouco não.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/02 - Cumbe (com Alcymar Monteiro).mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Flávio Leandro - 2001 - Acústico (Forró em vinil)/07 - Utopia sertaneja.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/11-O Xote das Meninas-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/01-Olha Pro Céu-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/03-Asa Branca-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/04-Baião da Penha-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/18-Na Casa Dela [-]-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/12-Eu Só Quero Um Xodó-Latin.mp3
+/home/felipev/datasets/forro em vinil resampled/[2001] - Gilberto Gil - 2001 - São João Vivo (Forró em vinil)/19-Esperando na janela.mp3

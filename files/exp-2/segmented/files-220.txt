@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/10 feixando a rosca.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/03 patrício.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/05 barra dos coqueiros.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/12 filha do norte.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/08 forrozando.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/06 preciso de você.mp3
-/home/felipev/datasets/forro em vinil/1999 - Camarão - Na toca do camarão (forró em vinil)/09 na toca do camarão.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/01 - Meu Coração é quem diz.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/10 - A historia de uma Jumenta.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/07 - O dono do seu Coração.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/03 - Pra pegar um Ratinho.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/08 - Amando e cuxixando.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/09 - Forró gostoso e assim.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/13 - Você marcou minha vida.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/02 - Pense duas vezes.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/05 - Você vai mas você volta.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/12 - A Força do Amor.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/11 - Meu Pitiguari.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/06 - Bahia Berço do Brasil.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1999 - O Dono do seu Coração (Forró em vinil)/04 - Eu te amo tanto tanto.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/14 Neném de novo.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/06 Maria Aparecida.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/07 Noite de festa.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/03 Se eu dançar com você.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/13 Forró no som Brasil.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/09 Na onda do forró.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/12 Forró temperado.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/10 Você é um filet.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/02 Meu dengo é você.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/04 Amor no peito.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/05 Amor doido.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/01 Forró com chamego.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/11 Cinto e cadeado.mp3
-/home/felipev/datasets/forro em vinil/Os Filhos do Nordeste - 1999 - Forró com chamego (Forró em vinil)/08 Vai lá pra ver.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/13 Súplica cearense.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/03 Xote em Copacabana - Sebastiana - Moxotó.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/05 Cantiga do sapo.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/02 Chiclete com banana.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/07 Casaca de couro.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/09 Mambo da Cantareira.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/06 Mané Gardino - Tum tum tum - Penerou gavião.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/10 Forró em Caruaru.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/04 Forró em Surubim.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/11 Baião do bambolê.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/08 O canto da Ema.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/01 Baião.mp3
-/home/felipev/datasets/forro em vinil/Carmélia Alves - 1999 -  Abraça Jackson do Pandeiro e Gordurinha (Forró em Vinil)/12 Um a um.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/07 Por amor ao forró.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/02 Vassoura nova.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/09 Desilusão.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/08 Trajetória.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/05 Regresso.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/10 Fim de tarde na fazenda.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/04 Engenho velho.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/03 Caindo na estrada.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/06 Maliciosa.mp3
-/home/felipev/datasets/forro em vinil/Pinto do Acordeon - 1999 - Vassoura nova (Forró em vinil)/01 Terreiro de macumba.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/01 Sem vergonheira.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/10 Flor de facheiro.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/03 Pena de passarinho.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/08 Mudando de calçada.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/13 Não tem pra ninguem.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/06 Bate coração.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/02 Quem dera.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/04 Doeu doeu.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/12 Duvido.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/09 Leite derramado.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/07 Dose certa.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/11 Seduzir.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/14 Casa vazia.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1999 - Sem Vergonheira (Forró em vinil)/05 Xeem.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/08 - Sem Deus não sou ninguém.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/07 - Segura o Pagode.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/03 - O bom da Vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/04 - O namoro de Carmelita.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/10 - Com Fé em seu padroeiro.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/06 - Sinto Frio.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/02 - Boas Lembranças.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/12 - Heleno no Vaneirão.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/01 - Segura o Boi.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/11 - Catarina não tem Cabelo.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/09 - O Pé de Lã.mp3
-/home/felipev/datasets/forro em vinil/Heleno dos 8 Baixos - 1999 - Forró de Vaquejada (Forró em vinil)/1999 - Heleno dos 8 Baixos - Forró de Vaquejada/05 - História de vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/18 - Escorregando.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/17 - Paraxaxá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/14 - Lenda de São João.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/07 - Mariá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/09 - Recordações de Alguém.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/11 - Gato Angorá.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/16 - Beata Mocinha.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/10 - Forró de Mané Vito.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/20 - Aperreado.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/02 - Baião Grã-Fino.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/15 - Véspera de São João.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/21 - Asa Branca.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/13 - O Delegado no Côco.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/06 - Catimbô.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/08 - Lascando o Cano.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/03 - Verônica.mp3
-/home/felipev/datasets/forro em vinil/Luiz Gonzaga - 1999 - Verônica (Forró em vinil)/12 - Minha Guanabara.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/13 -  Forró dos ciganos - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/01 - Deixa o pau quebrar - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/05 - Rendição.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/07 - Inkaibando a véia - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/02 - Vivendo no campo - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/10 - Você é OMAQNMQ - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/14 - Lampião pedindo paz - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Edigar Mão Branca - 2006 - Deixa o Pau quebrar (Forró em vinil)/11 - Palhaçada - Edigar Mão Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/04 - Fogo e Gasolina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/11 - Fique Esperto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/12 - Fui Traído por Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/05 - Tempero no Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/06 - Forró e Paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/10 - Me Diz Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/07 - No Forró de Juvenar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/01 - Pisando no Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/02 - Me pede um Carinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/09 - A Nossa Curtição.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/08 - Bem Querer.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Lima dos 8 Baixos - 2006 - Pisando no Forró (Forró em vinil)/03 - Meu Desejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/06 Home page.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/03 Capital do forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/05 Danado no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/02 Oceano do querer.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/09 Desilusão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/10 Sem rumo e sem prumo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/08 Coração acelera.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/12 Lenha e brasa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/01 Brasil expresso.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/04 Saudade imprudente.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/13 Chicorria - Velhos tempos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/11 É só você querer.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Sotaque do Nordeste - 2006 - Lenha e brasa (Forró em vinil)/07 Chameguinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/01 - Canção Do Roedor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/06 - Na Puxada Da Rede.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/12 - Fantasia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/10 - Vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/02 - De Tamanco Mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/04 - Como Dois Animais.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/08 - No Fundo É Só Prazer.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/07 - Seu Delegado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/05 - Com Medo De Ficar Doente.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/09 - Cintura Fina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/13 - Nuvem Passageira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/11 - Ilha De Marajó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Forrozão - 2006 - Na puxada de Rede (Forró em vinil)/03 - Coração Maluvido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/04 Papel De Confeito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/07 Ta Bom Que Ta Danado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/08 Respeito É Bom E Eu Gosto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/11 Tempo De Menino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/13 So Um Dedinho Ou Um Golinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/03 Pra Voce Voltar Pra Mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/09 Sem Não Nem Talvez.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/06 O Meu Jeito De Amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/10 Que Te Faço Gamar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/01 Dificil Demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/05 Quadrado Feito Uma Rapadura.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/12 Paixão Tirana.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Flávio José - 2006 - Tá bom que tá danado (Forró em vinil)/02 Orgulho De Ser Nordestino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/10 Paliticos cara de pau.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/04 Nosso amor está em guerra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/08 Estrada de Canindé - Que nem jiló - Baião de dois - Vem morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/07 Xaxado é xaxado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/05 Voltando pra ver.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/06 Folia de São João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/02 dois em um.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/01 Oferendar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/03 Forró cheiro e xamego.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/09 Atrapalhando o transito.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Joquinha Gonzaga - 2006 - Cantos e causos de Gonzagão (Forró em vinil)/11 Emoção de uma fã.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/12 paixão doedeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/05 olho d'água.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/01 festa no sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/11 só você não vê.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/10 não diga adeus agora.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/08 você fez morada em meu juízo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/13 na subida da ladeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/02 minhas desculpas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/03 um mundo de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/04 coração maluvido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/07 no colo do coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/09 minha vida é te amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Trio Xamego - 2006 - Novinho em folha (Forró em vinil)/06 novinho em folha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/02 - Ciganeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/09 - Na boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/10 - Pense em min.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/03 - Segredo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/13 - Sou apaixonado por você (inhambupe).mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/04 - Nenem.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/11 - Pra você voltar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/14 - Na Casa de Maninho (intrumental).mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/12 - Loucura de Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/07 - Te fazer de Doida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/01 - Fuxico.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/05 - Me diga o que é.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/06 - Ardendo de Paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Zé Duarte - 2006 - Me diga o que é (Forró em vinil)/08 - Festa de Vaqueiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Marinês - 2006 - Canta a Paraíba (Forró em vinil)/08 Saudade de Campina Grande.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Marinês - 2006 - Canta a Paraíba (Forró em vinil)/07 Depoimento de Flávio José.mp3
+/home/felipev/datasets/forro em vinil resampled/[2006] - Marinês - 2006 - Canta a Paraíba (Forró em vinil)/11 Depoimento de Elba Ramalho.mp3

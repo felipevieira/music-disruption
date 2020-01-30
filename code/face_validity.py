@@ -60,7 +60,7 @@ def face_validity(path_list_of_files, similarity_matrix):
                         
 
 if __name__ == "__main__":
-        features = load_features_from_file('../files/all_features.txt')
+        features = load_features_from_file('../files/exp-3/all_features.txt')
         sm = similarity_matrix_by_rbf(features)
 
         print(sm)

@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/10-Ingazeiro velho.wma
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/11-Amor de mãe.wma
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/16- Céu estrelado.wma
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/5-Aqui têm.wma
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/3-Cajueiro.wma
-/home/felipev/datasets/forro em vinil/Chico Mota - 2009 - Empregada doméstica (Forró em vinil)/14-A saga de chico mota.wma
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/4-Luz do Baião.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/2-Sábio Pescador.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/7-Josué.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/1-Paisagem da Mata Norte.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/10-Cajarana.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/9-A Formiga e a Cigarra.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/6-Rei Bantu.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/12-Toada pra Biu Alexandre.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/3-Vagabundo.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/8-Trovão Azul no Frevo.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/11-Adeus Saudade.mp3
-/home/felipev/datasets/forro em vinil/Claudio Rabeca - 2009 - Luz do baião (Forró em vinil)/5-Herança.mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/05-Pra me fazer sonhar (Sávio Menezes).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/04-Mar de desejo (Zé de Alta).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/06-Poeta cantador (Lifanco).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/02-Ladeira dos Veríssimos (Zé de Alta).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/08-Chá de Costa (Zezito Doceiro).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/03-Pau de atiradeira (Papalo Monteiro).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/09-Foi a saudade que me trouxe (Sávio Menezes).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/01-Outra vez São João (Edgar Mão Branca).mp3
-/home/felipev/datasets/forro em vinil/Panticola e Casaca de Couro - 2009 - Bodoque e Baladeira (Forró em vinil)/07-Armadilha da paixão (Rangel Junior).mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/24 - Cair na brincadeira.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/21 - Cometa mambembe.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/13 - Chamego proibido.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/04 - O nenem.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/09 - Juazeiro Petrolina - Procurando tu - paixão de beata.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/16 - Ta na cara.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/03 - Homem de saia.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/15 - Lembrança de nós.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/20 - Chuva miúda.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/02 - Vem neném.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/12 - Forró desarmado - Forró pesado - Paguei pra você tocar.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/10 - Farejador de forró.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/23 - Na emenda.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/19 - No Brasil temos de tudo.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/22 - Não fale mal do meu País.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/17 - Xote das meninas.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/01 - Apresentação.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/05 - Menino de colo.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/18 - Amor não faz mal a ninguém.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/11 - Chililique.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/07 - Menina apimentada.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/08 - Sala de reboco.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/06 - Quando chega o verão.mp3
-/home/felipev/datasets/forro em vinil/Adelmario Coelho - Festival de verão Salvador 2009 (Forró em vinil)/14 - Alegria e sorriso - Retrato da Bahia.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/13 Pássaro sem asa.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/04 Caritó.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/07 Se brincar eu volto.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/09 Feito um bichinho.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/02 Forró quentão.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/12 Ao toque do amor, todos se tornam poetas.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/15 Dança, dança, Gabriela.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/05 Prá onde foi o amor.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/06 Deixe o coração falar.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/11 Você é uma mentira.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/10 Boi ronceiro.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/03 Dom de esquecer.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/08 Sina sertanerja.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/14 Minha morena.mp3
-/home/felipev/datasets/forro em vinil/Helio Donato - 2009 - Forrozando (Forró em vinil)/01 Amante ou amigo.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/05 Faixa 5.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/03 Faixa 3.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/02 Faixa 2.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/13 Faixa 13.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/10 Faixa 10.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/04 Faixa 4.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/09 Faixa 9.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/06 Faixa 6.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/01 Faixa 1.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/15 Faixa 15.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/14 Faixa 14.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/12 Faixa 12.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/11 Faixa 11.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/07 Faixa 7.mp3
-/home/felipev/datasets/forro em vinil/Correia dos oito baixos - 2009 - Esse sim, faz forró vol 2 (Forró em vinil)/08 Faixa 8.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/03 - Ceu a cantar.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/12 - Casinha branca.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/07 - Coração apaixonado.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/02 - Poeira voa.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/11 - Cochicho.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/06 - Ilusão não é amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/04 - Baião apaixonado.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/01 - Fazendo amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/08 - Tetêu no forró.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/10 - Falta de um amor.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/09 - O que tem que ser será.mp3
-/home/felipev/datasets/forro em vinil/Trio Vitalino - 2009 - Baião apaixonado (Forró em vinil)/05 - Forró do bicho.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/02 - Espinho e flor.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/04 - Bala de canhão.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/05 - A saudade.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/01 - Bom no xote.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/10 - Ninguem segura.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/11 - Me ame.mp3
-/home/felipev/datasets/forro em vinil/Tião Marcolino - 2009 - Bom no xote (Forró em vinil)/08 - Sacos de amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/04 Forró Pro Abdias Pt. I and II (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/01 Courtejando Pt. I and II (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/02 Xote (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/09 Igaracy Social Club (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/07 Forró No. 11 (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/06 Madrugadas Loisaidanias (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/05 Jampaleando Pt I and II (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/03 Maputo no Forró (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Michael LaValle - 2016 - Zabumbananas (Forró em vinil)/08 Vem Pra Rua (feat. Vitor Gonçalves and James Shipp).mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/01 Ela não te ama.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/04 Sem você não gira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/10 Á césar o que é de César.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/05 Chora Benzinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/03 Sereia do Mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/14 100% Já.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/12 De terno e sapato.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/13 Do outro lado da Vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/11 Não é fácil assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/02 Melhor São João do mundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/06 Nega dengosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/15 Ô meu são João.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/07 Pouquinho de Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/08 Convicção.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Cadu Romeiro - 2016 - Ela não Te Ama (Forró em vinil)/09 Caminho para o norte.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/04 O falso gavião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/13 No vuco vuco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/11 Forró 0800.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/01 Você me diz não.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/02 Futebol sem briga.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/08 Não sou mais roedor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/09 O bixiguento do som.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/07 Forró do Barba.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/05 Parabéns Mainha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/03 Os 2 segredos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/10 Eu ensino a dançar xote.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/12 Me dá licença.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/14 Agradecimentos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Edson Duarte - 2016 - Me dá licença (Forró em vinil)/06 Mais uma chance.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/10 Pra que beber.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/02 A voz do tempo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/16 Visita do Piauí.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/18 Show do Corinthians.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/09 Gamadim gamadim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/11 Amor mendigado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/03 Balanço bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/01 Mistura de raça.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/19 Sofrendo apaixonado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/20 fungado no cangote.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/17 Afogar a tristeza.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/04 eu gosto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/14 Fruta de forquilha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/15 Gennaro sanfoneiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/08 O progresso brasileiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/05 Sofri por te amar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/12 A poeira voa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/13 Senhor do Bomfim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/07 Forró com biriteiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Tiziu do Araripe - 2016 - Mistura de raça (Forró em vinil)/06 Forró cajú.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/11 Xaxado transcedental.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/07 Morada do coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/03 Quintal de pé de serra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/04 Loa de Lisboa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/05 Mundo nosso.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/10 Mel de rapadura.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/02 Surpresa boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/01 Horizontes.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/08 Nósnatureza.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/06 Maria Bonita.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Luso Baião - 2016 - Nósnatureza (Forró em vinil)/09 V. V..mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/16 Baião de dois.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/12 O cheiro da Carolina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/14 Coração bobo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/13 Passarinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/03 Expresso 2222.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/15 Forrobodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/11 Vou te matar de cheiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/01 Vem morena.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/06 Amor da gota.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/07 Um a um - Partida de futebol.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/08 Noda de caju.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/02 Ah se eu fosse dois.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/17 Cometa mambembe.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/18 Je suis brasileiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/10 A praiera - Maracatú atômico.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/04 Lindo lago do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/09 Paixão errada - Destá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Os Gonzagas - 2016 - Os Gonzagas (Forró em vinil)/05 Eu só quero um xodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/12 Polka das areias.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/06 Xaxado Bossa Nova.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/07 Dá liceça, jovens.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/02 Xaxado pra Jamaica.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/11 Pra que fogueira - Saudade da Maria - Fogueirinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/08 Xaxado em São Francisco.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/09 Caatinga Branca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/01 Os dois doidos de pedra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/10 Norte dance.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/03 Bom demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/04 Xaxado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Assisão - 2016 - Os dois doidos de pedra (Forró em vinil)/05 Forró no Sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2016] - Conterrâneos - 2016 - Conterrâneos (Forró em vinil)/07 O ciúme.mp3

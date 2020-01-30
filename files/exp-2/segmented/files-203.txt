@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/10 Carolina.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/08  Na paz no teu amor.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/03 O pão.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/04 Com você na cabeça.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/07 Pra que chorar.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/11 Saudade matadeira.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/01 Correndo atraz de mim.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/05 Vamos lá pra ver.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/06 Gosto do baton.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1996 - Com você na cabeça (Forró em vinil)/09 Liga pra mim.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/02 fogo na paia.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/13 terra da procissão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/10 recife minha paixão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/05 pé de poeira.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/08 maravilhoso são joão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/01 ô xará.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/12 eu chego cedo.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/03 numa sala de reboco-quando chega o verão-eu só quero um xodó.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/07 tô sozinho.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/11 você é ouro.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/09 coisa muito fina.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/06 corre pelo coração.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Pé de poeira (forro em vinil)/04 canto nordestino.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/06 Amor de Madalena.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/08 Fonte de luz.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/05 A beleza da flor.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/02 o mundo encantado do forró.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/09 Forrozando em Caruaru.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/04 Em nome do sol.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/01 A força que o forró tem.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/03 So mulher é que faz o homem sofrer.mp3
-/home/felipev/datasets/forro em vinil/Jacinto Silva - 1996 - Caruaru capital do forró (Forró em vinil)/07 Sabor de hortela.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/01 Tem Gente.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/18 Fã de Eliane.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/02 Planeta Bola de Sabão.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/15 Cavalo Peado Também Come.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/12 Coração Solitário.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/11 Forró do Bráulio Pinto.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/17 Bloco Amor Que Fica.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/08 Perdão e Paixão.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/10 Tão Especial.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/13 Fruta Madura.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/09 Fim do Mundo.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/04 Moreno.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/16 Nem Teve Dó.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/07 Agarradinho No Forró.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/05 É o Amor.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/03 Festa de Baião.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/14 Me Dá Teu Amor.mp3
-/home/felipev/datasets/forro em vinil/Banda Aquárius - 1996 - Tem Gente (Forró em vinil)/06 Deixe a Poeira Subir.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/01 Convite aos forrozeiros.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/03 Saudades de outrora.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/08 Apêlo a sociedade.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/06 Você vai tocar.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/10 Deus me de força.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/05 Na noite de São João.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/07 Ajude o nordeste.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/02 Acordar cedinho.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/04 Lembrança do Sena.mp3
-/home/felipev/datasets/forro em vinil/Os Amantes do Forró - 1996 - Apêlo a sociedade (Forró em vinil)/09 A procura de uma flor.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/11 O Recado.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/12 Paisagem De Interior.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/01 Nos Tempos De Menino.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/08 Toda Liberdade.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/09 Nas Entranhas Da Saudade.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/03 Que Nem Pandeiro.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/05 O Velho Arvoredo.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/06 Toque _Sanfonerim_.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/02 Pra Ninar Meu Coração.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/13 O Bailado Dos Olhos.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/04 Janelas.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/10 Sanfoneiro Bom.mp3
-/home/felipev/datasets/forro em vinil/Maciel Melo - 1996 - Janelas (Forró em vinil)/07 Forró _Z_.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/01 Xodó Safadinho.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/04 Na Chama dos Seus Olhos.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/13 Forró do Chamegar.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/06 Brilho da Lua.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/12 Quem é Ele.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/09 Fogo do Prazer.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/19 Fogo No Forró.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/08 Quem Gosta de Você Sou Eu.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/17 Na Pisada do Forró.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/22 Desejo Maluquinho.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/07 Viciado Em Forró.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/05 Fogo Doido.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/14 Amor Ou Paixão.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/15 Aqui Tem Arrocho.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/18 Luar do Sertão.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/16 Poucas Palavras.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/20 Estrela Guia.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/10 O Amor Quando Pinta Não Brinca.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/21 Na Cacimba do Amor.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/03 Festa de Primeira.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/11 Traz o Côco.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1996 - Dose Dupla (Forró em vinil)/02 O Menino Que Me Deu Mole.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1996 - Não é proibido (Forró em vinil)/11 - Não sei quem foi.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1996 - Não é proibido (Forró em vinil)/05 - Na Casa do velho Dão.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1996 - Não é proibido (Forró em vinil)/02 - Nem tudo brilha.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1996 - Não é proibido (Forró em vinil)/09 - Não é proibido.mp3
-/home/felipev/datasets/forro em vinil/Zé Duarte - 1996 - Não é proibido (Forró em vinil)/04 - Bat.cum.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - João Claudio - 2002 - Com Deus e com o Povo (Forró em vinil)/08 Réquiem prá Gonzagão.wma
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/20 - Pagando pra ver.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/09 - Mexendo com os Dedos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/05 - Forrozão 2002.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/24 - Capricho do Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/17 - Forró do bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/11 - Forró em Aracaju.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/13 - Sanfona ingrata.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/10 - Elísio no Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/22 - Porto da Folha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/08 - Segure a Saia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/15 - Homenágem a Deneval.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/16 - Forró em Porto da Folha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/14 - Forró em Castro Alves.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/04 - Temperou o Fole.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/19 - Sangue de Nordestino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/03 - Forró no Maiador.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/02 - Recordando alguém.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/21 - Só depende de você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/18 - Forró pesado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/12 - Forró triunfo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/01 - Comigo é assim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/23 - Vida da minha Vida.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/07 - Forró do Taiobinha em Sergipe.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tranquilo dos 8 Baixos - 2002 - Forrozão 2002 (Forró em vinil)/06 - Banquinho no Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/11 A Separação.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/06 Fartura de Beijo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/04 Juazeiro - Petrolina - Procurando tu - Neném mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/10 Chamego Proibido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/02 MENINO DE COLO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/05 Amor Não Faz Mal a Ninguém.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/13 A Capital do Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/15 É Madrugada.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/07 Ela Beliscando Ele.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/12 Tá com raiva de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/01 Apresentação.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/17 Pot-pourri Brincadeira na Fogueira, Vamos Farrear, Na Emenda, Cintura de Abelha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/09 Forró desarmado-Forró pesado-Paguei pra você tocar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/16 Cair na Brincadeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/14 Forró dos Namorados.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/03 O Neném.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Adelmário Coelho - 2002 - Visita ao Trio Nordestino 1 (Forró em vinil)/08 Chililique.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/10 - Olhos de Miel.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/01 - Ataiô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/09 - Cala a Boca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/06 - Aquele Verão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/04 - Novo Dia.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/02 - Versos Sinceros.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/14 - Fazendo Amor-Forró Metaleiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/07 - Forró Drenado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/11 - Pedra Rachada-Forro Brasileiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/13 - Riso Cristalino-Eu Me Lembro (Xote)-Pode Morrer Nessa Janela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/08 - Segredo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/12 - Na Saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/03 - Bicho Do Mato.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Rastapé - 2002 - Até o dia clarear (Forró em vinil)/05 - Balanço Do Mar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/10. Vamos ralar (Miraldo Aragão).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/12. Forró elegante (Tonia Santos - Luiz Nunes).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/09. É saudade demais (João Silva).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/03. Foi bom lhe conhecer (João Silva).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/01. Forró de Campinas (Aluizio Cruz).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/04. Pitada de amor (Zinho - Aluizio Cruz).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/05. Cheiro de fulô (Enok Virgulino).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/07. Autêntico Pé-de-bode (Tio Joca).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/02. Sem teu amor não dá (Aluizio Cruz).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/08. Vou te conquistar (Henauro do Acordeon).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/14. Forró pra João Felipe (Tio Joca).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/11. Cuida de mim (Jeffinho - Tio Joca).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/13. Porque (Antonio José).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Trio Sabiá - 2002 - Tome safadeza (Forró em vinil)/06. Amor gostoso (Anuncio no jornal) (Antonio José).mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/04 Ainda Queima.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/08 Se Casamento Prestasse.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/13 Galiléia Nordestina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/03 Estalo De Fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/05 Lugar Que Tem Amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/10 São João Menino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/07 Fingindo Que Não Tá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/11 Xote Do Apagão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/01 Chiou Chinela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/12 Meu Coração Bate Zabumba.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/02 Toca Pra Nós Dois.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/09 Sertão De Curaça.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Targino Gondim -  2002 - Toca Pra Nós Dois (Forró em vinil)/06 Vou Vaquejar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Na sombra do juazeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Maluco por Sivuca.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/O neném.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Doido coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Chamego proibido.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Cidadão comum.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Panorama.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Forró funfá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Fina fulô.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/É só você querer.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Cabeça feita.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Anjo querubim.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Tony Dumond - 2002- Zabumbada (Forró em vinil)/Alegria de pé-de-serra.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Jorge Mauro - 2002 - Tempos de criança (Forró em vinil)/11. Só falta você voltar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Jorge Mauro - 2002 - Tempos de criança (Forró em vinil)/03. Saudade da boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Jorge Mauro - 2002 - Tempos de criança (Forró em vinil)/08. A dor de uma paixão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Jorge Mauro - 2002 - Tempos de criança (Forró em vinil)/04. Filho do dono.mp3

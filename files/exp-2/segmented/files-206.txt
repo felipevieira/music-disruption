@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Mastruz com Leite - 1996 - Vol. 10 - Em todo canto do Mundo tem cearense  (Forró em vinil)/04 - Tchau paixão.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/06 Coração navegador.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/04 Amor e carinho.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/10 Homenagem a Elias Lourenço.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/03 Te dou meu coração.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/09 Forró de cabra macho.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/05 Foró gostoso.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/08 Navegar na tua praia.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/02 Forró no palhoção.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/07 Quero te fazer carinho.mp3
-/home/felipev/datasets/forro em vinil/Duda Da Passira - 1996 - Como Um Dia Te Amei (Forró em vinil)/01 Como um dia te amei.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/13 Pra dançar com meu amor.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/02 Tou mal de vida.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/11 Festa do vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/03 Além da feira.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/15 Bahia com H e tudo.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/06 Riacho Dourado.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/04 Ninguém segura o nosso amor.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/10 Não preciso de você.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/01 Saudade d'ocê.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/07 Saudade.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/14 Moça menina.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/08 A maior festa do ano.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/12 Terra boa.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/09 Forró do amor.mp3
-/home/felipev/datasets/forro em vinil/Mestre Zinho - 1996 - Jóia rara (Forró em vinil)/05 João Matuto.mp3
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/06 Queimando Coisa.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/09 Ouro Branco.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/13 Amor da Minha Vida.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/12 Sertão de Curaça.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/10 Estalo da Fogueira.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/04 Sorriso Prateado.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/11 Forro do Vaqueiro.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/02 Vida de Vaqueiro.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/03 Meu São Joâo (Um retrato de Gonzagão).wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/07 Te Quero Demais.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/14 Até Mais Vê.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/05 Cidadão Comum.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/01 Izadorim.wma
-/home/felipev/datasets/forro em vinil/Targino Gondim - 1996 - Ouro branco (Forró em vinil)/08 Balanço do Coqueiro.wma
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/23 - Não sai de perto de mim.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/22 - Oito Baixos.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/15 - Teu carinho.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/18 - Duvide-o-dó.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/11 - A Moça do Metrô.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/12 - É tradição.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/20 - O nó.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/03 - Eu sou do Mundo.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/02 - Esse Brasil é meu.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/01 - Tô berando.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/24 - Nem Santo nem Ouro.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/07 - Quem foi que viu.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/19 - O Pavio e o Lampião.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/10 - Brincadeiras de Rua.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/16 - Firim fim fom do Fole.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/05 - Forrozeiro apaixonado.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/25 - Vamos viver.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/14 - No bem bom.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/06 - Nem me deu Bola.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/13 - Tenho sede.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/08 - Forró reveillon.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/09 - Casa, comida e paixão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/21 - Ainda acho pouco.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/04 - Um minito é muito tempo.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1996 - Dose dupla (Forró em vinil)/17 - Como eu sou.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/01 Eu Sou Humana.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/09 Filha do Sol.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/04 Valeu a Vaca.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/13 Feito Um Beija-Flor.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/02 Pau de Dá Em Doido.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/15 As Flores do Sertão.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/14 Minha Solidão.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/12 Falta de Você.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/06 Amor à Primeira Vista.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/05 Fugindo de Mim.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/03 Coração Sem Juízo.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/10 Andorinha e Gavião.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/11 Você é Tudo.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/08 Arrochar o Nó.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/07 Coisa de Sua Cabeça.mp3
-/home/felipev/datasets/forro em vinil/Capital do Sol - 1996 - Valeu a Vaca (Forró em vinil)/16 Você Me Faz Feliz.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/15 Vida de Caboclo.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/12 Tenda.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/08 Bem Querer.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/03 Sonho Lindo.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/02 Delírio de Amor.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/13 Juro Que Te Quero.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/06 Alguém.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/09 Dois Amores.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/07 Desejo.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/11 Pra Sempre Te Amar.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/05 Viver Uma Paixão.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/14 Brilho do Luar.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/04 Meu Tesão é Você.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/01 Verdadeiro Amor.mp3
-/home/felipev/datasets/forro em vinil/Magníficos - 1996 - Meu Tesão é Você (Forró em vinil)/10 Vá Embora.mp3
-/home/felipev/datasets/forro em vinil/João Sá - 1996 - Minha Estrada (Forró em vinil)/01 Faixa 1 - Eterna Namorada.mp3
-/home/felipev/datasets/forro em vinil/João Sá - 1996 - Minha Estrada (Forró em vinil)/06 Faixa 6 - Contando Estrelas.mp3
-/home/felipev/datasets/forro em vinil/João Sá - 1996 - Minha Estrada (Forró em vinil)/12 Faixa 12 - Meu Erro.mp3
-/home/felipev/datasets/forro em vinil/João Sá - 1996 - Minha Estrada (Forró em vinil)/08 Faixa 8 - Minha Menina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Baião de Quatro - 2002 - Onde a Onça Bebe Agua (Forró em vinil)/06 Bouquet.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Baião de Quatro - 2002 - Onde a Onça Bebe Agua (Forró em vinil)/13 Meu Dengo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Retinas.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Sanfoneiro bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Estradar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Estiagem.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Amor pra delirar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Sapecando o coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Curandeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Cara e coroa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Cativante.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Recado ao rei.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Tudo eu e você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Brasilidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Distante.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Mazinho de Arcoverde - 2002 - A todo vapor (Forró em vinil)/Caminhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/11 Pontal.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/02 Forró Esferográfico.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/06 Música Nova.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/08 Parapoderembolar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/04 Muganzé.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/01 Loa de Chegança.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/05 Ciência Nordestina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/10 Bagacera.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/12 Nada Para O Pedro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/07 Galopeando.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/03 Cangaço.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cabruêra - 2002 - Cabruêra (Forró em vinil)/09 Certo Sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/06. Wanda.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/04. Conversa De Barbeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/05. Macapá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/11. Linda Brejeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/10. Casamento Atrapaiado.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/15. Madrileña.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/01. Assum Preto.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/21. Coração De Mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/20. Acácia Amarela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/02. Paulo Afonso.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/08. Boiadeiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/09. Luar Do Nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/19. Braia Dengosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/17. Testamento De Caboclo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/03. Destino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/14. Vassouras.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/12. Zinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/16. Chofer De Praça.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/13. Pau-De-Sebo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/07. Gibão De Couro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Luiz Gonzaga - 2002 - Testamento de Caboclo (Forró em vinil)/18. Caprichos Do Destino.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/10 - Vem peneirar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/12 - Bom forró - Lavadeira do rio.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/01 - Abertura.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/09 - Amor de sexta-feira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/07 - Ciúme cego.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/03 - Olhos d'água.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/02 - Forró em Petrolina.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/08 - Forró no barro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/05 - Dom de tocar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/11 - Pot-pourri Jackson do Pandeiro - Canoeiro - Sina de cigarra - Minha Zabelê - Boi manhoso.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/04 - Forró das comadres.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho do Acordeon - 2002 - Um bom forró (Forró em vinil)/06 - Raggae bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/14 - Fama de valente.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/7 - AMOR NO CORAÇÃO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/2 - NAÇÃO DOS CARIRIS.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/12 - Quero ver você voltar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/5 - GRANJEIRO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/6 - VELHO NOVO EXU.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/10 - BENZINHO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/8 - INGRATIDÃO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/01 Chiquinha_Gonzaga_-_Pronde_tu_vai_Luiz.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/11 - Tirar da Solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/13 - No balançar.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/9 - SÁ MARIQUINHA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/3 - VAMOS EMBORA.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Chiquinha Gonzaga - 2002 - Pronde tu vai, Luiz (Forró em vinil)/4 - VAI SER DE LASCAR O CANO.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/02 - Asa Branca Blues.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/11 - Forró do Pedro.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/06 - Qui nem Jiló.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/04 - Apanhei-te  mini-mog.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/08 - Decolagem pro Sertão de Nova York.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/07 - Um Frevinho para você.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/09 - De Coração pra Coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/01 - Hipnose.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/10 - Ela.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/03 - Free Step.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Oswaldinho - 2002 - Asa branca Blues (Forró em vinil)/05 - Baião.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/05 Intrevero na Casa de Nicolá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/15 Hino ao Marujá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/10 O Canto do Sabiá.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/02 Vida sem Dor.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/11 Terra de Ninguém.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/13 Xaximbo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/04 Mangabeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/03 Gato Gordo.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/01 Prá que Mudar-.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/06 Bonito de Santa Fé.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/08 Amarelo que Brilha.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/09 Verdes Mares.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/07 Vento dos Sonhos.mp3
+/home/felipev/datasets/forro em vinil resampled/[2002] - Cataia - 2002 - Nesta Terra de Ninguém (Forró em vinil)/14 Sunumberimbá (Kamberimbá).mp3

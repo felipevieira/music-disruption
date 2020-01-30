@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/1990 - Alcymar Monteiro - Forró brasileiro (Forró em vinil)/03 Cara metade.mp3
-/home/felipev/datasets/forro em vinil/1990 - Alcymar Monteiro - Forró brasileiro (Forró em vinil)/12 Saideira.mp3
-/home/felipev/datasets/forro em vinil/1990 - Alcymar Monteiro - Forró brasileiro (Forró em vinil)/11 Sabor de limão.mp3
-/home/felipev/datasets/forro em vinil/1990 - Alcymar Monteiro - Forró brasileiro (Forró em vinil)/04 Dito por não dito.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/03 OS 3 DO NORDESTE - SONHOS ALADOS.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/06 OS 3 DO NORDESTE - MEXE MEXE.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/10 OS 3 DO NORDESTE - BAIÃO DE LUTO.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/07 OS 3 DO NORDESTE - ATÉ TE ENCONTRAR.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/09 OS 3 DO NORDESTE - SEGURA SEGURA.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/08 OS 3 DO NORDESTE - TUDO PRA TE DAR.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/02 OS 3 DO NORDESTE - NO CLIMA DO FORRÓ.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/05 OS 3 DO NORDESTE - PIRIRI PIRIRI.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/01 OS 3 DO NORDESTE - POUT-POURRI - TÁ TÁ - Recado a são joão - Fazenda nova - vou botar outra em seu lugar.mp3
-/home/felipev/datasets/forro em vinil/Os 3 do nordeste - 1990 - No clima do forró (Forró em vinil)/04 OS 3 DO NORDESTE - O TROCO.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/06 Eu quero lambadear.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/08 Menina brejeira.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/01 Festança computada.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/03 Com você eu vou brincar.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/05 Fuzuê.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/02 Remexendo pra danar.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/07 Ilusão do teu amor.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/09 Chamego gostoso.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/04 Xote paixão.mp3
-/home/felipev/datasets/forro em vinil/Grupo Coração do Brasil - 1990 - Festança computada  (Forró em vinil)/10 Jovens ligados.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/06 Tango de Nancy.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/12 Marim dos Caetés.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/08 Ouro Puro.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/07 Las Muchachas de Copacabana.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/09 Doida - Ve Estrelas.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/05 Miss Celie´s Blues.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/13 Popular Brasileira.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/10 Veja Margarida.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/14 Nordeste Independente - Asa Branca.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/11 Beatriz.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/02 Pau-de-Arara.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/01 Feitiço da Gafeira - Banquete dos Signos - Jogo de Cintura - Brasil - Feitiço da Gafieira.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/04 Imaculada.mp3
-/home/felipev/datasets/forro em vinil/Elba Ramalho - 1990 - Ao Vivo (Forró em vinil)/03 Filho das Indias - A Volta dos Trovões - Um Indio (texto).mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/05 Ingratidão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/07 Pra lá de bom.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/03 Gonzaga coração.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/01 Todo ano.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/09 Vários caminhos.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/11 Um aperto de mão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/10 Fuga pro nordeste.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/12 A verdade dói.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/04 Chorinho pra ele.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/02 Ilusão.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/06 Não faz assim.mp3
-/home/felipev/datasets/forro em vinil/Dominguinhos - 1990 - Aqui tá ficando bom (Forró em vinil)/08 Retrato redondinho.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/10-Chega de mansinho.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/01-Jeito manhoso.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/11-Rosa cristalina.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/12-Mistura.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/05-Nao adianta.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/09-Louca de amor.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/06-Vem pra mim.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/04-Meu doce.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/07-Emocao e desejo.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/03-Beijo na boca.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/02-E so voce.mp3
-/home/felipev/datasets/forro em vinil/Eliane - 1990 - Jeito Manhoso (Forró em vinil)/08-Agua no meu fogo.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/03 A vida de um açougueiro.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/07 Passarinho vermelho.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/08 O Peru.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/02 Melo da feira.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/01 Bilhete pra comadre Dinha.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/09 Miau miau.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/10 Rosa da praia.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/06 A cobra.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/04 Os bichos da fazenda.mp3
-/home/felipev/datasets/forro em vinil/Coletânea - 1990 - Forró Safado vol.2 (Forró em vinil)/05 Criação de crustáceos.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/10 - Gôsto Diferente.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/01 - Coitadinha da Tonheta.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/09 - O Computador.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/02 - Não tem Mutreta.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/08 - Ela é um Xuxu.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/03 - É mais Embaixo.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/07 - Êle Furou minhas Botas.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/06 - Amor com Lambada.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/11 - Um Passeio com meu Bem.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/12 - Êle diz que é Valente.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/04 - Funga no Cangote dele.mp3
-/home/felipev/datasets/forro em vinil/Clemilda - 1990 - Coitadinha da Tonheta (Forró em vinil)/05 - Lambada da Raposa.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/02 Chorar pra que.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/04 Sede de amor.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/05 Vendinha da feira - Crista quebrada - Ou da ou desce - O veio e a veia - Tempo de caju.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/09 Chiquita bonita.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/01 Buzunta buzunta.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/08 Paixão lelé.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/07 Amando ao luar.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/10 Ilha do amor.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/03 Forengue.mp3
-/home/felipev/datasets/forro em vinil/Assisão - 1990 - Mistura gostosa (Forró em vinil)/06 Sete sentidos.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/02 - Encontro.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/04 - O sem Vergonha.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/12 - Prenda minha.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/10 - Segura essa.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/09 - Merceditas.mp3
-/home/felipev/datasets/forro em vinil/Renato Borghetti - 1990 - O melhor de Renato Borghetti (Forró em vinil)/11 - Vanerão Gaúcho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Fúba do Pandeiro - 1995 - Revivendo Jackson do Pandeiro (Forró em vinil)/04 Fubá do Pandeiro - Forró de Surubim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Fúba do Pandeiro - 1995 - Revivendo Jackson do Pandeiro (Forró em vinil)/05 Fubá do Pandeiro - Um a Um.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Fúba do Pandeiro - 1995 - Revivendo Jackson do Pandeiro (Forró em vinil)/09 Fubá do Pandeiro - Morena Bela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/08 - Nega bonitinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/10 - A Aranha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/01 - Moça esperta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/09 - Peito de Franga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/04 - Tem Capim novo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/02 - Tamanho não é documento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/05 - Não fui eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/06 - É bom até sem açucar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/03 - Diga o Nome dela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/11 - Aracaju o melhor Forró do Mundo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/07 - Gostoso demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zé Duarte - 1995 - Gostoso demais (Forró em vinil)/12 - Mulher preguiçosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/05 Não quero errar o caminho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/04 Chamegando no forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/08 Essa noite é nossa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/01 Sou tudo no sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/10 Calix Bento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/09 Sertão verde.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/02 Viciado em você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/03 Menina da capoeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/07 Pai joão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Zezinho do Acordeon - 1995 - Não quero errar o caminho (Forró em vinil)/06 Nordeste sofrido.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/14 - Trilha 14.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/04 - Trilha 4.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/06 - Trilha 6.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/12 - Trilha 12.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/03 - Trilha 3.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/10 - Trilha 10.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/02 - Trilha 2.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/09 - Trilha 9.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/05 - Trilha 5.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/07 - Trilha 7.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/01 - Trilha 1.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/08 - Trilha 8.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/11 - Trilha 11.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Anastácia - 1995 - Coração de mulher/13 - O sucesso da Zefinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/07 Ao mestre Zé Calixto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/04 Retrato do meu nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/10 Trazendo alegria.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/01 Não tenho culpa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/09 Lencinho branco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/05 Carupina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/02 Meu desejo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/03 Minha metade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/06 Sem ter você aqui.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Severo Gomes - 1995  - Trazendo alegria (Forró em vinil)/08 És tudo para mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/07 Vem cair na folia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/05 Toque de oito baixos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/06 Nosso amor está em guerra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/09 Vamos vadiar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/04 Vou te matar de cheiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/01 Sanfonicamente tocado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/03 Retrato do nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/02 Aparências.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/08 O segredo da mulher.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Joquinha Gonzaga - 1995 - Raiz e tradição (Forró em vinil)/10 São João da minha terra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/15 Vamos viver.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/08 O pavio e o lampião.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/07 Duvide-o-dó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/13 Nem santo, nem ouro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/11 Oito baixos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/14 Princesinha do choro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/10 Ainda acho pouco.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/09 O nó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/06 Como eu sou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/05 Firim fim fom do fole.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/04 Teu carinho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/01 É tradição.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/02 Tenho sede.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/03 No bem bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dominguinhos - 1995 - É tradição (Forró em vinil)/12 Não sai de perto de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/05. Forró no Chamegão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/10. Solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/08. O que é o que é.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/02. Tou ficando velho.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/09. Nada fez por mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/04. Coisa do coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/01. Caboclo sofredor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/07. Pé no chão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/03. Ficar com você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Dejinha de Monteiro - 1995 - Coisa do coração (Forró em vinil)/06. Pedindo carona.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/09 Pobre carteiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/05 Amor demais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/07 daquele amor só restou saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/03 Te amo de todo jeito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/08 A minha primeira namorada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/10 Na estação do metro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/06 Meu cachorro latiu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/01 São João de outrora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/02 E se amar é tão bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Sebastião do Rojão - 1995 - Aqui de novo (Forró em vinil)/04 Morena bela.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/01 Telefonista.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/09 Peleja de Viola.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/06 O Troco do Coroné.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/07 Nós Vamos Se Virando.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/02 Coisa Boa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1995] - Coroné Grilo e Roberto Moraes - 1995 - Telefonista (Forró em vinil)/08 Forró Em Jacaraú.mp3

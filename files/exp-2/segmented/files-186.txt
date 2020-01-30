@@ -1,100 +1,100 @@
-/home/felipev/datasets/forro em vinil/Coletânea - 1993 - Isto que é forró (Forró em vinil)/07 eu sou eu.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/10 Brincadeira de criança.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/09 O povo fala de mim.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/01 Outro alguém.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/06 Ha muito tempo que e não tenho amor.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/04 Cheiro de mulher bonita.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/03 Se você pensasse em mim.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/02 Grande sanfoneiro.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/07 Bem pra longe de você.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/05 Como eu te amo.mp3
-/home/felipev/datasets/forro em vinil/Dejinha de Monteiro - 1993 - Cheiro de mulher bonita (Forró em vinil)/08 Me deixa entrar no teu mundo.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/1- Piriri Quero cha olha pro céu sao joao do arraia.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/3- Quando a gente ama.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/7- Quando penso nela.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/8- Lavadeira do norte.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/6- Doidim por Você.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/4- Vamos Chamegar.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/2- Tacacá.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/10- Nosso amor esta em guerra.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/5- Espelhos das aguas do itamaragy.mp3
-/home/felipev/datasets/forro em vinil/Joquinha Gonzaga - 1993 - Sobrinho de Gonzagão neto de Januario (Forró em vinil)/9- Deixa quem quiser falar.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/06 - Forrozão Do João Bandeira.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/10 - Segura o Dedo.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/07 - Chamego De Umbigo.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/01 - Paixão De Vaqueiro.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/09 - Chamego Dos Forrozeiros.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/03 - Morena Linda.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/05 - Mexendo Com o Forrozeiro.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/04 - Arrasta Pé No Terreiro.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/08 - Forró Na Lata.mp3
-/home/felipev/datasets/forro em vinil/João Bandeira - 1993 - Quero ficar com você (Forró em vinil)/02 - Quero Ficar Com Você.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/08. Caminhando lado a lado.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/09. A flor do manacá.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/02. Como é bom lembrar.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/04. Toque sanfoneiro.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/07. Barraco da favela.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/01. Juro eu queria.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/05. Paixão danada.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/06. Forró latino.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/03. Minha viola.mp3
-/home/felipev/datasets/forro em vinil/Pajeú - 1993 - Forró latino (Forró em vinil)/10. Festa de padroeira.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/06 Padre Zuzinha.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/02 Forró do Compadre Roque.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/03 Homenagem à Rainha.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/10 Súplica nordestina.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/01 Flora do meu torrão.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/09 Pulando pra valer.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/05 Sonho e realidade.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/08 Esperando por voce.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/07 Sanfoneiro alegria do povo.mp3
-/home/felipev/datasets/forro em vinil/J. Sobrinho - 1993 - Resgate nordestino (Forró em vinil)/04 Mania de grandeza.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/12. Cor De Gasolina.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/11. Andar, Andei.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/09. Cajueiro Velho.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/10. Virou, Virou.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/08. Nó Cego.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/07. Nessa Solidão.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/02. Brinquedo Qualquer.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/06. Cantiga De Pai.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/05. Estou Chegando Pra Ficar.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/03. Nas Asas Do Destino.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/04. Contra A Corrente.mp3
-/home/felipev/datasets/forro em vinil/Jorge de Altinho - 1993 - Nas asas do destino (Forró em vinil)/01. Flecha, Flechou.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/01. Fogo e folia.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/07. Balão no ar.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/06. Ardente paixão.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/05. Clima de vaquejada.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/08. Princesa.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/09. Estação ferroviária.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/04. Tá bom demais.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/03. Doce sonho.mp3
-/home/felipev/datasets/forro em vinil/Duda Barbosa - 1993 - Ardente paixão (Forró em vinil)/02. Amor arrasador.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/7-QUANDO RONCA O FOLE.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/4-O COURO TÁ COMENDO.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/13-AS NOITES DE SÃO JOÃO.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/3-SOU PEQUENA MAS NÃO SOU PEDAÇO.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/8-O NOSSO AMOR ACABOU.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/1-FAZ PARTE DO AMOR.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/9-O CIO DA MARIANA.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/12-GALOPE DA SAUDADE.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/11-VOU VOLTAR PRO JUAZEIRO.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/5-SANFONA SENTIDA.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/2-TEU DESTINO TÁ TRAÇADO.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/6-O AMOR DE ZABELÊ.mp3
-/home/felipev/datasets/forro em vinil/Anastácia - 1993 - Faz parte do amor (Forró em vinil)/10-COBRA CORAL.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/04 Forró do Sibiu.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/06 fico todo assanhadinho.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/03 Forró classe A.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/07 Despertar do amor.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/08 Amor fogoso.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/05 Sinfonia n40 em sol menor.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/02 Redução.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/01 Amor a primeira vista.mp3
-/home/felipev/datasets/forro em vinil/Gilvan Neves - 1993 - Forró classe A (Forró em vinil)/09 Forró do seu Inácio.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/06 Zé da conexão.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/08 Vamos mudar.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/04 Cavalheiro nordestino.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/10 Aboio do Zé.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/11 Sextilhas ao amigo Zé.mp3
-/home/felipev/datasets/forro em vinil/1993 - Coletânea - José de Abreu - Coração nordestino (Forró em vinil)/07 Amor ao nordeste.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/09 - Bonita e safada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/10 - Amor, Carinho e Xodó.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/05 - Espelho (Maria Pororoca).mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/12 - Os Craques da Política.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/11 - Para o Ano tem de novo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/07 - Tome Xote.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/03 - O chupa Cabra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/02 - Thaí (Pra voce gostar de min).mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/04 - Aqui não tem pra ninguém.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Zé Duarte - 1998 - Vamos nhanhá (Forró em vinil)/08 - Tudo isso só tem na Bahia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/05 No piado do forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/08 O Chineleiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/07 Rosa.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/03 Milonga para as missões.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/11 A Lambada dos meninos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/06 Amolecendo do dedos.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/09 Um tema pro Ceará.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/04 Sonho e saudade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/01 Toque ai um vaneirão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/10 Forró no alto.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Chuvisco do Acordeon - 1998 - Chuvisquinho (Forró em vinil)/02 Brincando na ribeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/11 - Estrela cadente.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/15 - É bom arrasta-pé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/05 - Louca por Você.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/10 - Arraiá da capitá.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/16 - São Francisco nosso irmão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/09 - Simples amizade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/14 - Lembranças do Sertão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/06 - Aconchego do amor.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/12 - Forró xamego.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/18 - Pra gente voltar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/19 - Querida mãe.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/04 - Conto de Fadas.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/20 - Cheiro de Gol.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/01 - Tatuagem.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/08 - Onde foi que eu errei.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/07 - Identidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/02 - Um tempo pra nós dois.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/03 - Palavras do Coração.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Mastruz com Leite - 1998 - Vol. 16 - Tatuagem (Forró em vinil)/13 - Tem algo errado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/03 - O Dono Dela Sou Eu.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/14 - Sorrindo Voce Negou.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/08 - O Bicho Bom.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/09 - O Cheiro da Paixao.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/06 - Beijei a Tua Boca.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/07 - Festa Animada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/10 - Lindo Sertao.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/02 - Terra da Felicidade.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/11 - Pra Tudo Precisa Peito.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/04 - Bom Que Chega Doi.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/12 - Mulher Bonita.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/16 - Os Causos do Seu Lunga.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/13 - Natureza Professora.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/05 - Forro do Ferro Eletrico.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/18 - O Filho da Excelencia.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/17 - Me Responda Cantador.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/15 - Paraibana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Amazan - 1998 - De olho na calcinha (Forró em vinil)/01 - De olho na Calcinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/02 meu cenário.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/05 gavião peneira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/01 forró miúdo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/09 sina de cantador.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/07 os olhos da esperança.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/10 cores e tons.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/06 a lavadeira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/11 um veio d água.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/04 caia por cima de mim.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/03 quando vejo minha amada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Maciel Melo - 1998 - Sina de cantador (Forró em vinil)/08 sonho chorado.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/08.Eu Sou O Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/06.Tonha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/01.A Poeira E A Estrada.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/09.Casa Velha De Sapé.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/07.Paixão Escondida.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/02.Já Não Conserto Mais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/04.Vendavais.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/10.Incerteza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/11.Queima Fogueira.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/12.Seu Dé No Forró.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/05.Novilha Rainha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Flávio José - 1998 - A Poeira e a Estrada (Forró em vinil)/03.Canana.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/11 - Beijo de moça (com Glaucio Costa).mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/01 - Refém do enredo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/05 - 'Sa menina.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/08 - Das coisas da minha terra.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/06 - Maragogi.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/03 - Você não presta.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/04 - Chio do chão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/09 - Bem viver.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/02 - Cada vez mais o mesmo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/07 - D'estar.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/12 - Quem dera que sêsse.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Eliezer Setton - 1998 - Das Coisas da Minha Terra (Forró em vinil)/10 - Meu melhor momento.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/03 Cartão vermelho pra solidão.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/10 A vez da loirinha.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/12 Mulher sem fogo.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/08 Canta Fortaleza.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/06 Não quero morrer solteiro.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/05 Bicho do mangue.mp3
+/home/felipev/datasets/forro em vinil resampled/[1998] - Edson Duarte e Banda Sol & Mar - 1998 (Forró em vinil)/07 Doeu.mp3
