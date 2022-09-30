@@ -3,7 +3,7 @@ backports.functools-lru-cache==1.5
 cycler==0.10.0
 decorator==4.4.0
 h5py==2.9.0
-joblib==0.11
+joblib==1.2.0
 kapre==0.0.3
 Keras==1.2.2
 kiwisolver==1.1.0
